@@ -1,3 +1,0 @@
-# 01_MATLAB_Introduction
-
-Coming soon...
