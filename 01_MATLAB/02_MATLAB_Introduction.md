@@ -32,14 +32,14 @@ MATLAB has a tabbed toolbar interface and four main windows:
 
 MATLAB has many built in features and functions, so it is important to know how to access documentation and help from within MATLAB. You can access the documentation reference pages directly from the MATLAB toolbar or from the Command Window using `doc`:
 
-```matlab
+```Matlab
 
 >> doc
 
 ```
 The doc function will open the MATLAB documentation in a new window browser. You can search the documentation with the `docsearch` function from the Command Window, for example, if we wanted to find all documentation pages mentioning `histogram`:
 
-```matlab
+```Matlab
 
 >> docsearh histogram
 
@@ -47,7 +47,7 @@ The doc function will open the MATLAB documentation in a new window browser. You
 
 MATLAB also contains help entries for functions and these can be viewed with `help`. For example, if we wanted to view help for the `mean` function:
 
-```matlab
+```Matlab
 
 >> help mean
  mean   Average or mean value.
@@ -61,7 +61,7 @@ MATLAB also contains help entries for functions and these can be viewed with `he
 
 Finally, we can search the help entries with `lookfor`. Below, we find all functions containing the word `plot`:
 
-```matlab
+```Matlab
 
 >> lookfor plot
 cellplot                       - Display graphical depiction of cell array.
@@ -82,7 +82,7 @@ Should you use Documentation or Help? Use both!
 
 We will be using a text file dataset, CID51840_similar.txt, for a few of the examples during the workshop. The easiest way to get this file setup is probably to download this GitHub Repository ([UALIB_Workshops](https://github.com/vfscalfani/UALIB_Workshops/archive/master.zip)) as a zip file, then unarchive the zip file. Finally, copy the MATLAB Mdata folder (UALIB_Workshops/01_MATLAB/Mdata) to a convenient location such as your desktop. After copying thee Mdata folder to your desktop, open MATLAB, and change the working directory in the Command Window to the Mdata folder path:
 
-```matlab
+```Matlab
 
 >> cd('/home/myusername/Desktop/Mdata')
 
@@ -90,7 +90,7 @@ We will be using a text file dataset, CID51840_similar.txt, for a few of the exa
 
 There are many different ways to import data into MATLAB. We will use the `readtable` function. The `readtable` function creates a table from delimited text files and other formats like .xls and .ods.
 
-```matlab
+```Matlab
 
 >> myCIDdata = readtable('CID51840_similar.txt','Format','%s %s %s %f %d %d %d')
 
