@@ -6,13 +6,12 @@
 
 Here are the topics we will cover today:
 
-1. Introduction, Setup, and Overview of the MATLAB GUI
+1. Introduction, Overview of the MATLAB GUI, and Setup
 2. Variables and Arrays
-3. Built-in Functions
-4. Plotting Data
-5. Scripts
-6. Conditional Statements and Loops
-7. Custom Functions
+3. Plotting Data
+4. Scripts
+5. Conditional Statements and Loops
+6. Custom Functions
 
 ## Support and Resources
 
@@ -24,6 +23,6 @@ MATLAB has excellent documentation, support, and user created forums and learnin
 * [Stackoverflow MATLAB Questions](https://stackoverflow.com/questions/tagged/matlab)
 * [Software Carpentry Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
 
-We also have many MATLAB eBooks available from The University of Alabama Libraries. Try a [Scout](https://www.lib.ua.edu/scout/) search for "MATLAB" in the title and limit to eBooks:
+We also have many MATLAB eBooks available from The University of Alabama Libraries. Try a [Scout](https://www.lib.ua.edu/scout/) search for `Matlab` in the record title and limit to eBooks:
 
 `TI (Matlab) AND PT eBook AND FT Y`
