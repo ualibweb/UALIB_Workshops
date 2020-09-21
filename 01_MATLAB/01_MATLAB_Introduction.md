@@ -2,7 +2,8 @@
 
 **Attribution**
 
-> Content in this workshop have been adapted and derive from the Software Carpentry [Programming with MATLAB lesson](https://software-carpentry.org/lessons/) ([CC BY 4.0 license](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html). In general, we reused parts of their lesson including the basic structure, descriptions, and logical ordering, but included our own specific variables, scripts, loops, and custom function examples.
+> Content in this workshop have been adapted and derive from the Software Carpentry [Programming with MATLAB lesson](https://software-carpentry.org/lessons/) ([CC BY 4.0 license](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html). In general, we reused parts of their lesson including the basic structure, descriptions, and logical ordering, but included our own specific variables, scripts, loops, and custom function examples. Molecular dataset examples were retrieved from NCBI via their EDirect utility and is credited to NCBI and NLM. Please see the [NCBI Website and Data Usage Policies and Disclaimers](https://www.ncbi.nlm.nih.gov/home/about/policies/) for more information regarding the data.
+
 
 [MathWorks MATLAB](https://www.mathworks.com/products/matlab.html) is a complete interactive desktop environment and programming language. MATLAB is used by Mathematicians, Scientists, Engineers and others for numeric computation, data analysis, data visualization, and creation of applications. There are a variety of MATLAB [add-on toolboxes](https://www.mathworks.com/products.html) for solving specific problems, for example, in computational biology or image processing.
 
