@@ -10,7 +10,8 @@ Here are the topics we will cover today:
 2. Variables and Arrays
 3. Plotting Data
 4. Scripts
-5. Conditional Statements and Loops
+5. Loops
+6. Conditional Statements
 6. Custom Functions
 
 ## Support and Resources
