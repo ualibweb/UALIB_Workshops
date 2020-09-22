@@ -1,3 +1,0 @@
-# Topics Covered in this Introduction to Unix Workshop
-
-coming soon...

@@ -4,8 +4,24 @@
 
 > Content in this workshop have been adapted and derive from the Software Carpentry [Programming with MATLAB lesson](https://software-carpentry.org/lessons/) ([CC BY 4.0 license](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html). In general, we reused parts of their lesson including the basic structure, descriptions, and logical ordering, but included our own specific variables, scripts, loops, and custom function examples. Molecular dataset examples were retrieved from NCBI via their EDirect utility and is credited to NCBI and NLM. Please see the [NCBI Website and Data Usage Policies and Disclaimers](https://www.ncbi.nlm.nih.gov/home/about/policies/) for more information regarding the data.
 
+## What is MATLAB?
 
 [MathWorks MATLAB](https://www.mathworks.com/products/matlab.html) is a complete interactive desktop environment and programming language. MATLAB is used by Mathematicians, Scientists, Engineers and others for numeric computation, data analysis, data visualization, and creation of applications. There are a variety of MATLAB [add-on toolboxes](https://www.mathworks.com/products.html) for solving specific problems, for example, in computational biology or image processing.
+
+
+## Support and Resources
+
+MATLAB has excellent documentation, support, and user created forums and learning materials. Here are a few recommended resources:
+
+* [MathWorks MATLAB Documentation](https://www.mathworks.com/help/matlab/)
+* [MathWorks MATLAB Tutorials](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
+* [MATLAB Central User Community](https://www.mathworks.com/matlabcentral/)
+* [Stackoverflow MATLAB Questions](https://stackoverflow.com/questions/tagged/matlab)
+* [Software Carpentry Programming with MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/)
+
+We also have many MATLAB eBooks available from The University of Alabama Libraries. Try a [Scout](https://www.lib.ua.edu/scout/) search for `Matlab` in the record title and limit to eBooks:
+
+`TI (Matlab) AND PT eBook AND FT Y`
 
 ## Access and Installation
 
