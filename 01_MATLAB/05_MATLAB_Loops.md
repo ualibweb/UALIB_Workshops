@@ -158,3 +158,99 @@ Running the revised hist_plotCompounds.m script produces the following plots:
 ![M_image07](/01_MATLAB/img/M_image07.jpg)
 
 
+## Repeating Tasks with a While Loop
+
+MATLAB [While loops](https://www.mathworks.com/help/matlab/ref/while.html) execute code in a loop if the expression is true. The general form of a MATLAB while loop is as follows:
+
+```Matlab
+
+while expression
+   do something
+end
+
+```
+
+The while loop evaluates the expression and continues only if the expression is true. 
+
+> Note it is pretty easy to accidentally get stuck in an infinite loop when experimenting with while loops. You can stop execution by pressing Ctrl+C in the MATLAB command window.
+
+If we take our example of displaying "I ate"...foods from earlier, we can write a while loop and get the same result as the previous for loop:
+
+```Matlab
+
+>> foods = ["eggs","toast","yogurt","blueberries"];
+j = 1;
+while j <= length(foods)
+  disp(['I ate ' foods{j} '.']);
+  j = j + 1;
+end
+I ate eggs.
+I ate toast.
+I ate yogurt.
+I ate blueberries.
+
+```
+
+In the above code, our expression uses a [relational operator](https://www.mathworks.com/help/matlab/relational-operators.html), `<=` (less than or equal to) in order to create an expression that says only evaluate the commands if `j` is less than or equal to the length of the foods variable (length is 4). Typically, while loops are used for cases when you don't necessarily know the number of iterations to be performed. 
+
+For example, in our `myCIDdata` variable, there is a molecular formula column. Let's say we wanted to display values of the molecular formula column starting at index position 1 and repeating until we matched a phosphorous atom, P. We can modify the above code by adding a [logical operator](https://www.mathworks.com/help/matlab/ref/logicaloperatorsshortcircuit.html) (AND, `&&`) and use the MATLAB function `contains` to check for presence of the character 'P'. The below code, then, displays molecular formulas if `j` is less than or equal to the length of the MF variable (which is 574) AND the molecular formula string does not contain the character 'P'. Once the condition is false (e.g., a P character is found) the loop stops.
+
+```Matlab
+
+>> MF = myCIDdata{:,3};
+j = 1;
+while j <= length(MF) && not(contains(MF{j},'P'))
+  disp(MF{j});
+  j = j + 1;
+end
+C17H25NO3
+C15H21NO4
+C22H20FNO2
+C19H32N2O2
+C22H40N2O2
+C15H25NO2
+C11H13ClF3NO2
+C14H17NO2
+C14H21NO3
+C17H25NO2
+C16H22FNO2
+C14H22N2O2
+C16H23NO2
+C16H23NO2
+C13H17NO3
+C19H31NO2
+C14H19NO3
+C10H14ClNO2
+C16H25NO2
+C15H19NO6
+C17H27NO2
+C16H27NO2
+C27H47NO2
+C13H21NO2
+C15H21NO2
+C14H23NO3
+C12H17NO3
+C12H18N2O2
+C12H18N2O2
+C18H19NO2
+C14H21NO3
+C17H30N4O2
+C20H29NO4
+C18H27NO3
+C13H18ClNO2
+C10H12NNaO2
+C10H9NO4
+C10H13NO2
+C16H26ClNO2
+C14H19NO4
+C16H20N2O10
+C16H26ClNO2
+C11H15NO2
+C10H9NO6
+
+```
+Note that the next molecular formula in the dataset is 'C13H20NO2P'.
+
+We will discuss expressions and operators more in the next topic on Conditional Statements.
+
+
