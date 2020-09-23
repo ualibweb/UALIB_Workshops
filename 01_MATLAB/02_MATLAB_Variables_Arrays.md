@@ -1,9 +1,14 @@
 # Variables and Arrays
 
-**Attribution**
+**Lesson Navigation**
 
-> Content in this workshop have been adapted and derive from the Software Carpentry [Programming with MATLAB lesson](https://software-carpentry.org/lessons/) ([CC BY 4.0 license for Instructional Materials](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html) and [MIT License for programs and code examples](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html)). In general, we reused parts of their lesson including the basic structure, some descriptions, and logical ordering, but included our own specific variables, scripts, loops, and custom function examples. We have maintained the MIT license for program and code examples. Molecular dataset examples were retrieved from NCBI via their EDirect utility and is credited to NCBI and NLM. Please see the [NCBI Website and Data Usage Policies and Disclaimers](https://www.ncbi.nlm.nih.gov/home/about/policies/) for more information regarding the data.
-
+   1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/01_MATLAB_Introduction.md)
+   2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/02_MATLAB_Variables_Arrays.md)
+   3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/03_MATLAB_Plotting.md)
+   4. [Scripts](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/04_MATLAB_Scripts.md)
+   5. [Loops](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/05_MATLAB_Loops.md)
+   6. [Conditional Statements](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/06_MATLAB_Conditional_Statements.md)
+   7. [Custom Functions](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/07_MATLAB_Custom_Functions.md)
 
 ## Assigning Variables
 
@@ -352,4 +357,10 @@ ans =
    20
 
 ```
+
+---
+
+**Attribution**
+
+> Content in this workshop have been adapted and derive from the Software Carpentry [Programming with MATLAB lesson](https://software-carpentry.org/lessons/) ([CC BY 4.0 license for Instructional Materials](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html) and [MIT License for programs and code examples](http://swcarpentry.github.io/matlab-novice-inflammation/LICENSE.html)). In general, we reused parts of their lesson including the basic structure, some descriptions, and logical ordering, but included our own specific variables, scripts, loops, and custom function examples. We have maintained the MIT license for program and code examples. Molecular dataset examples were retrieved from NCBI via their EDirect utility and is credited to NCBI and NLM. Please see the [NCBI Website and Data Usage Policies and Disclaimers](https://www.ncbi.nlm.nih.gov/home/about/policies/) for more information regarding the data.
 
