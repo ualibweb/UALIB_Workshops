@@ -172,48 +172,77 @@ n has 5 characters
 n has less than 5 characters
 ```
 
-Let's return to our `myCIDdata` variable and create a new variable by indexing out the first 20 rows of the first column (Isomeric SMILES):
+Let's return to our `myCIDdata` variable and create a new variable by indexing out the first column (the SMILES):
 
 ```Matlab
 
->> smi = myCIDdata{1:20,1}
+>> smi = myCIDdata{:,1}
 
 smi =
 
-  20×1 cell array
+  574×1 cell array
 
-    {'CCN(CC(=O)C)C(C1=CC=CC=C1)C(=O)OC(C)(C)C'            }
-    {'CCN(CC(=O)OCC)C(C1=CC=CC=C1)C(=O)OC'                 }
-    {'C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C(=O)O'}
-    {'CC.CCCN1CCN(CC1)C(C2=CC=CC=C2CC)C(=O)O'              }
-    {'CC.CC.CCC.CC(=C)N1CCN(CC1)C(C2=CC=CC=C2)C(=O)O'      }
-    {'CC.CC(C)N(C)C(CC1=CC=CC=C1)C(=O)O'                   }
-    {'CN(C)C(C1=CC=CC=C1C(F)(F)F)C(=O)O.Cl'                }
-    {'CC1CCC(=C)N1C(C2=CC=CC=C2)C(=O)O'                    }
-    {'CCC(CCN(C)C(C1=CC=CC=C1)C(=O)O)O'                    }
-    {'CC=C.CC1=C(C(=CC=C1)C(C(=O)O)N(C)C)C.C#C'            }
-    {'CCCC1=C(C(=CC=C1)[C@H](C(=O)O)N2CCCCC2)F'            }
-    {'CCN(C)CCN(C)C(C1=CC=CC=C1)C(=O)O'                    }
-    {'CC(C)C1CC1C(C(=O)O)N(C)CC2=CC=CC=C2'                 }
-    {'CCCC1=CC(=CC=C1)[C@H](C(=O)O)N2CCCCC2'               }
-    {'CC(CC=C)(NC(C1=CC=CC=C1)C(=O)O)O'                    }
-    {'CC(C)N(CCCCCCCCC(=O)O)CC1=CC=CC=C1'                  }
-    {'CC1(CCN(CC1)[C@@H](C2=CC=CC=C2)C(=O)O)O'             }
-    {'CCN[C@@H](C1=CC=CC=C1)C(=O)O.Cl'                     }
-    {'CCCCCCC(C1=CC=CC=C1)(C(=O)O)N(C)C'                   }
-    {'[2H]CC(C)(C)OC(=O)N(CC(=O)O)C(C1=CC=CC=C1)C(=O)O'    }
-
+    {'CCN(CC(=O)C)C(C1=CC=CC=C1)C(=O)OC(C)(C)C'                         }
+    {'CCN(CC(=O)OCC)C(C1=CC=CC=C1)C(=O)OC'                              }
+    {'C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C(=O)O'             }
+    {'CC.CCCN1CCN(CC1)C(C2=CC=CC=C2CC)C(=O)O'                           }
+...
+...
+    {'CCCCCCCCCC(=O)NC(C1=CC=CC=C1)C(=O)O'                              }
+    {'CC1CC1N(C)C(C2=CC=CC=C2)C(=O)O.Cl'                                }
+    {'CN(C)C(C1=CC=CC=C1)C(=O)[O-].[Na+]'                               }
+    {'C1=CC=C(C=C1)C(C(=O)O)N(C=O)C=O'                                  }
+    {'[2H]CN(C[2H])C(C1=CC=CC=C1)C(=O)O'                                }
+    {'CC(C)C(C(C)C)N(C)C(C1=CC=CC=C1)C(=O)O.Cl'                         }
+    {'[2H]CN(C(C1=CC=CC=C1)C(=O)O)C(=O)OC(C)(C)C'                       }
+    {'C1=CC=C(C=C1)C(C(=O)O)N(CCN(CC(=O)O)CC(=O)O)C(C(=O)O)(O)O'        }
+...
+...
 
 ```
 
-We can apply what we learned about conditional statements to find some patterns in the SMILES strings. For example, if we wanted to display information about SMILES that contain the characters '+' OR '-':
+We can apply what we learned about conditional statements to find some patterns in the SMILES strings. For example, if we wanted to find out if each SMILES string contains either a '+' OR '-' character:
 
+```Matlab
 
+>> smi = myCIDdata{:,1};
+result1 = cell(length(smi),1); % this preallocates our variable for speed
+for j = 1:length(smi)
+    if count(smi{j},'+') > 0 || count(smi{j},'-') > 0
+       result1{j,1} = true; % this saves the results in row j, column 1
+    else
+       result1{j,1} = false;  
+    end
+end
+
+>> result1
+
+result1 =
+
+  574×1 cell array
+
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}
+...
+...   
+    {[0]}
+    {[0]}
+    {[1]}
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}
+    {[0]}    
 ...
 ...
+```
 
-
-
+In the above code, we use a `for` loop to iterate over each cell value in `smi` and then test the condition that the string contains at least one `+` symbol or `-` symbol. If the pattern is found a new logical value `true` (1) is added to the [preallocated](https://www.mathworks.com/help/matlab/matlab_prog/preallocate-memory-for-a-cell-array.html) cell array, result1. If the pattern is not found (`else`) the value is `false` (0). Note that we chose to save the variables here instead of displaying 500+ results. The line `result1{j,1} tells MATLAB to save the result in the jth row (i.e., same row the SMILES being tested is on), and first column.
 
 
 
