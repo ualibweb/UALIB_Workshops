@@ -125,7 +125,7 @@ ZHAOHDRTWMBHER-UHFFFAOYSA-N CC=CC1CC(=O)CCO1 140006540 C8H12O2 140.180 10
 
 In the above `join` operation, the `-1 3` option represents jmols01_df.sorted (file 1), column field 3, and the `-2 1` option represents jmols02.sorted (file 2), column field 1. 
 
-There are many other options for `join` ([see GNU Manual for join](https://www.gnu.org/software/coreutils/manual/coreutils.html#join-invocation) such as specifying the output format in a field list in the form `-o m.n,m.n,...` where `m` is the file number and `n` is the field number. For example, if we wanted the output order to be columns 1, 2, and 3 from jmols01_df.sorted (file 1) and then columns 2 and 3 from jmols02.sorted, the option syntax is as follow: `1.1,1.2,1.3,2.2,2.3`
+There are many other options for `join` ([see GNU Manual for join](https://www.gnu.org/software/coreutils/manual/coreutils.html#join-invocation)) such as specifying the output format in a field list in the form `-o m.n,m.n,...` where `m` is the file number and `n` is the field number. For example, if we wanted the output order to be columns 1, 2, and 3 from jmols01_df.sorted (file 1) and then columns 2 and 3 from jmols02.sorted, the option syntax is as follow: `1.1,1.2,1.3,2.2,2.3`
 
 
 ```console
