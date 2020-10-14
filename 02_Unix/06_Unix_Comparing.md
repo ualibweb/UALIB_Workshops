@@ -51,7 +51,7 @@ I5 0 3 3 3 3 3							I5 0 3 3 3 3 3
 
 ```
 
-The `-y` option displays all lines of text and marks difference with a vertical bar. To display only the differences, we can add the `--suppress-common-lines` option:
+The `-y` option displays all lines of text and marks differences with a vertical bar. To display only the differences, we can add the `--suppress-common-lines` option:
 
 ```console
 
