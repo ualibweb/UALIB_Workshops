@@ -20,7 +20,7 @@ One way to view text files is to print the content to standard output (your term
 user@computer:~$ cd /home/user/Desktop/Udata/View
 
 ```
-Then we can use `cat` to print the content to standard output:
+We can then use the `cat` utility to print the content to standard output:
 
 ```console
 
