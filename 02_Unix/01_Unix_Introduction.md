@@ -32,6 +32,7 @@ Let's quote a bit from the [Bash Manual](https://www.gnu.org/software/bash/manua
 Okay, let's correct our workshop title now. :)
 
 ~~Introduction~~ ~~to~~ ~~Unix~~ ~~Shell~~
+
 Introduction to the Bash Shell and GNU Utilities on a GNU/Linux Distribution
 
 ## Support and Resources
@@ -43,7 +44,7 @@ Introduction to the Bash Shell and GNU Utilities on a GNU/Linux Distribution
 
 ## Access to a Shell
 
-For this workshop, it is best if you are using Bash Shell with GNU Utilities in a GNU/Linux distribution. We will be using the Gnome Terminal Emulator in Ubuntu for access to Bash Shell. If you want to follow along with us, you may consider installing [Ubuntu Linux](https://ubuntu.com/) in a virtual machine on Mac OS or Windows using software such as the open-source [Virtual Box](https://www.virtualbox.org/). 
+For this workshop, it is best if you are using a Bash Shell with GNU Utilities in a GNU/Linux distribution. We will be using the Gnome Terminal in Ubuntu for access to Bash Shell. If you want to follow along with us, you may consider installing [Ubuntu Linux](https://ubuntu.com/) in a virtual machine on Mac OS or Windows using software such as the open-source [Virtual Box](https://www.virtualbox.org/). 
 
 Alternative options are available in Mac OS Terminal, and Windows through emulators like [Cygwin](https://en.wikipedia.org/wiki/Cygwin) or the [Windows Subsystem for Linux](https://ubuntu.com/wsl), however commands and utilities might be different with these alternative options. We are working on making access to the Bash Shell more accessible in future workshops. 
 
@@ -77,7 +78,7 @@ If you do not know what utility you are looking for, you can search the manual p
 user@computer:~$ man -k 'compare'
 
 ```
-The `-k` option searched the short descriptions in the manual pages for the keyword. In our example above, the keyword was "compare". You can see all `man` options by accessing the manual page for `man`
+The `-k` option searched the short descriptions in the manual pages for the keyword. In our example above, the keyword was "compare". You can see all `man` options by accessing the manual page for `man`:
 
 ```console
 
@@ -93,14 +94,13 @@ user@computer:~$ cat --help
 ```
 ## Pipes
 
-[Pipes](https://en.wikipedia.org/wiki/Pipeline_(Unix)), `|`, are an important concept in the "Unix Philosophy" and allow for easy combination of commands:
+[Pipes](https://en.wikipedia.org/wiki/Pipeline_(Unix)), `|`, are an important concept in the ["Unix Philosophy"](https://en.wikipedia.org/wiki/Unix_philosophy) and allow for easy combination of commands:
 
-```
-
+```console
 user@computer:~$ something1 | something2 | something3
 
 ```
-The above syntax creates a sequence of commands. The output from `something1` is used as the input into `something2`, and then the output from `something2` is used as the input for `something3`. This is a powerful approach and allows us to combine very simple tasks into much more complex processes. 
+The above syntax creates a sequence of commands. The output from `something1` is used as the input into `something2`, and then the output from `something2` is used as the input for `something3`. This is a powerful approach and allows us to combine simple tasks into much more complex processes. 
 
 
 ## Scope of this Workshop
