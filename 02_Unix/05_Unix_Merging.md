@@ -138,6 +138,13 @@ CC=C[C@@H]1CC(=O)CCO1 149501208 ZHAOHDRTWMBHER-MRVPVSSYSA-N C8H12O2 140.180
 CC=CC1CC(=O)CCO1 140006540 ZHAOHDRTWMBHER-UHFFFAOYSA-N C8H12O2 140.180
 
 ```
+## References and Further Reading
+
+* [GNU Coreutils - cat: Concatenate and write files](https://www.gnu.org/software/coreutils/manual/coreutils.html#cat-invocation)
+* [GNU Coreutils - sort: Sort text files](https://www.gnu.org/software/coreutils/manual/coreutils.html#sort-invocation)
+* [GNU Coreutils - join: Join lines on a common field](https://www.gnu.org/software/coreutils/manual/coreutils.html#join-invocation)
+* [Bash Manual - Redirections](https://www.gnu.org/software/bash/manual/bash.html#Redirections)
+
 ---
 
 **Attribution**

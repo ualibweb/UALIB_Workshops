@@ -193,6 +193,13 @@ user@computer:~$ cut -f2 molecules3.smi | sort | uniq -c | sort -n -r
 ...
 ```
 
+## References and Further Reading
+
+* [GNU Coreutils - cat: Concatenate and write files](https://www.gnu.org/software/coreutils/manual/coreutils.html#cat-invocation)
+* [GNU Coreutils - sort: Sort text files](https://www.gnu.org/software/coreutils/manual/coreutils.html#sort-invocation)
+* [GNU Coreutils - uniq: Uniquify files](https://www.gnu.org/software/coreutils/manual/coreutils.html#uniq-invocation)
+* [GNU Coreutils - cut: Print selected parts of lines](https://www.gnu.org/software/coreutils/manual/coreutils.html#cut-invocation)
+
 ---
 
 **Attribution**

@@ -97,6 +97,12 @@ user@computer:~$ pwd
 
 ```
 
+## References and Further Reading
+
+* [GNU Coreutils - pwd: Print working directory](https://www.gnu.org/software/coreutils/manual/coreutils.html#pwd-invocation)
+* [GNU Coreutils - ls: List directory contents](https://www.gnu.org/software/coreutils/manual/coreutils.html#ls-invocation)
+* [cd builtin documentation](https://stackoverflow.com/questions/41147818/no-man-page-for-the-cd-command)
+
 ---
 
 **Attribution**

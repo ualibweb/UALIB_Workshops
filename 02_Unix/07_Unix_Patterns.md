@@ -64,6 +64,11 @@ user@computer:~$ grep -w -i "biology" PubMed_Search_combined.txt | grep "Powell"
 30342620	Powell	MJ	Zopfochytrium is a new genus in the Chytridiales with distinct zoospore ultrastructure.	Fungal biology	2018	122	11	1041-1049
 30709516	Powell	MJ	Ultrastructure of early stages of Rozella allomycis (Cryptomycota) infection of its host, Allomyces macrogynus (Blastocladiomycota).	Fungal biology	2019	123	2	109-116
 ```
+
+## References and Further Reading
+
+* [GNU grep Manual](https://www.gnu.org/software/grep/manual/grep.html#Regular-Expressions)
+
 ---
 
 **Attribution**

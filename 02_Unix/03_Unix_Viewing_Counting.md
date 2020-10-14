@@ -141,6 +141,13 @@ user@computer:~$ wc -l *.inchi
 
 We can quickly see that the tool_process04.inchi file has an issue. This is quite useful, particularly when you may have 100s of files to check.
 
+## References and Further Reading
+
+* [GNU Coreutils - cat: Concatenate and write files](https://www.gnu.org/software/coreutils/manual/coreutils.html#cat-invocation)
+* [GNU Coreutils - head: Output the first part of files](https://www.gnu.org/software/coreutils/manual/coreutils.html#head-invocation)
+* [less program](https://en.wikipedia.org/wiki/Less_(Unix))
+* [GNU Coreutils - wc: Print newline, word, and byte counts](https://www.gnu.org/software/coreutils/manual/coreutils.html#wc-invocation)
+
 ---
 
 **Attribution**

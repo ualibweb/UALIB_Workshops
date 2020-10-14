@@ -23,7 +23,7 @@ do
 done
 ```
 
-The `$` symbol within the loop is interpreted as a variable. That is, `$item` gets substituted with the item name in our list_of_items. Let's return to the `/Udata/PubMed` folder and our use of `grep` with the PubMed_Search_combined.txt file. Let's say we wanted to create several files by using `grep` with independent patterns. A possible workflow is to create a list of our patterns and then use `grep` in a bash for loop:
+The `$` symbol within the loop is interpreted as a variable. That is, `$item` gets substituted with the item name in our list_of_items. Let's return to the `/Udata/PubMed` folder and our use of `grep` with the PubMed_Search_combined.txt file. Let's say we wanted to create several files by using `grep` with independent patterns. A possible workflow is to create a list of our patterns and then use `grep` in a Bash for loop:
 
 ```console
 
@@ -36,7 +36,11 @@ user@computer:~$ for pattern in "biology" "chemistry" "engineering" "physics"
 
 In the above script, we are telling Bash to use the `grep` utility with options `-w -i` and our pattern variable on file PubMed_Search_combined.txt, then redirect the output to a new file with the variable name at the end of the file name. So, on the first iteration, our pattern is "biology" and the file name is PubMed_Search_filter_biology.txt, on the second iteration, our pattern is "chemistry" and the file name is PubMed_Search_filter_chemistry.txt, and so on. 
 
-For more information and types of loops supported in Bash, see the Software Carpentry [Unix Loops Lesson](https://swcarpentry.github.io/shell-novice/05-loop/index.html) and the [Bash Manual](https://www.gnu.org/software/bash/manual/bash.html#Looping-Constructs). 
+
+## References and Further Reading
+
+* [Software Carpentry Unix Loops Lesson](https://swcarpentry.github.io/shell-novice/05-loop/index.html)
+* [Bash Manual Looping Constructs](https://www.gnu.org/software/bash/manual/bash.html#Looping-Constructs). 
 
 ---
 

@@ -113,6 +113,10 @@ I4 0 3 3 3 3						      |	I4 1 3 3 3 3
 
 Great! Now we can see the differences without the carriage return differences. There are many more `diff` options. You may need to experiment with the options depending upon the formatting of your input data. 
 
+## References and Further Reading
+
+* [GNU diffutils](https://www.gnu.org/software/diffutils/manual/diffutils.html)
+
 ---
 
 **Attribution**
