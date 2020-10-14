@@ -13,17 +13,89 @@
 
 ## Find Current Working Directory
 
-pwd
+We can display the name of the current working directory with the `pwd` utility:
+
+```console
+
+user@computer:~$ pwd
+/home/user
+
+```
+## List Contents
+
+To list the contents within a directory, use `ls`:
+
+```console
+
+user@computer:~$ ls
+Downloads	Music	Desktop
+Pictures	Templates	Documents
+
+```
+We can add the `-F` option to classify the contents, which can help identify a file versus a directory, for example.
+
+```console
+
+user@computer:~$ ls -F
+Downloads/	Music/	Desktop/
+Pictures/	Templates/	Documents/
+
+```
+In the above example, all of our contents now end with a `/`, which indicates they are directories. 
 
 ## Changing Directories
 
-cd
+To change directories, we can use `cd` followed by the name of a directory or path to a directory:
 
+```console
 
+user@computer:~$ cd Desktop
+user@computer:~$ pwd
+/home/user/Desktop
 
-## List Contents
+```
 
-ls
+We can then list the contents in our new working directory:
+
+```console
+
+user@computer:~$ ls -F
+Udata/
+
+```
+And then `cd` into the `Udata` folder, and sub-directories as desired:
+
+```console
+
+user@computer:~$ cd Udata
+user@computer:~$ ls -F
+Benchmark/  Joining/  PubMed/  Sorting/  toolkit_process/  View/
+user@computer:~$ cd Sorting
+/home/user/Desktop/Udata/Sorting
+user@computer:~$ ls -F
+molecules2.smi  molecules3.smi  molecules.smi
+
+```
+
+Alternatively, we can always change directories by providing the full directory path:
+
+```console
+
+user@computer:~$ cd /home/user/Desktop/Udata/Sorting
+
+```
+
+Finally, a useful shortcut to return to the parent of the current directory is `..`:
+
+```console
+
+user@computer:~$ pwd
+/home/user/Desktop/Udata/Sorting
+user@computer:~$ cd ..
+user@computer:~$ pwd
+/home/user/Desktop/Udata/
+
+```
 
 ---
 
