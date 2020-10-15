@@ -87,7 +87,7 @@ Use `q` to exit `less`.
 
 ## Counting
 
-A useful utility is `wc`, which counts the number of lines, words, and characters in text files. Let's try to use `wc` on one of the files in the `/Udata/PubMed` folder:
+A useful utility is `wc`, which counts the number of lines, words, and byte counts in text files. Let's try to use `wc` on one of the files in the `/Udata/PubMed` folder:
 
 ```console
 
