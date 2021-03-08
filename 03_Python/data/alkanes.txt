@@ -1,0 +1,10 @@
+Methane 	CH4 	16.043
+Ethane 	C2H6 	30.07
+Propane 	C3H8 	44.1
+Butane 	C4H10 	58.12
+Pentane 	C5H12 	72.15
+Hexane 	C6H14 	86.18
+Heptane 	C7H16 	100.2
+Octane 	C8H18 	114.23
+Nonane 	C9H20 	128.25
+Decane 	C10H22 	142.28

@@ -3,6 +3,7 @@
 Supporting materials for UA Libraries selected workshops.
 
 **Introduction to MATLAB**
+
    1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/01_MATLAB_Introduction.md)
    2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/02_MATLAB_Variables_Arrays.md)
    3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/03_MATLAB_Plotting.md)
@@ -24,4 +25,4 @@ Supporting materials for UA Libraries selected workshops.
 
 **Introduction to Python Materials and Resources**
 
-coming soon...
+   1. Introduction to Python Workshop Series 1: Getting Started
