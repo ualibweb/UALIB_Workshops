@@ -26,3 +26,5 @@ Supporting materials for UA Libraries selected workshops.
 **Introduction to Python Materials and Resources**
 
    1. [Introduction to Python Workshop Series 1: Getting Started](https://github.com/vfscalfani/UALIB_Workshops/blob/master/03_Python/notebooks/Rodgers_PythonWorkshop01_GettingStarted.ipynb)
+   2. [Introduction to Python Workshop Series 2: Functions, Conditionals, and Loops](https://github.com/vfscalfani/UALIB_Workshops/blob/master/03_Python/notebooks/Rodgers_PythonWorkshop02_functions_Loops_Choices2.ipynb)
+
