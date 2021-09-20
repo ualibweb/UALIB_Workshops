@@ -1,0 +1,3 @@
+# set mlx files as binary
+
+*.mlx binary
