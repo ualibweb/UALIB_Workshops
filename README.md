@@ -4,6 +4,8 @@ Supporting materials for UA Libraries selected workshops.
 
 **Introduction to MATLAB**
 
+Download the [MATLAB Live Script](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/live_script) for this lesson.
+
    1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/01_MATLAB_Introduction.md)
    2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/02_MATLAB_Variables_Arrays.md)
    3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/03_MATLAB_Plotting.md)
