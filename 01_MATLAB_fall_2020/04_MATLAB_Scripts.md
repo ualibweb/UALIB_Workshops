@@ -59,7 +59,7 @@ To run the script, type the name of the script in the MATLAB Command Window:
 
 ```
 
-![M_image04](/01_MATLAB/img/M_image04.jpg)
+![M_image04](/01_MATLAB_fall_2020/img/M_image04.jpg)
 
 To get help with the script, use the `help` function:
 

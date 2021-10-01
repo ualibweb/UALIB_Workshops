@@ -159,11 +159,11 @@ end
 ```
 Running the revised hist_plotCompounds.m script produces the following plots:
 
-![M_image05](/01_MATLAB/img/M_image05.jpg)
+![M_image05](/01_MATLAB_fall_2020/img/M_image05.jpg)
 
-![M_image06](/01_MATLAB/img/M_image06.jpg)
+![M_image06](/01_MATLAB_fall_2020/img/M_image06.jpg)
 
-![M_image07](/01_MATLAB/img/M_image07.jpg)
+![M_image07](/01_MATLAB_fall_2020/img/M_image07.jpg)
 
 
 ## Repeating Tasks with a While Loop
