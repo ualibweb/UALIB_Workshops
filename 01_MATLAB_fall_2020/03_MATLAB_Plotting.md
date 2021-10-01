@@ -72,7 +72,7 @@ h =
   Show all properties
 
 ```
-![M_image01](/01_MATLAB/img/M_image01.jpg)
+![M_image01](/01_MATLAB_fall_2020/img/M_image01.jpg)
 
 
 Our histogram has a variety of properties that we can adjust (above), so for example, if we wanted to change the color of the bars, we can use dot indexing into our histogram properties and set a new value:
@@ -84,7 +84,7 @@ Our histogram has a variety of properties that we can adjust (above), so for exa
 
 ```
 
-![M_image02](/01_MATLAB/img/M_image02.jpg)
+![M_image02](/01_MATLAB_fall_2020/img/M_image02.jpg)
 
 As an alternative, we can also set properties in the initial histogram plotting step:
 
@@ -104,7 +104,7 @@ It is always a good idea to add axes labels and a title:
 
 ```
 
-![M_image03](/01_MATLAB/img/M_image03.jpg)
+![M_image03](/01_MATLAB_fall_2020/img/M_image03.jpg)
 
 
 We can create an inset scatter plot of Molecular Weight vs. Heavy Atom Count as follows:
@@ -120,7 +120,7 @@ We can create an inset scatter plot of Molecular Weight vs. Heavy Atom Count as 
 
 ```
 
-![M_image04](/01_MATLAB/img/M_image04.jpg)
+![M_image04](/01_MATLAB_fall_2020/img/M_image04.jpg)
 
 
 In the above code, we first use `axes` to create a set of new axes at position 0.55, 0.55 and a scale of 0.3 relative to the original figure. I used trial and error here on the values until it looked good to me. Next, `scatter` is used to plot Molecular Weight vs. Heavy Atom Count with filled black circles. `box on` adds a box around the entire inset plot. `xticks` adjusts the number of intervals. Lastly, we use `xlabel` and `ylabel` to add axes labels.
