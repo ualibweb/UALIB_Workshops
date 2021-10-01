@@ -2,11 +2,11 @@
 
 Supporting materials for UA Libraries selected workshops.
 
-**Introduction to MATLAB - Fall 2021**
+## Introduction to MATLAB - Fall 2021
 
 Download the [MATLAB Live Script](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2021/live_script) for this workshop.
 
-**Introduction to MATLAB - Fall 2020**
+## Introduction to MATLAB - Fall 2020
 
 View the tutorial and materials from the [MATLAB Lesson Navigation](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/01_MATLAB_Introduction.md)
 
