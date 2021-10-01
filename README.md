@@ -3,6 +3,18 @@
 Supporting materials for UA Libraries selected workshops.
 
 
+## Introduction to Unix Shell for Basic Data Transformation and Analysis - Fall 2021
+
+[coming soon...]
+
+   * Introduction
+   * wc, nl, and cat
+   * cut, paste, and join
+   * sort, uniq, and shuf
+   * tr and sed
+   * grep
+   * comm and diff
+
 ## Introduction to Unix Shell - Fall 2021
 
 [coming soon...]
