@@ -2,6 +2,16 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+
+## Introduction to Unix Shell - Fall 2021
+
+[coming soon...]
+
+   * Introduction
+   * Navigation and Directories
+   * Common Unix Commands
+   * Pipelines
+
 ## Introduction to MATLAB - Fall 2021
 
    Download the [MATLAB Live Script](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2021/live_script) for this workshop.
