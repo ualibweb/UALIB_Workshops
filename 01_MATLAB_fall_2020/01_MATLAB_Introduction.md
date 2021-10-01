@@ -2,13 +2,13 @@
 
 **Lesson Navigation**
 
-   1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/01_MATLAB_Introduction.md)
-   2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/02_MATLAB_Variables_Arrays.md)
-   3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/03_MATLAB_Plotting.md)
-   4. [Scripts](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/04_MATLAB_Scripts.md)
-   5. [Loops](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/05_MATLAB_Loops.md)
-   6. [Conditional Statements](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/06_MATLAB_Conditional_Statements.md)
-   7. [Custom Functions](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/07_MATLAB_Custom_Functions.md)
+   1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/01_MATLAB_Introduction.md)
+   2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/02_MATLAB_Variables_Arrays.md)
+   3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/03_MATLAB_Plotting.md)
+   4. [Scripts](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/04_MATLAB_Scripts.md)
+   5. [Loops](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/05_MATLAB_Loops.md)
+   6. [Conditional Statements](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/06_MATLAB_Conditional_Statements.md)
+   7. [Custom Functions](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/07_MATLAB_Custom_Functions.md)
 
 ## What is MATLAB?
 
@@ -103,7 +103,7 @@ Should you use Documentation or Help? Use both!
 
 ## Setup
 
-We will be using a text file dataset, CID51840_similar.txt, for a few of the examples during the workshop. The easiest way to get this file setup is probably to download this GitHub Repository ([UALIB_Workshops](https://github.com/vfscalfani/UALIB_Workshops/archive/master.zip)) as a zip file, then unarchive the zip file. Finally, copy the MATLAB Mdata folder (UALIB_Workshops/01_MATLAB/Mdata) to a convenient location such as your desktop. After copying thee Mdata folder to your desktop, open MATLAB, and change the working directory in the Command Window to the Mdata folder path:
+We will be using a text file dataset, CID51840_similar.txt, for a few of the examples during the workshop. The easiest way to get this file setup is probably to download this GitHub Repository as a zip file, then unarchive the zip file. Finally, copy the MATLAB Mdata folder (UALIB_Workshops/01_MATLAB_fall_2020/Mdata) to a convenient location such as your desktop. After copying thee Mdata folder to your desktop, open MATLAB, and change the working directory in the Command Window to the Mdata folder path:
 
 ```Matlab
 
