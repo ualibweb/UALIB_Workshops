@@ -2,18 +2,14 @@
 
 Supporting materials for UA Libraries selected workshops.
 
-**Introduction to MATLAB**
+**Introduction to MATLAB - Fall 2021**
 
-Download the [MATLAB Live Script](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/live_script) for this lesson.
+Download the [MATLAB Live Script](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2021/live_script) for this workshop.
 
-   1. [Introduction, Overview of the MATLAB GUI, and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/01_MATLAB_Introduction.md)
-   2. [Variables and Arrays](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/02_MATLAB_Variables_Arrays.md)
-   3. [Plotting Data](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/03_MATLAB_Plotting.md)
-   4. [Scripts](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/04_MATLAB_Scripts.md)
-   5. [Loops](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/05_MATLAB_Loops.md)
-   6. [Conditional Statements](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/06_MATLAB_Conditional_Statements.md)
-   7. [Custom Functions](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB/07_MATLAB_Custom_Functions.md)
-	
+**Introduction to MATLAB - Fall 2020**
+
+View the tutorial and materials from the [MATLAB Lesson Navigation](https://github.com/vfscalfani/UALIB_Workshops/blob/master/01_MATLAB_fall_2020/01_MATLAB_Introduction.md)
+
 **Introduction to Unix Materials and Resources**
 
    1. [Introduction and Setup](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix/01_Unix_Introduction.md)
