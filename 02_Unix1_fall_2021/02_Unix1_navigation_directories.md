@@ -7,8 +7,6 @@
 3. [Common Unix Commands](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/03_Unix1_common_commands.md)
 4. [Pipelines and Redirecting Data Outputs](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/04_Unix1_pipelines.md)
 
-# Navigation, Files and Directories
-
 As you prepare to analyze your data using the Bash Shell, it is important to understand how the shell organizes files and directories, how to move around with the shell, and how to interact with files and directories.
 
 
