@@ -7,8 +7,6 @@
 3. [Common Unix Commands](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/03_Unix1_common_commands.md)
 4. [Pipelines and Redirecting Data Outputs](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/04_Unix1_pipelines.md)
 
-# Introduction
-
 ## What is a Unix Shell?
 
 It is worth starting with some terminology. You have probably heard many different terms for interacting with a computer via text input such as a shell, terminal, console, and command line. In practice, users are often using these terms interchangeably, but you should be aware that there are differences (see this [Unix Stack Exchange Thread](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)). And to quote from the community accepted answer:
