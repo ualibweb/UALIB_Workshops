@@ -52,7 +52,7 @@ user@computer:~$ sort -n example1
 2004 ivan
 ```
 
-The files that we are working with have tabular data that use `,` as the delimiter. To use `sort` with this type of data, we will have add an option `-t` and specify the delimiter in single quotes `','`. See more about [using the `-t' option with this example from Stack Overflow](https://unix.stackexchange.com/questions/140388/sort-comma-separated-fields-on-each-line-by-numeric-value). To sort using a specific column, we will need to add the `-k` option as well, with the column number immediately after the `-k`. We can also sort the data in reverse using the `-r` option.
+The files that we are working with have tabular data that use `,` as the delimiter. To use `sort` with this type of data, we will have add an option `-t` and specify the delimiter in single quotes `','`. See more about [using the `-t` option with this example from Stack Overflow](https://unix.stackexchange.com/questions/140388/sort-comma-separated-fields-on-each-line-by-numeric-value). To sort using a specific column, we will need to add the `-k` option as well, with the column number immediately after the `-k`. We can also sort the data in reverse using the `-r` option.
 
 Let's try this in the example below. In looking at the data from Hurricane Iota in `AL312020_iota.txt`, column 7 is the minimum central pressure in millibars for each recorded instances in the best track dataset. To sort this file by the minimum central pressure, we can execute the following:
 
