@@ -19,7 +19,7 @@ user@computer:~$ something1 | something2 | something3
 ```
 The above syntax creates a sequence of commands. The output from something1 is used as the input into something2, and then the output from something2 is used as the input for something3. This is a powerful approach and allows us to combine simple tasks into much more complex processes.
 
-Let's try this with some of the data with which we've been working. Earlier, we used a detailed command to sort the data for Hurricane Iota by its minimum central pressure. Let's use the same command, and pipe the results into the `head` command to limit our output to only the first 5 lines in the newly sorted data set (**Don't forget that you can use the `Up` arrow key to see and reuse previous commands**:
+Let's try this with some of the data with which we've been working. Earlier, we used a detailed command to sort the data for Hurricane Iota by its minimum central pressure. Let's use the same command, and pipe the results into the `head` command to limit our output to only the first 5 lines in the newly sorted data set (**Don't forget that you can use the `Up` arrow key to see and reuse previous commands**):
 
 ```console
 user@computer:~$ sort -t',' -k7 -n -r AL312020_iota.txt | head -n 5
