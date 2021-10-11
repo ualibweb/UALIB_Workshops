@@ -2,7 +2,7 @@
 
 **Lesson Navigation**
 
-1. [Introduction](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix_fall_2021/01_Unix1_Introduction.md)
+1. [Introduction](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/01_Unix1_Introduction.md)
 2. [Navigation and Directories](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/02_Unix1_navigation_directories.md)
 3. [Common Unix Commands](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/03_Unix1_common_commands.md)
 4. [Pipelines and Redirecting Data Outputs](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/04_Unix1_pipelines.md)
