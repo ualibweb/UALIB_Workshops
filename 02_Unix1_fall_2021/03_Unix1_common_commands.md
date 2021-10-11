@@ -90,7 +90,7 @@ To pull data from the top portion of the file, we can use the `head` command, an
 Let's try an example in retrieving the first 5 lines of data on Hurricane Ivan from file `AL092004_ivan.txt`:
 
 ```console
-user@computer:~$ headhead -n 5 AL092004_ivan.txt
+user@computer:~$ head -n 5 AL092004_ivan.txt
 20040902, 1800,  , TD,  9.7N,  27.6W,  25, 1009,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
 20040903, 0000,  , TD,  9.7N,  28.7W,  30, 1007,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
 20040903, 0600,  , TS,  9.7N,  30.3W,  35, 1005,   50,    0,    0,   50,    0,    0,    0,    0,    0,    0,    0,    0,
