@@ -17,12 +17,10 @@ Supporting materials for UA Libraries selected workshops.
 
 ## Introduction to Unix Shell - Fall 2021
 
-[coming soon...]
-
-   * Introduction
-   * Navigation and Directories
-   * Common Unix Commands
-   * Pipelines
+  * [Introduction](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix_fall_2021/01_Unix_Introduction.md)
+  * [Navigation and Directories](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/02_Unix1_navigation_directories.md)
+  * [Common Unix Commands](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/03_Unix1_common_commands.md)
+  * [Pipelines and Redirecting Data Outputs](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix1_fall_2021/04_Unix1_pipelines.md)
 
 ## Introduction to MATLAB - Fall 2021
 
