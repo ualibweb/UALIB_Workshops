@@ -8,9 +8,11 @@ Supporting materials for UA Libraries selected workshops.
 [coming soon...]
 
    * Introduction
-   * wc, nl, and cat
+   * cat, tac, head, tail
+   * wc and nl
+   * sort and uniq
+   * split and shuf
    * cut, paste, and join
-   * sort, uniq, and shuf
    * tr and sed
    * grep
    * comm and diff
