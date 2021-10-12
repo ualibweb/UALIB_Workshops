@@ -3,7 +3,7 @@
 **Lesson Navigation**
 
    1. Introduction
-   2. cat, tac, head, tail
+   2. cat, tac, head, and tail
    3. wc and nl
    4. sort and uniq
    5. split and shuf
