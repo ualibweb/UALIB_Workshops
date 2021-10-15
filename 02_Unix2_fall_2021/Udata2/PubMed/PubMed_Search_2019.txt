@@ -1,0 +1,575 @@
+32952996	Travis	S	Characterization of the genomically encoded fosfomycin resistance enzyme from Mycobacterium abscessus.	MedChemComm	2019	10	11	1948-1957
+32830767	Weinberger	CR	The crystal structure and phase stability of the zeta phase in the group VB transition metal carbides: a computational investigation.	Acta crystallographica Section B, Structural science, crystal engineering and materials	2019	75	Pt 5	870-879
+32746396	Elias	R	Feasibility and Preliminary Efficacy of an Adapted Transdiagnostic Treatment for Children With Executive Function Deficits.	Journal of cognitive psychotherapy	2019	33	4	343-356
+32745031	Edwards	T	A School-Based Intervention to Increase HPV Vaccination Rates.	Journal of doctoral nursing practice	2019	12	2	196-201
+32647613	Letcher	PM	A taxonomic summary of Aphelidiaceae.	IMA fungus	2019	10	4
+32341605	Ma	W	Evaluating the Fit of Sequential G-DINA Model Using Limited-Information Measures.	Applied psychological measurement	2020	44	3	167-181
+32287815	Hassan	MA	Towards health monitoring using remote heart rate measurement using digital camera: A feasibility study.	Measurement : journal of the International Measurement Confederation	2020	149	106804
+32110311	Tropp	J	A sensor array for the discrimination of polycyclic aromatic hydrocarbons using conjugated polymers and the inner filter effect.	Chemical science	2019	10	44	10247-10255
+32076631	Boë	LJ	Which way to the dawn of speech?: Reanalyzing half a century of debates and data in light of speech science.	Science advances	2019	5	12	eaaw3916
+32031389	Persaud	RR	Mechanistic Study of Enhanced Protonation by Chromium(III) in Electrospray Ionization: A Superacid Bound to a Peptide.	Journal of the American Society for Mass Spectrometry	2020	31	2	308-318
+31999269	Smith	TB	The Hospital Readmissions Reduction Program's Impact on Readmissions From Skilled Nursing Facilities.	Journal of healthcare management / American College of Healthcare Executives	64	3	186-196
+31997420	Shupard	M	Why do officers support community policing? A cross-departmental and cross-temporal comparison.	Behavioral sciences & the law	2019	37	6	665-680
+31956821	Yao	XY	Ultrasensitive Assay of Alkaline Phosphatase Based on the Fluorescent Response Difference of the Metal-Organic Framework Sensor.	ACS omega	2020	5	1	712-717
+31943992	Delgado-Mellado	N	Insights into Ionic Liquid/Aromatic Systems from NMR Spectroscopy: How Water Affects Solubility and Intermolecular Interactions.	ChemPlusChem	2019	84	7	872-881
+31933493	Raymond	MR	Indices of Subscore Utility for Individuals and Subgroups Based on Multivariate Generalizability Theory.	Educational and psychological measurement	2020	80	1	67-90
+31922872	Sirunyan	AM	Search for Physics beyond the Standard Model in Events with Overlapping Photons and Jets.	Physical review letters	2019	123	24	241801
+31915556	Rezai	S	Laparoscopic Vessel Endometriosis Resection Surgery: A Case Report and Review of Literature.	Case reports in obstetrics and gynecology	2019	2019	1375208
+31905614	Park	HA	Alpha-Tocotrienol Prevents Oxidative Stress-Mediated Post-Translational Cleavage of Bcl-xL in Primary Hippocampal Neurons.	International journal of molecular sciences	2019	21	1
+31896949	Ragin	C	African-Caribbean Cancer Consortium Scientific and Training Conference 2017.	Current oncology (Toronto, Ont.)	2019	26	6	e785-e790
+31886779	Sirunyan	AM	Measurement of the average very forward energy as a function of the track multiplicity at central pseudorapidities in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	11	893
+31886778	Sirunyan	AM	Measurements of triple-differential cross sections for inclusive isolated-photon+jet events in p p collisions at s = 8 TeV .	The European physical journal. C, Particles and fields	2019	79	11	969
+31868921	Ersek	M	Pain Patterns and Treatment Among Nursing Home Residents With Moderate-Severe Cognitive Impairment.	Journal of the American Geriatrics Society	2020	68	4	794-802
+31868823	Love	S	Using compression therapy in a primary care setting to treat complications of chronic venous insufficiency.	Journal of the American Association of Nurse Practitioners	2019
+31868480	Sirunyan	AM	Search for Low-Mass Quark-Antiquark Resonances Produced in Association with a Photon at sqrt[s]=13 TeV.	Physical review letters	2019	123	23	231803
+31865260	McMichael	BJ	The impact of cannabis access laws on opioid prescribing.	Journal of health economics	2020	69	102273
+31865259	Crocetti	E	Validation of the Arabic and Hebrew versions of the Utrecht-Management of Identity Commitments Scale (U-MICS).	Journal of adolescence	2020	79	11-15
+31860661	Swift	SL	Racial discrimination in medical care settings and opioid pain reliever misuse in a U.S. cohort: 1992 to 2015.	PloS one	2019	14	12	e0226490
+31860380	Albright	DL	Small area estimation and hotspot identification of opioid use disorder among military veterans living in the Southern United States.	Substance abuse	2019	1-7
+31853640	Nahar	VK	Attitudes and practice among dermatologists regarding indoor tanning.	Archives of dermatological research	2020	312	9	681-684
+31853159	Zhan	P	A Sequential Higher Order Latent Structural Model for Hierarchical Attributes in Cognitive Diagnostic Assessments.	Applied psychological measurement	2020	44	1	65-83
+31844320	Edger	PP	Reply to: Revisiting the origin of octoploid strawberry.	Nature genetics	2020	52	1	5-7
+31841315	Smetana	V	Synthesis of Anhydrous Acetates for the Components of Nuclear Fuel Recycling in Dialkylimidazolium Acetate Ionic Liquids.	Inorganic chemistry	2020	59	1	818-828
+31837722	Muratori	P	Effects of a universal prevention program on externalizing behaviors: Exploring the generalizability of findings across school and home settings.	Journal of school psychology	2019	77	13-23
+31837376	Seghatol-Eslami	VC	Hyperconnectivity of social brain networks in autism during action-intention judgment.	Neuropsychologia	2020	137	107303
+31824568	Sabir	JSM	Dissecting the Role of NF-κb Protein Family and Its Regulators in Rheumatoid Arthritis Using Weighted Gene Co-Expression Network.	Frontiers in genetics	2019	10	1163
+31823458	Wang	Y	The effects of exercise on insulin, glucose, IGF-axis and CRP in cancer survivors: Meta-analysis and meta-regression of randomised controlled trials.	European journal of cancer care	2020	29	1	e13186
+31822158	Cuellar	N	Scholarship Development Series Part I: Writing a Review of the Literature.	Hispanic health care international : the official journal of the National Association of Hispanic Nurses	2019	17	4	144-148
+31815049	Wang	Y	Post-diagnosis smoking and risk of cardiovascular, cancer, and all-cause mortality in survivors of 10 adult cancers: a prospective cohort study.	American journal of cancer research	2019	9	11	2493-2514
+31812222	Kana	RK	Developmental Considerations of Comorbidity in Autism Spectrum Disorder: The Need for Science Across Multiple Units of Analysis.	Biological psychiatry. Cognitive neuroscience and neuroimaging	2019	4	12	1016-1017
+31810770	Fedewa	MV	Examining Race-Related Error in Two-Compartment Models of Body Composition Assessment: A Systematic Review and Meta-Analysis.	Journal of clinical densitometry : the official journal of the International Society for Clinical Densitometry	2019
+31809305	Carter-Templeton	H	Assessing the Scholarly Impact of CIN: Computers, Informatics, Nursing Publications.	Computers, informatics, nursing : CIN	2019	37	12	607-611
+31807201	Dobrynin	SA	Unexpected one-pot formation of the 1H-6a,8a-epiminotricyclopenta[a,c,e][8]annulene system from cyclopentanone, ammonia and dimethyl fumarate. Synthesis of highly strained polycyclic nitroxide and EPR study.	Beilstein journal of organic chemistry	2019	15	2664-2670
+31803063	Styga	JM	Does Body Shape in Fundulus Adapt to Variation in Habitat Salinity?	Frontiers in physiology	2019	10	1400
+31798510	Centanni	TM	Genetic and Environmental Influences on Decoding Skills - Implications for Music and Reading.	Frontiers in psychology	2019	10	2604
+31797160	Prasad	K	Time Pressure During Primary Care Office Visits: a Prospective Evaluation of Data from the Healthy Work Place Study.	Journal of general internal medicine	2020	35	2	465-472
+31796973	Ferguson	CC	Dietary Supplement Use is High among Individuals with Parkinson Disease.	Southern medical journal	2019	112	12	621-625
+31796606	Turko	AJ	Prolonged survival out of water is linked to a slow pace of life in a self-fertilizing amphibious fish.	The Journal of experimental biology	2019	222	Pt 24
+31790042	Salazar	L	Implementation and Evaluation of an Opioid Risk Questionnaire in the Outpatient Plastic Surgery Setting.	Plastic surgical nursing : official journal of the American Society of Plastic and Reconstructive Surgical Nurses	39	4	136-141
+31783718	Moore	CC	Letter to the editor regarding the article "Walking cadence required to elicit criterion moderate-intensity physical activity is moderated by fitness status" by Abt et al. (2019).	Journal of sports sciences	2020	38	3	304-305
+31780979	Farran	LK	Temporal Coordination in Mother-Infant Vocal Interaction: A Cross-Cultural Comparison.	Frontiers in psychology	2019	10	2374
+31775072	Park	S	Cellular uptake of protic ruthenium complexes is influenced by pH dependent passive diffusion and energy dependent efflux.	Journal of inorganic biochemistry	2020	203	110922
+31771118	Maryasov	AG	Theoretical Basis for Switching a Kramers Single Molecular Magnet by Circularly-Polarized Radiation.	Materials (Basel, Switzerland)	2019	12	23
+31769729	Varley	AL	Understanding Barriers and Facilitators to the Uptake of Best Practices for the Treatment of Co-Occurring Chronic Pain and Opioid Use Disorder.	Journal of dual diagnosis	16	2	239-249
+31765344	Snarr	RL	Comparison of Lactate and Electromyographical Thresholds After an Exercise Bout.	Journal of strength and conditioning research	2019	33	12	3322-3331
+31764915	Sirunyan	AM	Search for new physics in top quark production in dilepton final states in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	11	886
+31760891	Meadows	RJ	Spiritual health locus of control and life satisfaction among African American breast cancer survivors.	Journal of psychosocial oncology	38	3	343-357
+31750652	Sardar	S	Outer-Sphere Tyrosine 159 within the 3-Mercaptopropionic Acid Dioxygenase S-H-Y Motif Gates Substrate-Coordination Denticity at the Non-Heme Iron Active Site.	Biochemistry	2019	58	51	5135-5150
+31739686	Haynes	PL	Cognitive Processing Therapy for Posttraumatic Stress Disorder Is Associated with Negligible Change in Subjective and Objective Sleep.	Behavioral sleep medicine	18	6	809-819
+31736081	Lee	HY	Is health literacy associated with mental health literacy? Findings from Mental Health Literacy Scale.	Perspectives in psychiatric care	2020	56	2	393-400
+31729364	Scott	DT	Floodplain inundation spectrum across the United States.	Nature communications	2019	10	1	5194
+31728932	Curry	GD	The Impact of Educational Attainment on Black Women's Obesity Rate in the United States.	Journal of racial and ethnic health disparities	2020	7	2	345-354
+31727592	Wolter	DJ	Prevalence and clinical associations of Staphylococcus aureus small-colony variant respiratory infection in children with cystic fibrosis (SCVSA): a multicentre, observational study.	The Lancet. Respiratory medicine	2019	7	12	1027-1038
+31726603	Yao	Y	Transport of arsenic loaded by ferric humate colloid in saturated porous media.	Chemosphere	2020	240	124987
+31724718	Malygin	AA	Exploring the interactions of short RNAs with the human 40S ribosomal subunit near the mRNA entry site by EPR spectroscopy.	Nucleic acids research	2019	47	22	11850-11860
+31724345	D Welch	T	Is Facebook a viable recruitment tool?	Nurse researcher	2020	28	2	9-13
+31721801	Weingarten	EA	The gut microbiome of freshwater Unionidae mussels is determined by host species and is selectively retained from filtered seston.	PloS one	2019	14	11	e0224796
+31713548	Sirunyan	AM	Azimuthal separation in nearly back-to-back jet topologies in inclusive 2- and 3-jet events in pp collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	9	773
+31709008	Mocarski	R	The Rise of Transgender and Gender Diverse Representation in the Media: Impacts on the Population.	Communication, culture & critique	2019	12	3	416-433
+31708324	Meng	Y	A new method for evaluating the effectiveness of plastic packaging against radon penetration.	Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine	2020	156	108963
+31702413	Jean-Pierre	P	Item-level psychometrics of a brief self-reported memory problem screening measure in breast cancer survivors.	Acta oncologica (Stockholm, Sweden)	2020	59	3	358-364
+31702371	Anton	G	Search for Neutrinoless Double-β Decay with the Complete EXO-200 Dataset.	Physical review letters	2019	123	16	161802
+31702116	Malaia	EA	Dysregulation of temporal dynamics of synchronous neural activity in adolescents on autism spectrum.	Autism research : official journal of the International Society for Autism Research	2020	13	1	24-31
+31700501	Lee	LT	Understanding the Dietary Habits of Black Men With Diabetes.	The journal for nurse practitioners : JNP	2019	15	5	365-369
+31698151	Dillon	ME	Adaptation to the abiotic environment in insects: the influence of variability on ecophysiology and evolutionary genomics.	Current opinion in insect science	2019	36	131-139
+31698097	Malaia	EA	Age of acquisition effects differ across linguistic domains in sign language: EEG evidence.	Brain and language	2020	200	104708
+31697516	Sirunyan	AM	Search for a Light Charged Higgs Boson Decaying to a W Boson and a CP-Odd Higgs Boson in Final States with eμμ or μμμ in Proton-Proton Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	123	13	131802
+31691953	Nakod	PS	Three-dimensional biomimetic hyaluronic acid hydrogels to investigate glioblastoma stem cell behaviors.	Biotechnology and bioengineering	2020	117	2	511-522
+31688380	Hawley	L	Ethical Considerations in Chronic Brain Injury.	The Journal of head trauma rehabilitation	34	6	433-436
+31685214	Voruganti	D	Trends and Outcomes of Atrial Fibrillation-Flutter Hospitalizations Among Heart Transplant Recipients (From the National Inpatient Sample).	The American journal of cardiology	2020	125	1	87-91
+31685129	Han	H	Connecting levels of analysis in educational neuroscience: A review of multi-level structure of educational neuroscience with concrete examples.	Trends in neuroscience and education	2019	17	100113
+31683692	Focsan	AL	Supramolecular Carotenoid Complexes of Enhanced Solubility and Stability-The Way of Bioavailability Improvement.	Molecules (Basel, Switzerland)	2019	24	21
+31678175	Pak	TY	Food stamps, food insecurity, and health outcomes among elderly Americans.	Preventive medicine	2020	130	105871
+31673197	Halvorson	HM	Periphytic algae decouple fungal activity from leaf litter decomposition via negative priming.	Functional ecology	2019	33	1	188-201
+31669693	Edwards	KC	Release of trivalent chromium from serum transferrin is sufficiently rapid to be physiologically relevant.	Journal of inorganic biochemistry	2020	202	110901
+31662167	Lee	MH	Factors Associated with Mammogram Use in Korean American Immigrant Women.	American journal of health behavior	2019	43	6	1075-1085
+31661856	Imtiaz	MH	Wearable Sensors for Monitoring of Cigarette Smoking in Free-Living: A Systematic Review.	Sensors (Basel, Switzerland)	2019	19	21
+31659180	Sun	H	Fractal nature of groundwater level fluctuations affected by riparian zone vegetation water use and river stage variations.	Scientific reports	2019	9	1	15383
+31656900	Ma	Y	High-Throughput Screening and Surface Interrogation Studies of Au-Modified Hematite Photoanodes by Scanning Electrochemical Microscopy for Solar Water Splitting.	ACS omega	2019	4	17	17257-17268
+31656862	Park	S	Factor Structures of Reasons for Immigration Among Older Asian and Latino Immigrants in the United States.	Innovation in aging	2019	3	4	igz039
+31654899	Liu	Z	CeO2 nanorods supported M-Co bimetallic oxides (M = Fe, Ni, Cu) for catalytic CO and C3H8 oxidation.	Journal of colloid and interface science	2020	560	91-102
+31654543	Lynn	CD	The evolutionary adaptation of body art: Tattooing as costly honest signaling of enhanced immune response in American Samoa.	American journal of human biology : the official journal of the Human Biology Council	2019	e23347
+31650856	Moran	RN	Effects of attention deficit hyperactivity disorder and learning disability on vestibular and ocular baseline concussion assessment in pediatric athletes.	Applied neuropsychology. Child	2019	1-7
+31647644	Veerakanellore	GB	Synthesis of 1H-Pyrazol-5-yl-pyridin-2-yl-[1,2,4]triazinyl Soft-Lewis Basic Complexants via Metal and Oxidant Free [3 + 2] Dipolar Cycloaddition of Terminal Ethynyl Pyridines with Tosylhydrazides.	The Journal of organic chemistry	2019	84	22	14558-14570
+31638393	Palermo	AP	Spectroscopic Characterization of μ-η1:η1-Peroxo Ligands Formed by Reaction of Dioxygen with Electron-Rich Iridium Clusters.	Inorganic chemistry	2019	58	21	14338-14348
+31621378	Condon	SE	Examining emotional intelligence in older adults with chronic pain: a factor analysis approach.	Aging & mental health	2019	1-6
+31619116	Lund	EM	Childhood Disability-Related Abuse: A Retrospective Proof-of-Concept Study.	Journal of interpersonal violence	2019	886260519879240
+31618099	Hart	W	Entitled Due to Deprivation vs. Superiority: Evidence That Unidimensional Entitlement Scales Blend Distinct Entitlement Rationales across Psychological Dimensions.	Journal of personality assessment	2019	1-11
+31618023	Lee	ZR	Predicting the Formation of Sulfur-Based Brønsted Acids from the Reactions of SOx with H2O and H2S.	The journal of physical chemistry. A	2019	123	46	10169-10183
+31616583	Bayona-Vásquez	NJ	Adapterama III: Quadruple-indexed, double/triple-enzyme RADseq libraries (2RAD/3RAD).	PeerJ	2019	7	e7724
+31615198	Garg	R	Efficacy and Safety of Lumen-Apposing Stents for Management of Pancreatic Fluid Collections in a Community Hospital Setting.	Clinical endoscopy	2020	53	4	480-486
+31612294	McDaniel	JT	Small Area Estimation of Mental Distress Among United States Military Veterans in Illinois.	Community mental health journal	2020	56	2	298-302
+31611607	Oller	DK	Preterm and full term infant vocalization and the origin of language.	Scientific reports	2019	9	1	14734
+31609511	Titi	HM	Hypergolic Triggers as Co-crystal Formers: Co-crystallization for Creating New Hypergolic Materials with Tunable Energy Content.	Angewandte Chemie (International ed. in English)	2019	58	51	18399-18404
+31608735	Johnson	EC	Educational Intervention Changes College Students' Attitudes toward Prescription Opioid Drug Use.	Substance use & misuse	2020	55	3	367-376
+31608305	Wingo	JE	Fan cooling after cardiovascular drift does not reverse decrements in maximal oxygen uptake during heat stress.	Temperature (Austin, Tex.)	2019	6	3	260-270
+31605899	Chapman	MS	Does group membership affect children's judgments of social transgressions?	Journal of experimental child psychology	2020	189	104695
+31596567	Qiu	J	Rapid-Response, Low Detection Limit, and High-Sensitivity Capacitive Flexible Tactile Sensor Based on Three-Dimensional Porous Dielectric Layer for Wearable Electronic Skin.	ACS applied materials & interfaces	2019	11	43	40716-40725
+31587721	King	D	Perioperative Considerations in Patients With Concussion.	AANA journal	2019	87	2	97-104
+31583412	Wheat	J	Teaching Medical Students in the Rural Setting Long Term: Physicians' Attitudes and Perceptions.	Southern medical journal	2019	112	10	526-530
+31577642	Vincent	JB	Effects of chromium supplementation on body composition, human and animal health, and insulin and glucose metabolism.	Current opinion in clinical nutrition and metabolic care	2019	22	6	483-489
+31562756	Moon	SJ	Accuracy of Machine Learning Algorithms for the Diagnosis of Autism Spectrum Disorder: Systematic Review and Meta-Analysis of Brain Magnetic Resonance Imaging Studies.	JMIR mental health	2019	6	12	e14108
+31561050	Albright	DL	Small area estimation of human papillomavirus vaccination coverage among school-age children in Alabama counties.	Public health	2019	177	120-127
+31559848	Ha	H	A spatial epidemiology case study of mentally unhealthy days (MUDs): air pollution, community resilience, and sunlight perspectives.	International journal of environmental health research	2019	1-16
+31556998	Jian	T	Activation of Water by Pentavalent Actinide Dioxide Cations: Characteristic Curium Revealed by a Reactivity Turn after Americium.	Inorganic chemistry	2019	58	20	14005-14014
+31553584	Hu	H	Synthesis, Structural Characterization, and Coordination Chemistry of (Trineopentylphosphine)palladium(aryl)bromide Dimer Complexes ([(Np3P)Pd(Ar)Br]2).	Inorganic chemistry	2019	58	19	13299-13313
+31549588	Ruggiano	N	Does the DSW Practice Doctorate Provide Opportunities for Closing Gaps in Gerontology?	Journal of gerontological social work	62	6	605-612
+31549327	Bushnell	GG	High Frequency Spectral Ultrasound Imaging to Detect Metastasis in Implanted Biomaterial Scaffolds.	Annals of biomedical engineering	2020	48	1	477-489
+31546688	Xu	J	Injury Severity and Contributing Driver Actions in Passenger Vehicle-Truck Collisions.	International journal of environmental research and public health	2019	16	19
+31544959	Bushnell	GG	Microporous scaffolds loaded with immunomodulatory lentivirus to study the contribution of immune cell populations to tumor cell recruitment in vivo.	Biotechnology and bioengineering	2020	117	1	210-222
+31542961	Moran	RN	Sex differences and normative data for the m-CTSIB and sensory integration on baseline concussion assessment in collegiate athletes.	Brain injury	2020	34	1	20-25
+31542940	Senkus	KE	Influence of mouth rinse use on the enterosalivary pathway and blood pressure regulation: A systematic review.	Critical reviews in food science and nutrition	2020	60	17	2874-2886
+31538839	Azimi	AM	Identifying Poly-Victimization Among Prisoners: An Application of Latent Class Analysis.	Journal of interpersonal violence	2019	886260519876021
+31532349	Shelton	SA	Entangling past, present, and future to examine queerness and white privilege in academia.	Journal of lesbian studies	2020	24	4	348-361
+31530868	Ribeiro	LP	Bullfrog farms release virulent zoospores of the frog-killing fungus into the natural environment.	Scientific reports	2019	9	1	13422
+31524889	Sirunyan	AM	Measurement of exclusive ρ 770 0 photoproduction in ultraperipheral pPb collisions at s NN = 5.02 Te .	The European physical journal. C, Particles and fields	2019	79	8	702
+31522623	Luci	K	SAVE-CLC: An Intervention to Reduce Suicide Risk in Older Veterans following Discharge from VA Nursing Facilities.	Clinical gerontologist	43	1	118-125
+31517572	Jung	SE	Application of the Theory of Planned Behavior to Predict Nutrition Students' Intention to Work with Older Adults.	Journal of nutrition in gerontology and geriatrics	39	1	44-55
+31514030	Ahsan	MA	Nanoscale nickel metal organic framework decorated over graphene oxide and carbon nanotubes for water remediation.	The Science of the total environment	2020	698	134214
+31512992	Carmack	HJ	Students' Perceptions of Provider Cultural Competence and Communication with Providers: Predictors of University Health Center Patient Satisfaction.	Journal of health communication	2019	24	9	719-727
+31505710	Malaia	EA	Syllable as a unit of information transfer in linguistic communication: The entropy syllable parsing model.	Wiley interdisciplinary reviews. Cognitive science	2020	11	1	e1518
+31502874	Simmons	GL	Considering equifinality in treatment planning for social impairment: Divergent paths in neurodevelopmental disorders.	Bulletin of the Menninger Clinic	2019	83	3	278-300
+31501978	Stefanidou	N	Response of a coastal Baltic Sea diatom-dominated phytoplankton community to experimental heat shock and changing salinity.	Oecologia	2019	191	2	461-474
+31497676	LoBue	SA	Recurrent herpes zoster ophthalmicus in a young, healthy individual taking high doses of l-Arginine.	American journal of ophthalmology case reports	2019	16	100547
+31493639	Pak	TY	Welfare stigma as a risk factor for major depressive disorder: Evidence from the Supplemental Nutrition Assistance Program.	Journal of affective disorders	2020	260	53-60
+31491269	Bhandari	B	First Measurement of the Total Neutron Cross Section on Argon between 100 and 800 MeV.	Physical review letters	2019	123	4	042502
+31488921	Wind	SA	Exploring the Combined Effects of Rater Misfit and Differential Rater Functioning in Performance Assessments.	Educational and psychological measurement	2019	79	5	962-987
+31488918	Konstantopoulos	S	Using Quantile Regression to Estimate Intervention Effects Beyond the Mean.	Educational and psychological measurement	2019	79	5	883-910
+31487901	Sekulic	D	Importance of Agility Performance in Professional Futsal Players; Reliability and Applicability of Newly Developed Testing Protocols.	International journal of environmental research and public health	2019	16	18
+31482773	Agyapong	VIO	Psychiatry as a specialization: influential factors and gender differences among medical students in a low- to middle-income country.	Irish journal of psychological medicine	2020	37	2	111-117
+31481676	Maitra	U	Innate immune responses to paraquat exposure in a Drosophila model of Parkinson's disease.	Scientific reports	2019	9	1	12714
+31472032	Brown	S	Molecular Structure of Binary Chromium(III)-DNA Adducts.	Chembiochem : a European journal of chemical biology	2020	21	5	628-631
+31469237	Zhang	Y	Can L-glutamine augmented heat shock protein 70 expression prevent exercise-induced exertional heat stroke and sudden cardiac death?	CNS neuroscience & therapeutics	2020	26	1	148-150
+31468988	Costlow	K	The impact of relocation stress on cognitively impaired and cognitively unimpaired long-term care residents.	Aging & mental health	2020	24	10	1589-1595
+31465246	Birch	DA	Quality Assurance in Teaching K-12 Health Education: Paving a New Path Forward.	Health promotion practice	2019	20	6	845-857
+31465239	Birch	DA	Public Health and School Health Education: Aligning Forces for Change.	Health promotion practice	2019	20	6	818-823
+31459882	Berton	P	Solubility Studies of Cyclosporine Using Ionic Liquids.	ACS omega	2019	4	5	7938-7943
+31459559	Kammakakam	I	Design and Synthesis of Imidazolium-Mediated Tröger's Base-Containing Ionene Polymers for Advanced CO2 Separation Membranes.	ACS omega	2019	4	2	3439-3448
+31456258	Dressler	WW	The construction of the cultural niche: A biocultural model.	American journal of human biology : the official journal of the Human Biology Council	2019	e23311
+31455512	Oermann	MH	Response to letter to the editor from Fahmi Kakamad, Abdulwahid Salih, and Hiwa Omer Baba Re: Citations of articles in predatory nursing journals.	Nursing outlook	67	5	504-505
+31454739	Liu	J	Pedestrian injury severity in motor vehicle crashes: An integrated spatio-temporal modeling approach.	Accident; analysis and prevention	2019	132	105272
+31452486	Lochman	JE	Group versus individual format of intervention for aggressive children: Moderators and predictors of outcomes through 4 years after intervention.	Development and psychopathology	2019	31	5	1757-1775
+31449893	Reid	BM	Finite state projection for approximating the stationary solution to the chemical master equation using reaction rate equations.	Mathematical biosciences	2019	316	108243
+31444712	Nunn	A	Reducing the African American HIV Disease Burden in the Deep South: Addressing the Role of Faith and Spirituality.	AIDS and behavior	2019	23	Suppl 3	319-330
+31442303	Demark-Wahnefried	W	Randomized trial of weight loss in primary breast cancer: Impact on body composition, circulating biomarkers and tumor characteristics.	International journal of cancer	2020	146	10	2784-2796
+31441657	Fang	Z	Formation of Cerium and Neodymium Isocyanides in the Reactions of Cyanogen with Ce and Nd Atoms in Argon Matrices.	The journal of physical chemistry. A	2019	123	38	8208-8219
+31431045	Kamradt	JM	Barkley Deficits in Executive Functioning Scale (BDEFS): Validation in a Large Multisite College Sample.	Assessment	2019	1073191119869823
+31430408	Arens	JS	Acidic residues and a predicted, highly conserved α-helix are critical for the endonuclease/strand separation functions of bacteriophage λ's TerL.	Molecular microbiology	2019	112	5	1483-1498
+31428854	Johnson	EC	Urinary markers of hydration during 3-day water restriction and graded rehydration.	European journal of nutrition	2020	59	5	2171-2181
+31427646	Zi	T	Intercomparing varied erosion, deposition and transport process representations for simulating sediment yield.	Scientific reports	2019	9	1	12029
+31425658	Erdman	SA	The Tinnitus Retraining Therapy Trial's Standard of Care Control Condition: Rationale and Description of a Patient-Centered Protocol.	American journal of audiology	2019	28	3	534-547
+31412262	Kim	JH	Structural and Mechanistic Insights into Caffeine Degradation by the Bacterial N-Demethylase Complex.	Journal of molecular biology	2019	431	19	3647-3661
+31411130	Guo	Y	Factors Associated with Adherence to Preventive Breast Cancer Screenings among Middle-aged African American Women.	Social work in public health	2019	34	7	646-656
+31410785	Choi	YJ	Predictors of Cervical Cancer Screening Awareness and Literacy Among Korean-American Women.	Journal of racial and ethnic health disparities	2020	7	1	1-9
+31410272	Pimsler	ML	Gene expression correlates of facultative predation in the blow fly Chrysomya rufifacies (Diptera: Calliphoridae).	Ecology and evolution	2019	9	15	8690-8701
+31409249	Becker	CG	Low-load pathogen spillover predicts shifts in skin microbiome and survival of a terrestrial-breeding amphibian.	Proceedings. Biological sciences	2019	286	1908	20191114
+31409029	Han	H	Evaluating Alternative Correction Methods for Multiple Comparison in Functional Neuroimaging Research.	Brain sciences	2019	9	8
+31397695	Hooker	RS	Are PAs and NPs interchangeable?	JAAPA : official journal of the American Academy of Physician Assistants	2019	32	9	16-17
+31397444	Sirunyan	AM	Search for a heavy pseudoscalar boson decaying to a Z and a Higgs boson at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	7	564
+31393098	Khalil	H	Cell-specific ablation of Hsp47 defines the collagen-producing cells in the injured heart	JCI insight	2019	4	15	e128722
+31386524	Sirunyan	AM	Studies of Beauty Suppression via Nonprompt D^{0} Mesons in Pb-Pb Collisions at sqrt[s_{NN}]=5.02 TeV.	Physical review letters	2019	123	2	022001
+31386510	Acharya	B	Magnetic Monopole Search with the Full MoEDAL Trapping Detector in 13 TeV pp Collisions Interpreted in Photon-Fusion and Drell-Yan Production.	Physical review letters	2019	123	2	021802
+31385814	Pyron	L	Improved Patient Flow and Provider Efficiency After the Implementation of an Electronic Health Record.	Computers, informatics, nursing : CIN	2019	37	10	513-521
+31385174	Rankin	JA	Screening of Broader Autism Phenotype Symptoms in Siblings: Support for a Distinct Model of Symptomatology.	Journal of autism and developmental disorders	2019	49	11	4686-4690
+31384021	Wahl	D	Palaeoenvironmental, epigraphic and archaeological evidence of total warfare among the Classic Maya.	Nature human behaviour	2019	3	10	1049-1054
+31377102	Bailey	GF	Characterization and expression of tyrosinase-like genes in the anemone Exaiptasia pallida as a function of health and symbiotic state.	Developmental and comparative immunology	2019	101	103459
+31376495	Snodgrass	JG	Positive mental well-being and immune transcriptional profiles in highly involved videogame players.	Brain, behavior, and immunity	2019	82	84-92
+31369789	Wilhelm	RA	Neural and Attentional Correlates of Intrinsic Motivation Resulting from Social Performance Expectancy.	Neuroscience	2019	416	137-146
+31368706	Szala-Bilnik	J	Molecular Transport Behavior of CO2 in Ionic Polyimides and Ionic Liquid Composite Membrane Materials.	The journal of physical chemistry. B	2019	123	34	7455-7463
+31365801	Shanafelt	TD	Ibrutinib-Rituximab or Chemoimmunotherapy for Chronic Lymphocytic Leukemia.	The New England journal of medicine	2019	381	5	432-443
+31365223	Moukha-Chafiq	O	Parallel Solution Phase Synthesis and Preliminary Biological Activity of a 5'-Substituted Cytidine Analog Library.	ACS combinatorial science	2019	21	9	628-634
+31357425	Idarraga-Mora	JA	Effect of Short-Term Contact with C1-C4 Monohydric Alcohols on the Water Permeance of MPD-TMC Thin-Film Composite Reverse Osmosis Membranes.	Membranes	2019	9	8
+31356714	Mugoya	GCT	Depression and intimate partner violence among urban Kenyan caregivers of children with disabilities.	Journal of psychiatric and mental health nursing	2020	27	1	41-53
+31356334	Middleton	C	Improving Screening and Education for Secondhand Smoke Exposure in Primary Care Settings.	The American journal of nursing	2019	119	8	51-58
+31356061	Wacker	JN	Monomeric and Trimeric Thorium Chlorides Isolated from Acidic Aqueous Solution.	Inorganic chemistry	2019	58	16	10871-10882
+31351312	Richey	JA	Sensitivity shift theory: A developmental model of positive affect and motivational deficits in social anxiety disorder.	Clinical psychology review	2019	72	101756
+31345781	Ma	L	Altered Effective Connectivity of Central Autonomic Network in Response to Negative Facial Expression in Adults With Cannabis Use Disorder.	Biological psychiatry. Cognitive neuroscience and neuroimaging	2020	5	1	84-96
+31345045	Lippe	M	Exploring End-of-Life Care Team Communication: An Interprofessional Simulation Study.	The American journal of hospice & palliative care	2020	37	1	65-71
+31344576	Lopes	JMS	On the excitation dependence of fluorescence spectra of meso-tetrapyridyl zinc (II) porphyrin and its relation with hydrogen bonding and outlying decoration.	Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy	2020	224	117371
+31343962	Jaiswal	J	Towards a More Inclusive and Dynamic Understanding of Medical Mistrust Informed by Science.	Behavioral medicine (Washington, D.C.)	45	2	79-85
+31343532	Key	BA	Using precision medicine to individualize healthcare.	Nursing	2019	49	8	43-45
+31328688	Jin	SW	Analyzing factors enabling colorectal cancer screening adherence in Korean Americans using the Andersen's Behavioral Model of Health Services Utilization.	Journal of psychosocial oncology	37	6	729-745
+31324008	Belval	LN	Practical Hydration Solutions for Sports.	Nutrients	2019	11	7
+31323231	Asokkumar	R	"Snow-white" small bowel: What could this be? (with video).	Gastrointestinal endoscopy	2019	90	6	990-991
+31319748	Smith	DM	Momentary Reports of Fatigue Predict Physical Activity Level: Wrist, Waist, and Combined Accelerometry.	Journal of aging and health	2019	898264319863609
+31318082	Almeyda Zambrano	SL	Habitat preference in the critically endangered yellow-tailed woolly monkey (Lagothrix flavicauda) at La Esperanza, Peru.	American journal of primatology	2019	81	8	e23032
+31318047	Hart	W	'You Are What You Read:' Is selective exposure a way people tell us who they are?	British journal of psychology (London, England : 1953)	2020	111	3	417-442
+31317440	Vickers	M	Factors Associated with HPV Vaccination Uptake and HPV-Associated Cancers: A County-Level Analysis in the State of Alabama.	Journal of community health	2019	44	6	1214-1223
+31316544	Hope	KA	The Drosophila Gene Sulfateless Modulates Autism-Like Behaviors.	Frontiers in genetics	2019	10	574
+31308615	Jin	SW	Analyzing Factors of Breast Cancer Screening Adherence among Korean American Women Using Andersen's Behavioral Model of Healthcare Services Utilization.	Ethnicity & disease	2019	29	Suppl 2	427-434
+31306118	McDonough	IM	Dementia Risk Elevates Brain Activity During Memory Retrieval: A Functional MRI Analysis of Middle Aged and Older Adults.	Journal of Alzheimer's disease : JAD	2019	70	4	1005-1023
+31306010	Wei	R	Infrared Spectroscopic and Theoretical Studies of the 3d Transition Metal Oxyfluoride Molecules.	Inorganic chemistry	2019	58	15	9796-9810
+31303984	Maitra	U	Using Drosophila as a platform for drug discovery from natural products in Parkinson's disease.	MedChemComm	2019	10	6	867-879
+31300069	Voruganti	DC	Temporal trends and factors associated with increased mortality among atrial fibrillation weekend hospitalizations: an insight from National Inpatient Sample 2005-2014.	BMC research notes	2019	12	1	398
+31290910	He	Z	Polymer additive controlled morphology for high performance organic thin film transistors.	Soft matter	2019	15	29	5790-5803
+31288694	Perry	BW	Multi-species comparisons of snakes identify coordinated signalling networks underlying post-feeding intestinal regeneration.	Proceedings. Biological sciences	2019	286	1906	20190910
+31287228	Esco	MR	Agreement between supine and standing bioimpedance spectroscopy devices and dual-energy X-ray absorptiometry for body composition determination.	Clinical physiology and functional imaging	2019	39	5	355-361
+31283870	Jaegers	NR	Mechanism by which Tungsten Oxide Promotes the Activity of Supported V2 O5 /TiO2 Catalysts for NOX Abatement: Structural Effects Revealed by 51 V MAS NMR Spectroscopy.	Angewandte Chemie (International ed. in English)	2019	58	36	12609-12616
+31283749	Elgin	LB	Comparisons of Trauma Outcomes and Injury Severity Score.	Journal of trauma nursing : the official journal of the Society of Trauma Nurses	26	4	199-207
+31277233	O'Harra	KE	Synthesis and Performance of 6FDA-Based Polyimide-Ionenes and Composites with Ionic Liquids as Gas Separation Membranes.	Membranes	2019	9	7
+31275886	Whitley	HP	Rationale of family medicine physicians in effectively identifying patients with chronic hyperglycemia through point-of-care hemoglobin A1C screenings.	Journal of diabetes and metabolic disorders	2019	18	1	155-162
+31271989	Chen	S	Hurricane pulses: Small watershed exports of dissolved nutrients and organic matter during large storms in the Southeastern USA.	The Science of the total environment	2019	689	232-244
+31270202	Marc	A	Complete Genome Sequence of Staphylococcus aureus Siphophage Lorac.	Microbiology resource announcements	2019	8	27
+31267783	Wallace	TC	Fruits, vegetables, and health: A comprehensive narrative, umbrella review of the science and recommendations for enhanced public policy to improve intake.	Critical reviews in food science and nutrition	2020	60	13	2174-2211
+31266265	Zheng	S	Design and Evaluation of an Acoustic Modem for a Small Autonomous Unmanned Vehicle.	Sensors (Basel, Switzerland)	2019	19	13
+31265003	Sirunyan	AM	Search for supersymmetry in events with a photon, jets, b -jets, and missing transverse momentum in proton-proton collisions at 13 Te .	The European physical journal. C, Particles and fields	2019	79	5	444
+31261893	Hartman	JH	Genetic Defects in Mitochondrial Dynamics in Caenorhabditis elegans Impact Ultraviolet C Radiation- and 6-hydroxydopamine-Induced Neurodegeneration.	International journal of molecular sciences	2019	20	13
+31259501	Halli-Tierney	AD	Polypharmacy: Evaluating Risks and Deprescribing.	American family physician	2019	100	1	32-38
+31255305	Oermann	MH	Citations of articles in predatory nursing journals.	Nursing outlook	67	6	664-670
+31252090	Day	MA	Moderators of Mindfulness Meditation, Cognitive Therapy, and Mindfulness-Based Cognitive Therapy for Chronic Low Back Pain: A Test of the Limit, Activate, and Enhance Model.	The journal of pain : official journal of the American Pain Society	21	1-2	161-169
+31248994	Freeman	ME	Complete Genome Sequences of Staphylococcus epidermidis Myophages Quidividi, Terranova, and Twillingate.	Microbiology resource announcements	2019	8	26
+31248989	Blahut	M	Direct observation of intermediates in the SufS cysteine desulfurase reaction reveals functional roles of conserved active-site residues.	The Journal of biological chemistry	2019	294	33	12444-12458
+31244394	Shah	A	Gerontological social work and cardiac rehabilitation.	Social work in health care	2019	58	7	633-650
+31241027	Jung	SE	Grocery store tour education programme promotes fruit and vegetable consumption.	Public health nutrition	2019	22	14	2662-2669
+31238845	Greenspan	SE	Arthropod-bacteria interactions influence assembly of aquatic host microbiome and pathogen defense.	Proceedings. Biological sciences	2019	286	1905	20190924
+31234608	Fang	X	Effect of Acute Ingestion of Green Tea Extract and Lemon Juice on Oxidative Stress and Lipid Profile in Pigs Fed a High-Fat Diet.	Antioxidants (Basel, Switzerland)	2019	8	6
+31232872	Key	B	Role Modeling in Simulation as an Inductive Classroom Learning Strategy for Nursing Education.	Nursing education perspectives	2019
+31228772	Booth	JM	Experimental comparison of agent-enhanced flushing for the recovery of crude oil from saturated porous media.	Journal of contaminant hydrology	2019	226	103504
+31225894	Linzer	M	Characteristics of Health Care Organizations Associated With Clinician Trust: Results From the Healthy Work Place Study.	JAMA network open	2019	2	6	e196201
+31225749	Hatoum-Aslan	A	CRISPR-Cas3 Adds a Power Saw to the Toolbox for Human Genome Engineering.	The CRISPR journal	2019	2	150-152
+31219778	Taylor	MA	Child Sexual Abuse Exam Results in West Alabama.	Journal of child sexual abuse	2020	29	1	90-111
+31217968	Crowe-White	KM	Lycopene and cognitive function.	Journal of nutritional science	2019	8	e20
+31217643	Abbaszadeh	P	The Quest for Model Uncertainty Quantification: A Hybrid Ensemble and Variational Data Assimilation Framework.	Water resources research	2019	55	3	2407-2431
+31216940	Williams	ES	The Personal and Professional Consequences of Physician Burnout: A Systematic Review of the Literature.	Medical care research and review : MCRR	2020	77	5	371-386
+31215010	Morett	LM	Listeners consider alternative speaker productions in discourse comprehension and memory: Evidence from beat gesture and pitch accenting.	Memory & cognition	2019	47	8	1515-1530
+31209397	Navarro-Soriano	C	Factors associated with the changes from a resistant to a refractory phenotype in hypertensive patients: a Pragmatic Longitudinal Study.	Hypertension research : official journal of the Japanese Society of Hypertension	2019	42	11	1708-1715
+31200203	Milavec	J	1,4-Dioxane cosolvency impacts on trichloroethene dissolution and sorption.	Environmental pollution (Barking, Essex : 1987)	2019	252	Pt A	777-783
+31199686	Faught	GG	Modeling the Relations Among Sustained Attention, Short-Term Memory, and Language in Down Syndrome.	American journal on intellectual and developmental disabilities	2019	124	4	293-308
+31199340	Lee	HY	Development of a Mobile Health Intervention to Promote Papanicolaou Tests and Human Papillomavirus Vaccination in an Underserved Immigrant Population: A Culturally Targeted and Individually Tailored Text Messaging Approach.	JMIR mHealth and uHealth	2019	7	6	e13256
+31197129	Chen	R	Parkinson's disease protein DJ-1 regulates ATP synthase protein components to increase neuronal process outgrowth.	Cell death & disease	2019	10	6	469
+31195978	Smythe	AB	Improved phylogenomic sampling of free-living nematodes enhances resolution of higher-level nematode phylogeny.	BMC evolutionary biology	2019	19	1	121
+31191389	Yoo	H	Acoustic Correlates and Adult Perceptions of Distress in Infant Speech-Like Vocalizations and Cries.	Frontiers in psychology	2019	10	1154
+31189954	Sogabe	S	Pluripotency and the origin of animal multicellularity.	Nature	2019	570	7762	519-522
+31189327	Steele	EM	Development of a Tool to Assess Trainees' Ability to Design and Conduct Quality Improvement Projects.	American journal of medical quality : the official journal of the American College of Medical Quality	35	2	125-132
+31185538	Das	S	Highly Active Ruthenium CNC Pincer Photocatalysts for Visible-Light-Driven Carbon Dioxide Reduction.	Inorganic chemistry	2019	58	12	8012-8020
+31180390	Sirunyan	AM	Search for vector-like quarks in events with two oppositely charged leptons and jets in proton-proton collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	4	364
+31178657	Sirunyan	AM	Combined measurements of Higgs boson couplings in proton-proton collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	5	421
+31169067	Ozkan	T	Predicting Sexual Recidivism.	Sexual abuse : a journal of research and treatment	2020	32	4	375-399
+31162209	Mumba	MN	A Retrospective Descriptive Study of Nurses With Substance Use Disorders in Texas.	Journal of addictions nursing	30	2	78-86
+31155326	Yu	C	Quantifying colloid fate and transport through dense vegetation and soil systems using a particle-plugging tempered fractional-derivative model.	Journal of contaminant hydrology	2019	224	103484
+31151368	Yanagida	R	Bridging to lung transplantation with double-lumen venovenous extracorporeal membrane oxygenation.	The International journal of artificial organs	2019	42	11	621-627
+31148943	Sirunyan	AM	Measurement of the t t ¯ production cross section, the top quark mass, and the strong coupling constant using dilepton events in pp collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	5	368
+31148318	Zhao	J	Intensified inundation shifts a freshwater wetland from a CO2 sink to a source.	Global change biology	2019	25	10	3319-3333
+31145045	Crowe-White	KM	Dietary Quality Assessed by the HEI-2010 and Biomarkers of Cardiometabolic Disease: An Exploratory Analysis.	Journal of the American College of Nutrition	38	7	640-647
+31140916	Meints	SM	Racial and ethnic differences in the experience and treatment of noncancer pain.	Pain management	2019	9	3	317-334
+31139745	London	AE	A high-spin ground-state donor-acceptor conjugated polymer.	Science advances	2019	5	5	eaav2336
+31138976	Hartmann	CW	Development of a Program to Support VA Community Living Centers' Quality Improvement.	Federal practitioner : for the health care professionals of the VA, DoD, and PHS	2019	36	5	228-231
+31136239	Werfel	KL	Linguistic Contributions to Word-Level Spelling Accuracy in Elementary School Children With and Without Specific Language Impairment.	American journal of speech-language pathology	2019	28	2	599-611
+31135638	Duffey	P	Evaluating the Use of High-Reliability Principles to Increase Error Event Reporting: A Retrospective Review.	The Journal of nursing administration	2019	49	6	310-314
+31135616	Melendez	CT	Improving Perioperative Knowledge, Self-Efficacy, and Performance in Labor and Delivery Nurses: A Quality Improvement Project.	Journal for nurses in professional development	35	4	E9-E14
+31135470	Frazier	RM	Current Trends in Robotics in Nursing Patents-A Glimpse Into Emerging Innovations.	Computers, informatics, nursing : CIN	2019
+31130029	Cox	J	Partiality in Prosecution? Discretionary Prosecutorial Decision Making and Intimate Partner Violence.	Journal of interpersonal violence	2019	886260519849689
+31129549	Haque	U	The human cost of global warming: Deadly landslides and their triggers (1995-2014).	The Science of the total environment	2019	682	673-684
+31126079	Coelho	AB	Heart Rate Variability and Stress Recovery Responses during a Training Camp in Elite Young Canoe Sprint Athletes.	Sports (Basel, Switzerland)	2019	7	5
+31120533	Scherer	RW	Effect of Tinnitus Retraining Therapy vs Standard of Care on Tinnitus-Related Quality of Life: A Randomized Clinical Trial.	JAMA otolaryngology-- head & neck surgery	2019	145	7	597-608
+31120480	Formby	C	The Search for and Conduct of the Elusive Phase 3 Randomized Clinical Trial: Snipe Hunting With the Military.	JAMA otolaryngology-- head & neck surgery	2019	145	7	595-596
+31119839	Chinn	PL	An analysis of nursing citations and disciplinary characteristics in 79 articles that represent excellence in nursing publication.	Nursing inquiry	2019	26	3	e12296
+31116017	Morthland	M	Development of an audio and computer cognitive behavioral therapy for depression in older adults.	Aging & mental health	2020	24	8	1207-1215
+31110279	Lu	M	Geochemical Evidence of First Forestation in the Southernmost Euramerica from Upper Devonian (Famennian) Black Shales.	Scientific reports	2019	9	1	7581
+31107487	Gao	Y	Photo-induced charge separation in hydroxycoumarins on TiO2 and F-TiO2.	Dalton transactions (Cambridge, England : 2003)	2019	48	29	10881-10891
+31107194	Dames	LS	Correlates of dysfunctional career thoughts in breast cancer survivors from the Bahamas.	Journal of psychosocial oncology	37	5	665-675
+31105317	DiStefano	C	Fitting Large Factor Analysis Models With Ordinal Data.	Educational and psychological measurement	2019	79	3	417-436
+31097524	Brodsky	SL	Distractions in Forensic Evaluations.	The journal of the American Academy of Psychiatry and the Law	2019	47	3	360-364
+31093801	Ireri	NW	Treating Anxiety and Social Deficits in Children with Autism Spectrum Disorder in Two Schools in Nairobi, Kenya.	Journal of autism and developmental disorders	2019	49	8	3309-3315
+31091738	Shelley-Tremblay	JF	A Laboratory Word Memory Test Analogue Differentiates Intentional Feigning from True Responding Using the P300 Event-Related Potential.	Brain sciences	2019	9	5
+31085096	Herr	K	Psychometric Evaluation of the MOBID Dementia Pain Scale in U.S. Nursing Homes.	Pain management nursing : official journal of the American Society of Pain Management Nurses	2019	20	3	253-260
+31079324	Hartheimer	JS	Targeting Hyaluronan Interactions for Glioblastoma Stem Cell Therapy.	Cancer microenvironment : official journal of the International Cancer Microenvironment Society	2019	12	1	47-56
+31076459	Nasef	M	Regulation of cyclic oligoadenylate synthesis by the Staphylococcus epidermidis Cas10-Csm complex.	RNA (New York, N.Y.)	2019	25	8	948-962
+31075327	Wang	Y	Effects of macromolecular humic/fulvic acid on Cd(II) adsorption onto reed-derived biochar as compared with tannic acid.	International journal of biological macromolecules	2019	134	43-55
+31073792	Azrad	M	Adult weight gain accelerates the onset of breast cancer.	Breast cancer research and treatment	2019	176	3	649-656
+31073192	Schlef	KE	Atmospheric Circulation Patterns Associated with Extreme United States Floods Identified via Machine Learning.	Scientific reports	2019	9	1	7171
+31065946	Blum	A	Patient Ladies.	Journal of general internal medicine	2019	34	7	1364-1365
+31064303	Kocot	KM	Phylogenomics of Aplacophora (Mollusca, Aculifera) and a solenogaster without a foot.	Proceedings. Biological sciences	2019	286	1902	20190115
+31062219	Pritzker	SE	Technologies of the Social: Family Constellation Therapy and the Remodeling of Relational Selfhood in China and Mexico.	Culture, medicine and psychiatry	2019	43	3	468-495
+31056937	Martin	JA	Looking back on wartime service: Reminiscence by James G. Van Straten.	Aging & mental health	2019	23	9	1067-1073
+31056402	Freeborn	TJ	Time-course bicep tissue bio-impedance changes throughout a fatiguing exercise protocol.	Medical engineering & physics	2019	69	109-115
+31055153	Vogel	F	Carbide and nitride phase characterization in a transition metal carbo-nitride using x-ray spectroscopy and atom probe tomography.	Micron (Oxford, England : 1993)	2019	122	32-40
+31050519	Sirunyan	AM	Search for W Boson Decays to Three Charged Pions.	Physical review letters	2019	122	15	151802
+31050516	Sirunyan	AM	Jet Shapes of Isolated Photon-Tagged Jets in Pb-Pb and pp Collisions at sqrt[s_{NN}]=5.02 TeV.	Physical review letters	2019	122	15	152001
+31045695	Hooper	GL	Evaluation and current treatments for urinary incontinence.	The Nurse practitioner	2019	44	6	21-28
+31036415	Nickerson	BS	The relative accuracy of skinfolds compared to four-compartment estimates of body composition.	Clinical nutrition (Edinburgh, Scotland)	2020	39	4	1112-1116
+31035746	Yu	X	Reaction Temperature and Partial Pressure Induced Etching of Methylammonium Lead Iodide Perovskite by Trimethylaluminum.	Langmuir : the ACS journal of surfaces and colloids	2019	35	20	6522-6531
+31035597	Flatt	AA	Daily Heart Rate Variability before and after Concussion in an American College Football Player.	Sports (Basel, Switzerland)	2019	7	5
+32984777	Desai	JP	Towards Patient-Specific 3D-Printed Robotic Systems for Surgical Interventions.	IEEE transactions on medical robotics and bionics	2019	1	2	77-87
+31034328	Morrison	R	Pre- to Post-Season Changes on The BTrackS Force-Plate in a Sample of Collegiate Athletes.	Journal of sport rehabilitation	2019	1-12
+31031568	Sirunyan	AM	Measurement of the top quark mass in the all-jets final state at s = 13 TeV and combination with the lepton+jets channel.	The European physical journal. C, Particles and fields	2019	79	4	313
+31030299	Hazra	T	A super-Gaussian Poisson-Boltzmann model for electrostatic free energy calculation: smooth dielectric distribution for protein cavities and in both water and vacuum states.	Journal of mathematical biology	2019	79	2	631-672
+31029189	Gunn	HE	Brief Behavioral Treatment of Insomnia.	Sleep medicine clinics	2019	14	2	235-243
+31022555	Van Dyke	BP	Heterogeneity of Treatment Effects in a Randomized Trial of Literacy-Adapted Group Cognitive-Behavioral Therapy, Pain Psychoeducation, and Usual Medical Care for Multiply Disadvantaged Patients With Chronic Pain.	The journal of pain : official journal of the American Pain Society	2019	20	10	1236-1248
+31017392	Narkhede	AA	Role of Surface Chemistry in Mediating the Uptake of Ultrasmall Iron Oxide Nanoparticles by Cancer Cells.	ACS applied materials & interfaces	2019	11	19	17157-17166
+31015018	Soylu	F	ERP differences in processing canonical and noncanonical finger-numeral configurations.	Neuroscience letters	2019	705	74-79
+31014903	Ghosh	J	A pore-scale investigation of heavy crude oil trapping and removal during surfactant-enhanced remediation.	Journal of contaminant hydrology	2019	223	103471
+31013113	Moran	RN	Sex Differences on Vestibular and Ocular Motor Assessment in Youth Athletes.	Journal of athletic training	2019	54	4	445-448
+31012697	Sirunyan	AM	Search for Dark Matter Particles Produced in Association with a Top Quark Pair at sqrt[s]=13 TeV.	Physical review letters	2019	122	1	011803
+31012626	Sirunyan	AM	Observation of Two Excited B_{c}^{+} States and Measurement of the B_{c}^{+}(2S) Mass in pp Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	122	13	132001
+31012605	Sirunyan	AM	Observation of Single Top Quark Production in Association with a Z Boson in Proton-Proton Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	122	13	132003
+31012540	Lee	ASD	Improving Provider Readiness for Intimate Partner Violence Screening.	Worldviews on evidence-based nursing	2019	16	3	204-210
+31007588	Sirunyan	AM	Search for resonant production of second-generation sleptons with same-sign dimuon events in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	4	305
+31007587	Sirunyan	AM	Search for dark matter produced in association with a Higgs boson decaying to a pair of bottom quarks in proton-proton collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	3	280
+31007586	Sirunyan	AM	Measurement of exclusive Υ photoproduction from protons in p Pb collisions at s NN = 5.02 TeV .	The European physical journal. C, Particles and fields	2019	79	3	277
+31006653	Brody	MJ	Disruption of valosin-containing protein activity causes cardiomyopathy and reveals pleiotropic functions in cardiac homeostasis.	The Journal of biological chemistry	2019	294	22	8918-8929
+31004531	Sileshi	R	Statistical analyses of flow rates of stormwater treatment bioretention media.	Water environment research : a research publication of the Water Environment Federation	2019	91	9	877-887
+31001582	Patrick	CJ	Precipitation and temperature drive continental-scale patterns in stream invertebrate production.	Science advances	2019	5	4	eaav2348
+30987080	Wu	S	Special Issue of Environment-Friendly Construction Materials.	Materials (Basel, Switzerland)	2019	12	7
+30986814	Nickerson	BS	Validity of Field and Laboratory Three-Compartment Models in Healthy Adults.	Medicine and science in sports and exercise	2019	51	5	1032-1039
+30983470	Wedgeworth	ML	"I'm scared": Journaling Uncovers Student Perceptions Prior to a Psychiatric Clinical Rotation.	Journal of the American Psychiatric Nurses Association	26	2	189-195
+30982174	Gunn	HE	Family Dynamics in Sleep Health and Hypertension.	Current hypertension reports	2019	21	5	39
+30978057	Sirunyan	AM	Combination of Searches for Higgs Boson Pair Production in Proton-Proton Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	122	12	121803
+30973629	Avery	DM	Supporting Family Physician Maternity Care Providers.	Family medicine	2019	51	4	362
+30971865	Sirunyan	AM	Measurement of associated production of a W boson and a charm quark in proton-proton collisions at s = 13 Te .	The European physical journal. C, Particles and fields	2019	79	3	269
+30968954	Kersch-Becker	MF	Constitutive and herbivore-induced plant defences regulate herbivore population processes.	The Journal of animal ecology	2019	88	7	1079-1088
+30968542	Braunstein	SE	Role of the extent of prophylactic regional lymph node radiotherapy on survival in high-risk neuroblastoma: A report from the COG A3973 study.	Pediatric blood & cancer	2019	66	7	e27736
+30963373	Albright	DL	Correction to: Sexual Behaviors and Health Practices Among Student Service Members and Veterans.	Archives of sexual behavior	2019	48	7	2231
+30961764	Batra	V	Comparison of Electrical Properties of Pb0.95La0.05Zr0.54Ti0.46O₃ Thin Film Capacitors Using Coplanar and Interplanar Electrode Configuration.	Journal of nanoscience and nanotechnology	2019	19	9	5949-5953
+30957531	McDonough	IM	Refining the metamemory in adulthood questionnaire: a 20-item version of change and capacity designed for research and clinical settings.	Aging & mental health	2020	24	7	1054-1063
+30950729	Formby	C	Group Means and Intersubject and Intrasubject Variability Estimates for Absolute and Relative (Categorical) Loudness Judgments of Typical Young Adult Listeners.	Journal of speech, language, and hearing research : JSLHR	2019	62	3	768-778
+30947531	Zisook	S	General Predictors and Moderators of Depression Remission: A VAST-D Report.	The American journal of psychiatry	2019	176	5	348-357
+30946145	Carter-Templeton	H	Patricia Flatley Brennan on Nursing Informatics and the National Library of Medicine.	Computers, informatics, nursing : CIN	2019	37	4	187-189
+30946037	Cevasco-Trotter	AM	Multimodal Neurological Enhancement Intervention for Self-regulation in Premature Infants.	Advances in neonatal care : official journal of the National Association of Neonatal Nurses	2019	19	4	E3-E11
+30942690	Chou-Zheng	L	A type III-A CRISPR-Cas system employs degradosome nucleases to ensure robust immunity.	eLife	2019	8
+30938579	Fedewa	MV	Effect of branched-Chain Amino Acid Supplementation on Muscle Soreness following Exercise: A Meta-Analysis.	International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition	2019	89	5-6	348-356
+30936311	Magliocca	NR	Modeling cocaine traffickers and counterdrug interdiction forces as a complex adaptive system.	Proceedings of the National Academy of Sciences of the United States of America	2019	116	16	7784-7792
+30932612	Sirunyan	AM	Search for Narrow Hγ Resonances in Proton-Proton Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	122	8	081804
+30929578	White	SW	Change in gaze-based attention bias in adolescents with Social Anxiety Disorder.	Cognition & emotion	2019	33	8	1736-1744
+30929111	Rankin	JA	Fathers of Youth with Autism Spectrum Disorder: A Systematic Review of the Impact of Fathers' Involvement on Youth, Families, and Intervention.	Clinical child and family psychology review	2019	22	4	458-477
+30928495	Tutek	J	Health and demographic discriminators of an insomnia identity and self-reported poor quantitative sleep.	Sleep health	2019	5	3	221-226
+30925741	Gaeta	AL	Found in Translation: The Utility of C. elegans Alpha-Synuclein Models of Parkinson's Disease.	Brain sciences	2019	9	4
+30923472	McDonough	IM	A Review on the Trajectory of Attentional Mechanisms in Aging and the Alzheimer's Disease Continuum through the Attention Network Test.	The Yale journal of biology and medicine	2019	92	1	37-51
+30923471	Ferretti	NM	Social Functioning in Youth with Attention-Deficit/Hyperactivity Disorder and Sluggish Cognitive Tempo.	The Yale journal of biology and medicine	2019	92	1	29-35
+30919227	Ren	Z	Traditionality, Spirituality and Somatoform Dissociation Symptoms in Chinese Buddhists.	Journal of religion and health	2019
+30915684	Foster	PP	Physician Trust and Home Remedy Use Among Low-Income Blacks and Whites with Hypertension: Findings from the TRUST Study.	Journal of racial and ethnic health disparities	2019	6	4	830-835
+30907267	Hardy	K	Making Breast Cancer (Black) History: Results of a Church-Based Primary Prevention Study.	Social work in public health	2019	34	3	251-259
+30902403	Lippe	M	Protecting Student Anonymity in Research Using a Subject-Generated Identification Code.	Journal of professional nursing : official journal of the American Association of Colleges of Nursing	35	2	120-123
+30902218	Mohan	BP	Heterogeneity in systematic review and meta-analysis: how to read between the numbers.	Gastrointestinal endoscopy	2019	89	4	902-903
+30900507	Johnson	AJ	Resilience factors may buffer cellular aging in individuals with and without chronic knee pain.	Molecular pain	15	1744806919842962
+30899349	Clayton	BC	Physiological and Perceptual Responses to High-Intensity Circuit Training using Body Weight as Resistance: Are There Sex-Specific Differences?	International journal of exercise science	2019	12	4	245-255
+30892949	Lochman	JE	Cognitive Behavioral Intervention for Youth at Risk for Conduct Problems: Future Directions.	Journal of clinical child and adolescent psychology : the official journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53	48	5	799-810
+30889109	Wright	WL	Improving vaccination rates in older adults: A quality improvement project.	The Nurse practitioner	2019	44	4	40-49
+30887997	Sherwood	J	Cell-membrane coated iron oxide nanoparticles for isolation and specific identification of drug leads from complex matrices.	Nanoscale	2019	11	13	6352-6359
+30886229	Genareau	K	Effects of Lightning on the Magnetic Properties of Volcanic Ash.	Scientific reports	2019	9	1	4726
+30880476	Conrad	EJ	Advocacy and Public Policy Perceptions and Involvement of College Health Promotion Students.	Health promotion practice	2019	20	5	730-741
+30879475	Valko	K	Amyotrophic lateral sclerosis.	Progress in medicinal chemistry	2019	58	63-117
+30874977	Albright	DL	Sexual Behaviors and Health Practices Among Student Service Members and Veterans.	Archives of sexual behavior	2019	48	8	2595-2604
+30872972	Sirunyan	AM	Search for rare decays of Z and Higgs bosons to J / ψ and a photon in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	2	94
+30872964	Sirunyan	AM	Measurement of differential cross sections for inclusive isolated-photon and photon+jet production in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	1	20
+30871173	Farooq	M	Validation of Sensor-Based Food Intake Detection by Multicamera Video Observation in an Unconstrained Environment.	Nutrients	2019	11	3
+30871050	Sun	H	Spatial Evaluation of Soil Moisture (SM), Land Surface Temperature (LST), and LST-Derived SM Indexes Dynamics during SMAPVEX12.	Sensors (Basel, Switzerland)	2019	19	5
+30870392	McMichael	BJ	The Association of Nurse Practitioner Scope-of-Practice Laws With Emergency Department Use: Evidence From Medicaid Expansion.	Medical care	2019	57	5	362-368
+30868661	McLendon	SF	Enhancing diabetes care through care coordination, telemedicine, and education: Evaluation of a rural pilot program.	Public health nursing (Boston, Mass.)	2019	36	3	310-320
+30863200	Sirunyan	AM	Study of the underlying event in top quark pair production in p p collisions at 13 Te .	The European physical journal. C, Particles and fields	2019	79	2	123
+30861333	Marcial	E	Implementation and Evaluation of Diabetes Clinical Practice Guidelines in a Primary Care Clinic Serving a Hispanic Community.	Worldviews on evidence-based nursing	2019	16	2	142-150
+30854634	Huryn	AD	Seasonal changes in light availability modify the temperature dependence of secondary production in an Arctic stream.	Ecology	2019	100	6	e02690
+30854022	Senyurek	VY	Smoking detection based on regularity analysis of hand to mouth gestures.	Biomedical signal processing and control	2019	51	106-112
+30852279	Lopes	JMS	Evolution of electronic and vibronic transitions in metal(II) meso-tetra(4-pyridyl)porphyrins.	Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy	2019	215	327-333
+30852172	Mills	WL	Nursing Home Staff Perceptions of Barriers and Facilitators to Implementing a Quality Improvement Intervention.	Journal of the American Medical Directors Association	2019	20	7	810-815
+30851612	Han	Y	Understanding the thermal degradation patterns of hopane biomarker compounds present in crude oil.	The Science of the total environment	2019	667	792-798
+30850466	Avery	DM	Re: Family Medicine and Obstetrics: Let's Stop Pretending.	Journal of the American Board of Family Medicine : JABFM	32	2	279
+30848415	Lindsey	MA	The Influence of Treatment Engagement on Positive Outcomes in the Context of a School-Based Intervention for Students with Externalizing Behavior Problems.	Journal of abnormal child psychology	2019	47	9	1437-1454
+30843156	Jiang	Z	Using the iterative latent-class analysis approach to improve attribute accuracy in diagnostic classification models.	Behavior research methods	2019	51	3	1075-1084
+30843059	Slavish	DC	Intraindividual variability in sleep and comorbid medical and mental health conditions.	Sleep	2019	42	6
+30842711	Laurent	CM	Differentiated ratings of perceived exertion between overweight and non-overweight children during submaximal cycling.	International journal of health sciences	13	1	3-8
+30842601	Edger	PP	Author Correction: Origin and evolution of the octoploid strawberry genome.	Nature genetics	2019	51	4	765
+30839106	Dean	LT	Patient recommendations for reducing long-lasting economic burden after breast cancer.	Cancer	2019	125	11	1929-1940
+30838558	King	DM	The Use of a Community-Based Preconception Peer Health Educator Training Intervention to Improve Preconception Health Knowledge.	Journal of racial and ethnic health disparities	2019	6	4	686-700
+30834363	Culbertson	EK	Draft Genome Sequences of Staphylococcus Podophages JBug18, Pike, Pontiff, and Pabna.	Microbiology resource announcements	2019	8	8
+30833087	Fedewa	MV	Celiac Disease and Bone Health in Children and Adolescents: A Systematic Review and Meta-Analysis.	Journal of clinical densitometry : the official journal of the International Society for Clinical Densitometry	23	2	200-211
+30831735	Shukla	RA	Microscopic characterisation of photodetectors used in the hadron calorimeter of the Compact Muon Solenoid experiment.	The Review of scientific instruments	2019	90	2	023303
+30831062	Wang	SY	The Relationship between Physical-Mental Comorbidity and Subjective Well-Being among Older Adults.	Clinical gerontologist	43	4	455-464
+30829997	Mumba	MN	Personal Factors as Correlates and Predictors of Relapse in Nurses With Impaired Practice.	Journal of addictions nursing	30	1	24-31
+30829180	Barton	DJ	The Influence of Isoconcentration Surface Selection in Quantitative Outputs from Proximity Histograms.	Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada	2019	25	2	401-409
+30826942	Kim	J	Geographic Disparities in the Relation between English Proficiency and Health Insurance Status among Older Latino and Asian Immigrants.	Journal of cross-cultural gerontology	2019	34	1	1-13
+30826696	Piazza	AJ	Mobile device use while crossing the street: Utilizing the theory of planned behavior.	Accident; analysis and prevention	2019	127	9-18
+30824327	Kim	G	Purpose in Life Protects Against Cognitive Decline Among Older Adults.	The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry	2019	27	6	593-601
+30824198	Lawrence	JC	Integration of Interprofessional Education (IPE) Core Competencies Into Health Care Education: IPE Meets Culinary Medicine.	Journal of nutrition education and behavior	2019	51	4	510-512
+30822151	Hughes	AM	Cardiac Measures of Cognitive Workload: A Meta-Analysis.	Human factors	2019	61	3	393-414
+30822017	Aartsen	MG	Constraints on Minute-Scale Transient Astrophysical Neutrino Sources.	Physical review letters	2019	122	5	051102
+30814908	Sirunyan	AM	Search for single production of vector-like quarks decaying to a top quark and a W boson in proton-proton collisions at s = 13 TeV .	The European physical journal. C, Particles and fields	2019	79	2	90
+30814575	Daniels	MJ	Cyclized NDGA modifies dynamic α-synuclein monomers preventing aggregation and toxicity.	Scientific reports	2019	9	1	2937
+30809075	Styga	JM	Correction: Development of G: a test in an amphibious fish.	Heredity	2019	122	5	709-710
+30804557	Edger	PP	Origin and evolution of the octoploid strawberry genome.	Nature genetics	2019	51	3	541-547
+30804248	Griffin	EF	Vacuolar protein sorting protein 41 (VPS41) at an intersection of endosomal traffic in neurodegenerative disease.	Neural regeneration research	2019	14	7	1210-1212
+30802517	Guo	J	Morphological and physicochemical characterization of starches isolated from chestnuts cultivated in different regions of China.	International journal of biological macromolecules	2019	130	357-368
+30796646	Sharma	S	Protective Factors Buffer Life Stress and Behavioral Health Outcomes among High-Risk Youth.	Journal of abnormal child psychology	2019	47	8	1289-1301
+30792562	Wind	SA	Examining the Impacts of Rater Effects in Performance Assessments.	Applied psychological measurement	2019	43	2	159-171
+30791643	Bastien	CH	Driving After Drinking Alcohol Associated with Insufficient Sleep and Insomnia among Student Athletes and Non-Athletes.	Brain sciences	2019	9	2
+30789832	Wind	SA	Student Perceptions of Grammar Instruction in Iranian Secondary Education: Evaluation of an Instrument using Rasch Measurement Theory.	Journal of applied measurement	20	1	46-65
+30789750	Ejike	CO	Chronic Obstructive Pulmonary Disease in America's Black Population.	American journal of respiratory and critical care medicine	2019	200	4	423-430
+30785292	Probasco	MS	Stereoselective One-Pot Deconjugation, Aldol, and Stabilized Peterson Olefination of α-Trialkylsilyl-β-alkyl-α,β-Unsaturated Esters.	Organic letters	2019	21	5	1379-1383
+30778181	Kueneman	JG	Community richness of amphibian skin bacteria correlates with bioclimate at the global scale.	Nature ecology & evolution	2019	3	3	381-389
+30776096	MacDougall	EAM	Adolescent psychopathy, heart rate, and skin conductance.	Psychophysiology	2019	56	6	e13344
+30772053	Bedekar	VS	Investigation of transient freshwater storage in island aquifers.	Journal of contaminant hydrology	2019	221	98-107
+30768207	Azrad	M	Too Early to Worry About Blueberries.	Journal of the National Cancer Institute	2019	111	2	103-104
+30765833	Correll	RN	Overlapping and differential functions of ATF6α versus ATF6β in the mouse heart.	Scientific reports	2019	9	1	2059
+30761585	Hawes	NJ	Poor sleep quality is associated with obesity and depression in farmers.	Public health nursing (Boston, Mass.)	2019	36	3	270-275
+30761570	Nath	R	The injustice of fat stigma.	Bioethics	2019	33	5	577-590
+30756389	Ma	W	Cognitive diagnosis models for multiple strategies.	The British journal of mathematical and statistical psychology	2019	72	2	370-392
+30756297	Ellis	AC	Watermelon Juice: a Novel Functional Food to Increase Circulating Lycopene in Older Adult Women.	Plant foods for human nutrition (Dordrecht, Netherlands)	2019	74	2	200-203
+30736045	George	A	Development, Value, and Implications of a Comprehensive Primary Care Payment Calculator for Family Medicine Report From Family Medicine for America's Health Payment Tactic Team.	Family medicine	2019	51	2	185-192
+30736038	Robinson	C	Findings From FMAHealth's Bright Spots in Practice Transformation Project.	Family medicine	2019	51	2	137-142
+30731362	Yang	Y	Children's response, landmark, and metric strategies in spatial navigation.	Journal of experimental child psychology	2019	181	75-101
+30729569	Douglas	JW	Practitioner Knowledge, Personal Values, and Work Setting Influence Registered Dietitians' Feeding Tube Recommendations for Patients With Advanced Dementia.	Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition	2020	35	4	634-641
+30729552	Ferretti	N	Predicting children's school grades: Unique and interactive effects of parental beliefs and child inattention/hyperactivity symptoms.	The British journal of developmental psychology	2019	37	2	300-307
+30724680	Albright	DL	When women veterans return: The role of postsecondary education in transition in their civilian lives.	Journal of American college health : J of ACH	2019	67	5	479-485
+30723890	Ma	W	An empirical Q-matrix validation method for the sequential generalized DINA model.	The British journal of mathematical and statistical psychology	2020	73	1	142-163
+30723698	Paxton	RJ	Health Behaviors and Lifestyle Interventions in African American Breast Cancer Survivors: A Review.	Frontiers in oncology	2019	9	3
+30722055	Prowell	AN	Using Post-Structuralism to Rethink Risk and Resilience: Recommendations for Social Work Education, Practice, and Research.	Social work	2019	64	2	123-130
+30720313	Sirunyan	AM	Search for the Higgs Boson Decaying to Two Muons in Proton-Proton Collisions at sqrt[s]=13 TeV.	Physical review letters	2019	122	2	021801
+30718638	Soleymani	S	Ultra-High Efficiency and Broad Band Operation of Infrared Metasurface Anomalous Reflector based on Graphene Plasmonics.	Scientific reports	2019	9	1	1249
+30718125	Vogel	RI	A patient-centered mobile health application to motivate use of genetic counseling among women with ovarian cancer: A pilot randomized controlled trial.	Gynecologic oncology	2019	153	1	100-107
+30715267	Mohan	BP	Liquid Nitrogen Spray Cryotherapy in Treatment of Barrett's Esophagus, where do we stand? A Systematic Review and Meta-Analysis.	Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus	2019	32	6
+30714543	Zhou	X	Charge-State Field Evaporation Behavior in Cu(V) Nanocrystalline Alloys.	Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada	2019	25	2	501-510
+30709516	Powell	MJ	Ultrastructure of early stages of Rozella allomycis (Cryptomycota) infection of its host, Allomyces macrogynus (Blastocladiomycota).	Fungal biology	2019	123	2	109-116
+30706234	Dobbs	WC	The Accuracy of Acquiring Heart Rate Variability from Portable Devices: A Systematic Review and Meta-Analysis.	Sports medicine (Auckland, N.Z.)	2019	49	3	417-435
+30704459	Lovero	KL	Mixed-methods evaluation of mental healthcare integration into tuberculosis and maternal-child healthcare services of four South African districts.	BMC health services research	2019	19	1	83
+30703725	Ahmadalipour	A	Future drought risk in Africa: Integrating vulnerability, climate change, and population growth.	The Science of the total environment	2019	662	672-686
+30703621	Lu	J	Nursing students' trait mindfulness and psychological stress: A correlation and mediation analysis.	Nurse education today	2019	75	41-46
+30700056	Senyurek	V	Cigarette Smoking Detection with An Inertial Sensor and A Smart Lighter.	Sensors (Basel, Switzerland)	2019	19	3
+30699334	Soylu	F	Gray Matter Correlates of Finger Gnosis in Children: A VBM Study.	Neuroscience	2019	404	82-90
+30693812	Witte	TH	Factors Influencing Stigma Toward Individuals Who Have Substance Use Disorders.	Substance use & misuse	2019	54	7	1115-1124
+30691652	Nayeemul Bari	SM	CRISPR-Cas10 assisted editing of virulent staphylococcal phages.	Methods in enzymology	2019	616	385-409
+30690565	Williams	KA	Management of Chronic Migraine and Occipital Neuralgia in Post 9/11 Combat Veterans.	Military medicine	2019	184	7-8	e207-e211
+30688800	Jackson	HA	Evaluation of the Pronouncement of Death Policy Implementation and Outcomes: Implications for Advanced Practice Nursing.	Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association	2019	21	2	139-143
+30685817	Wu	Q	Assessing pollution and risk of polycyclic aromatic hydrocarbons in sewage sludge from wastewater treatment plants in China's top coal-producing region.	Environmental monitoring and assessment	2019	191	2	102
+30683808	Griffin	EF	ApoE-associated modulation of neuroprotection from Aβ-mediated neurodegeneration in transgenic Caenorhabditis elegans.	Disease models & mechanisms	2019	12	2
+30683280	Lynch	T	The Influence of Psychological Stress, Depressive Symptoms, and Cortisol on Body Mass and Central Adiposity in 10- to-12-Year-Old Children.	Journal of pediatric nursing	44	42-49
+30683255	Tice	JR	Clinician accountability in a primary care clinic time-interval blood pressure measurements study: Practice implications.	Applied nursing research : ANR	2019	45	69-72
+30681941	Albright	DL	Oral health among student veterans: Effects on mental and physical health.	Journal of American college health : J of ACH	2020	68	3	263-270
+30681934	Albright	DL	Civic engagement among student veterans.	Journal of American college health : J of ACH	68	4	387-394
+30681639	Mohan	BP	Efficacy and Safety of Endoscopic Ultrasound-guided Choledochoduodenostomy: A Systematic Review and Meta-Analysis.	Journal of clinical gastroenterology	2019	53	4	243-250
+30670164	Dautovich	ND	A systematic review of the amount and timing of light in association with objective and subjective sleep outcomes in community-dwelling adults.	Sleep health	2019	5	1	31-48
+30668939	Chen	W	Distinct mechanisms of substrate selectivity in the DRE-TIM metallolyase superfamily: A role for the LeuA dimer regulatory domain.	Archives of biochemistry and biophysics	2019	664	1-8
+30663513	Han	H	Bayesian meta-analysis of fMRI image data.	Cognitive neuroscience	10	2	66-76
+30654021	Mathiron	AGE	Juvenile hormone manipulation affects female reproductive status and aggressiveness in a non-social parasitoid wasp.	General and comparative endocrinology	2019	274	80-86
+30652949	Cody	SL	Effects of speed of processing training and transcranial direct current stimulation on global sleep quality and speed of processing in older adults with and without HIV: A pilot study.	Applied neuropsychology. Adult	27	3	267-278
+30652859	Persaud	RR	Potential Energy Surface of Group 11 Trimers (Cu, Ag, Au): Bond Angle Isomerism in Au3.	The journal of physical chemistry. A	2019	123	6	1198-1207
+30650252	Ligocki	IY	How individual and relative size affect participation in territorial defense and cortisol levels in a social fish.	Journal of experimental zoology. Part A, Ecological and integrative physiology	2019	331	4	217-226
+30650115	Lavallee	KL	Beliefs about the controllability of social characteristics and children's jealous responses to outsiders' interference in friendship.	PloS one	2019	14	1	e0209845
+30648862	Vasiliu	M	Electronic Structure Predictions of the Energetic Properties of Tellurium Fluorides.	Inorganic chemistry	2019	58	13	8279-8292
+30647771	Rao	SS	Bioengineered models to study tumor dormancy.	Journal of biological engineering	2019	13	3
+30641840	Moran	RN	Premorbid migraine history as a risk factor for vestibular and oculomotor baseline concussion assessment in pediatric athletes.	Journal of neurosurgery. Pediatrics	2019	1-6
+30640468	McNeill	AS	Energetics of CO2- in Aqueous Solution.	The journal of physical chemistry. A	2019	123	6	1243-1259
+30640462	Mishra	MK	Crystallographic Insights into the Behavior of Highly Acidic Metal Cations in Ionic Liquids from Reactions of Titanium Tetrachloride with [1-Butyl-3-Methylimidazolium][X] Ionic Liquids (X = Chloride, Bromide, Tetrafluoroborate).	Inorganic chemistry	2019	58	3	1764-1773
+30640107	Yao	Y	Properties of particulate matter and gaseous pollutants in Shandong, China: Daily fluctuation, influencing factors, and spatiotemporal distribution.	The Science of the total environment	2019	660	384-394
+30631094	Yang	X	Statistical models for meal-level estimation of mass and energy intake using features derived from video observation and a chewing sensor.	Scientific reports	2019	9	1	45
+30624249	Lee	HY	Racial Disparities in Cervical Cancer Screening: Implications for Relieving Cervical Cancer Burden in Asian American Pacific Islander Women.	Cancer nursing	42	6	458-467
+30620685	Yahiro	AM	Classification of obesity, cardiometabolic risk, and metabolic syndrome in adults with spinal cord injury.	The journal of spinal cord medicine	2020	43	4	485-496
+30615915	Fellous	A	Identification and expression of mangrove rivulus (Kryptolebias marmoratus) histone deacetylase (HDAC) and lysine acetyltransferase (KAT) genes.	Gene	2019	691	56-69
+30614761	Gregg	A	Systematic Review of Community Paramedicine and EMS Mobile Integrated Health Care Interventions in the United States.	Population health management	2019	22	3	213-222
+30614266	Tan	L	Starch-guest inclusion complexes: Formation, structure, and enzymatic digestion.	Critical reviews in food science and nutrition	2020	60	5	780-790
+30612305	Stein	MJ	Blood, Sweat, and/or Tears: Comparing Nervios Symptom Descriptions in Honduras.	Culture, medicine and psychiatry	2019	43	2	256-276
+30611883	Molzof	HE	Misaligned core body temperature rhythms impact cognitive performance of hospital shift work nurses.	Neurobiology of learning and memory	2019	160	151-159
+30609894	Cui	C	Experimental and Computational Study of the Gas-Phase Acidities of Acidic Di- and Tripeptides.	The journal of physical chemistry. B	2019	123	3	606-613
+30607813	Feng	L	Discovering the impact of reading coursework and discipline-specific mentorship on first-year teachers' self-efficacy: a latent class analysis.	Annals of dyslexia	2019	69	1	80-98
+30605744	Pan	X	Rice bran polysaccharide-metal complexes showed safe antioxidant activity in vitro.	International journal of biological macromolecules	2019	126	934-940
+30605720	Threadgill	AH	Intertrial variability in emotive reactions to approach-motivated positive pictures predicts attentional narrowing: The role of individual differences.	Biological psychology	2019	142	19-28
+30605517	Day	MA	A Pilot Randomized Controlled Trial Comparing Mindfulness Meditation, Cognitive Therapy, and Mindfulness-Based Cognitive Therapy for Chronic Low Back Pain.	Pain medicine (Malden, Mass.)	2019	20	11	2134-2148
+30603870	Morett	LM	The Power of an Image: Images, Not Glosses, Enhance Learning of Concrete L2 Words in Beginning Learners.	Journal of psycholinguistic research	2019	48	3	643-664
+30600687	Bryant	AN	Regional and racial/ethnic variations in alcohol consumption among older adults.	Aging & mental health	2019	23	11	1503-1509
+30600460	Clayton-Jones	D	Use of the Spiritual Development Framework in Conducting Spirituality and Health Research with Adolescents.	Journal of religion and health	2019	58	4	1259-1271
+30596457	Ingersoll-Dayton	B	A systematic review of dyadic approaches to reminiscence and life review among older adults.	Aging & mental health	2019	23	9	1074-1085
+32489752	Doulah	A	A Systematic Review of Technology-Driven Methodologies for Estimation of Energy Intake.	IEEE access : practical innovations, open solutions	2019	7	49653-49668
+32406423	Awondo	SN	Multi-Site Bundling of Drought Tolerant Maize Varieties and Index Insurance.	Journal of agricultural economics	2019	71	1	1-21
+30594731	Kaproń	B	Development of the 1,2,4-triazole-based anticonvulsant drug candidates acting on the voltage-gated sodium channels. Insights from in-vivo, in-vitro, and in-silico studies.	European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences	2019	129	42-57
+30585762	Dorfman	CS	Development and pilot testing of an mHealth behavioral cancer pain protocol for medically underserved communities.	Journal of psychosocial oncology	37	3	335-349
+30583441	Yuan	S	Structure-affinity relationship of the binding of phenolic acids and their derivatives to bovine serum albumin.	Food chemistry	2019	278	77-83
+30582275	O'Dell	HW	Public attitudes toward contemporary issues in liver allocation.	American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons	2019	19	4	1212-1217
+30578692	Scott	PA	Formation of a recent hybrid zone offers insight into the geographic puzzle and maintenance of species boundaries in musk turtles.	Molecular ecology	2019	28	4	761-771
+30576592	Glenn	AL	Early life predictors of callous-unemotional and psychopathic traits.	Infant mental health journal	2019	40	1	39-53
+30574845	Mills	CB	No Laughing Matter: Workplace Bullying, Humor Orientation, and Leadership Styles.	Workplace health & safety	2019	67	4	159-167
+30573077	Sankar	MS	Effect of photo-biodegradation and biodegradation on the biogeochemical cycling of dissolved organic matter across diverse surface water bodies.	Journal of environmental sciences (China)	2019	77	130-147
+30571100	Dunkle	JA	Structural Evidence for Dimer-Interface-Driven Regulation of the Type II Cysteine Desulfurase, SufS.	Biochemistry	2019	58	6	687-696
+30537668	Muratori	P	Six-year outcome for children with ODD or CD treated with the coping power program.	Psychiatry research	2019	271	454-458
+30528982	Knol	LL	Very Low Food Security Status is Related to Lower Cooking Self-Efficacy and Less Frequent Food Preparation Behaviors Among College Students.	Journal of nutrition education and behavior	2019	51	3	357-363
+30526318	Cundiff	JM	Social Stratification and Risk for Cardiovascular Disease: Examination of Emotional Suppression as a Pathway to Risk.	Personality & social psychology bulletin	2019	45	8	1202-1215
+30508549	Kay	JC	Electrocardiograms of mice selectively bred for high levels of voluntary exercise: Effects of short-term exercise training and the mini-muscle phenotype.	Physiology & behavior	2019	199	322-332
+30506312	Cheng	TC	Adult Immigrants' Utilization of Physician Visits, Dentist Visits, and Prescription Medication.	Journal of racial and ethnic health disparities	2019	6	3	497-504
+30506112	Coughlin	SS	Survivorship issues in older breast cancer survivors.	Breast cancer research and treatment	2019	174	1	47-53
+30514103	Davis	SL	Depressive Symptoms, Perceived Stress, and Cortisol in School-Age Children With Type 1 Diabetes: A Pilot Study.	Biological research for nursing	2019	21	2	166-172
+30508718	Ahmadi	B	Hydrological drought persistence and recovery over the CONUS: A multi-stage framework considering water quantity and quality.	Water research	2019	150	97-110
+30496540	Darnall	BD	International Stakeholder Community of Pain Experts and Leaders Call for an Urgent Action on Forced Opioid Tapering.	Pain medicine (Malden, Mass.)	2019	20	3	429-433
+30488744	Cramer	RJ	Preferences in Information Processing and suicide: Results from a young adult health survey in the United Kingdom.	The International journal of social psychiatry	2019	65	1	46-55
+30480614	Pimentel	CB	Blended Facilitation as an Effective Implementation Strategy for Quality Improvement and Research in Nursing Homes.	Journal of nursing care quality	34	3	210-216
+30479180	Sweetland	AC	Food insecurity, mental distress and suicidal ideation in rural Africa: Evidence from Nigeria, Uganda and Ghana.	The International journal of social psychiatry	2019	65	1	20-27
+30475939	Senkus	KE	Lycopene and Metabolic Syndrome: A Systematic Review of the Literature.	Advances in nutrition (Bethesda, Md.)	2019	10	1	19-29
+30458291	Fellous	A	The Kdm/Kmt gene families in the self-fertilizing mangrove rivulus fish, Kryptolebias marmoratus, suggest involvement of histone methylation machinery in development and reproduction.	Gene	2019	687	173-187
+30452946	Neal	LB	Shifts in frontal asymmetry underlying impulsive and controlled decision-making.	Biological psychology	2019	140	28-34
+30452791	Vasiliu	M	Gas Phase Hydrolysis and Oxo-Exchange of Actinide Dioxide Cations: Elucidating Intrinsic Chemistry from Protactinium to Einsteinium.	Chemistry (Weinheim an der Bergstrasse, Germany)	2019	25	17	4245-4254
+30449142	McDonough	IM	Biological markers of aging and mental health: A seed and soil model of neurocognitive disorders.	Aging & mental health	2019	23	7	793-799
+30431468	Bright	CF	Social Network Gap Analysis Evaluation: A Case Study of the Southeastern Health Equity Council.	Family & community health	42	1	44-53
+30430417	White	PE	Systematic Review of the Effects of Chromium(III) on Chickens.	Biological trace element research	2019	188	1	99-126
+30423439	Mikkelsen	NT	Molecular phylogeny of Caudofoveata (Mollusca) challenges traditional views.	Molecular phylogenetics and evolution	2019	132	138-150
+30422754	Ruggiano	N	The Potential of Information Technology to Navigate Caregiving Systems: Perspectives from Dementia Caregivers.	Journal of gerontological social work	62	4	432-450
+30417551	Blumenthal-Dramé	A	Shared neural and cognitive mechanisms in action and language: The multiscale information transfer framework.	Wiley interdisciplinary reviews. Cognitive science	2019	10	2	e1484
+30416100	Lampp	L	A radical containing injectable in-situ-oleogel and emulgel for prolonged in-vivo oxygen measurements with CW EPR.	Free radical biology & medicine	2019	130	120-127
+30414576	Lopes	JMS	Novel insights on the vibronic transitions in free base meso-tetrapyridyl porphyrin.	Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy	2019	209	274-279
+30389469	Mohan	BP	Efficacy and safety of EUS-guided liver biopsy: a systematic review and meta-analysis.	Gastrointestinal endoscopy	2019	89	2	238-246.e3
+30382548	Jiang	Z	Gibbs Samplers for Logistic Item Response Models via the Pólya-Gamma Distribution: A Computationally Efficient Data-Augmentation Strategy.	Psychometrika	2019	84	2	358-374
+30375638	Tortoriello	GK	Trait interpersonal vulnerability attenuates beneficial effects of constructive criticism on failure responses.	British journal of psychology (London, England : 1953)	2019	110	3	594-613
+30371546	Ng	J	Effect of Ice Slurry Ingestion on Cardiovascular Drift and V˙O2max during Heat Stress.	Medicine and science in sports and exercise	2019	51	3	582-589
+30370784	Wilkerson	AH	Workplace-Related Factors Associated With Employees' Standing Time at Work: A Research Brief.	American journal of health promotion : AJHP	2019	33	4	606-610
+30368829	Fredrick	JW	Family environment moderates the relation of sluggish cognitive tempo to attention-deficit/hyperactivity disorder inattention and depression.	Journal of clinical psychology	2019	75	1	221-237
+30367779	Yin	T	Dynamic characteristics of the mitochondrial genome in SCNT pigs.	Biological chemistry	2019	400	5	613-623
+30366088	Scott Chialvo	CH	A phylogenetic examination of host use evolution in the quinaria and testacea groups of Drosophila.	Molecular phylogenetics and evolution	2019	130	233-243
+30365361	Pelts	MD	Physical health characteristics of student service members and veterans by sexual orientation.	Journal of American college health : J of ACH	67	8	727-732
+30358455	Lippe	M	Utilizing a collaborative learning activity to sensitize interprofessional students to palliative care scopes of practice with adolescent and young adults.	Journal of interprofessional care	33	2	267-269
+30339807	Houslay	TM	Habituation and individual variation in the endocrine stress response in the Trinidadian guppy (Poecilia reticulata).	General and comparative endocrinology	2019	270	113-122
+30337713	Fedewa	MV	Relative accuracy of body adiposity index and relative fat mass in participants with and without down syndrome.	European journal of clinical nutrition	2019	73	8	1117-1121
+30327484	Styga	JM	Development of G: a test in an amphibious fish.	Heredity	2019	122	5	696-708
+30316947	Galaska	MP	Conservation of mitochondrial genome arrangements in brittle stars (Echinodermata, Ophiuroidea).	Molecular phylogenetics and evolution	2019	130	115-120
+30303394	McDougall	GJ	Memory training for adults with probable mild cognitive impairment: a pilot study.	Aging & mental health	2019	23	10	1433-1441
+30299345	Harris Ware	KS	Student and Faculty Experiences in the Flipped Learning Environment in Undergraduate Nursing.	Nursing education perspectives	40	2	79-83
+30298222	Dvorsky	MR	Factor Structure and Criterion Validity of the Five Cs Model of Positive Youth Development in a Multi-University Sample of College Students.	Journal of youth and adolescence	2019	48	3	537-553
+30293520	Cheimariou	S	Lexical prediction in the aging brain: The effects of predictiveness and congruency on the N400 ERP component.	Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition	2019	26	5	781-806
+30293190	Jayaraj	M	Periampullary Diverticula and ERCP Outcomes: A Systematic Review and Meta-Analysis.	Digestive diseases and sciences	2019	64	5	1364-1376
+30285252	Ersek	M	Developing a Pain Intensity Measure for Persons with Dementia: Initial Construction and Testing.	Pain medicine (Malden, Mass.)	2019	20	6	1078-1092
+30280365	Kassing	F	Using Early Childhood Behavior Problems to Predict Adult Convictions.	Journal of abnormal child psychology	2019	47	5	765-778
+30267363	Agyapong	VIO	Evaluating the Impact of an Innovative Public Speaking Competition to Promote Psychiatry as a Career Option for Ghanaian Medical Students.	Academic psychiatry : the journal of the American Association of Directors of Psychiatric Residency Training and the Association for Academic Psychiatry	2019	43	2	180-183
+30259974	Yuan	L	Temporal Scaling Analytical Method to Identify Multi-Fractionality in Groundwater Head Fluctuations.	Ground water	2019	57	3	485-491
+30257078	Adl	SM	Revisions to the Classification, Nomenclature, and Diversity of Eukaryotes.	The Journal of eukaryotic microbiology	2019	66	1	4-119
+30253112	McKinley	EM	The Prenatal Rating of Efficacy in Preparation to Breastfeed Scale: A New Measurement Instrument for Prenatal Breastfeeding Self-efficacy.	Journal of human lactation : official journal of International Lactation Consultant Association	2019	35	1	21-31
+30241705	Jung	SE	The Role of Self-Identity in Predicting College Students' Intention to Consume Fruits and Vegetables.	Journal of nutrition education and behavior	2019	51	2	173-181
+30239703	Allen	RS	Preparation and Planning for Future Care in the Deep South: Adapting a Validated Tool for Cultural Sensitivity.	The Gerontologist	2019	59	6	e643-e652
+30230057	Easton	ME	Azolate Anions in Ionic Liquids: Promising and Under-Utilized Components of the Ionic Liquid Toolbox.	Chemistry (Weinheim an der Bergstrasse, Germany)	2019	25	9	2127-2140
+30226406	Mulla	MM	The Causal Influence of Perceived Social Norms on Intimate Partner Violence Perpetration: Converging Cross-Sectional, Longitudinal, and Experimental Support for a Social Disinhibition Model.	Personality & social psychology bulletin	2019	45	4	652-668
+30204895	Ersek	M	Psychometric Evaluation of a Pain Intensity Measure for Persons with Dementia.	Pain medicine (Malden, Mass.)	2019	20	6	1093-1104
+30188992	Berryhill	MB	Videoconferencing psychological therapy and anxiety: a systematic review.	Family practice	2019	36	1	53-63
+30182534	Li	Y	Autologous platelet-rich gel treatment for diabetic chronic cutaneous ulcers: A meta-analysis of randomized controlled trials.	Journal of diabetes	2019	11	5	359-369
+30180766	McCaskill	GM	Influence of Diabetes-Related Support on Aerobic Activity Among Older African Americans With Type 2 Diabetes.	International journal of aging & human development	2019	89	3	279-293
+30174272	Lu	Y	Recent developments in bio-monitoring via advanced polymer nanocomposite-based wearable strain sensors.	Biosensors & bioelectronics	2019	123	167-177
+30173309	Wieckowski	AT	Task Dependency When Evaluating Association Between Facial Emotion Recognition and Facial Emotion Expression in Children with ASD.	Journal of autism and developmental disorders	2019	49	2	460-467
+30170512	Allen	EM	Facilitators and Barriers of Cervical Cancer Screening and Human Papilloma Virus Vaccination Among Somali Refugee Women in the United States: A Qualitative Analysis.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2019	30	1	55-63
+30138241	Dobbs	WC	Effect of Postactivation Potentiation on Explosive Vertical Jump: A Systematic Review and Meta-Analysis.	Journal of strength and conditioning research	2019	33	7	2009-2018
+30136386	Urakawa	H	Ecological response of nitrification to oil spills and its impact on the nitrogen cycle.	Environmental microbiology	2019	21	1	18-33
+30122402	Lindsey Jacobs	M	Supporting autonomy in long-term care: Lessons from nursing assistants.	Geriatric nursing (New York, N.Y.)	40	2	129-137
+30104369	Brandon	A	Testing for crowd out in social nudges: Evidence from a natural field experiment in the market for electricity.	Proceedings of the National Academy of Sciences of the United States of America	2019	116	12	5293-5298
+30099810	Lehnen	LP	Cytochemical Localization of Polyphenol Oxidase Activity in K2-Bodies of Saprolegnia ferax Secondary Zoospores.	The Journal of eukaryotic microbiology	2019	66	3	404-412
+30070730	Rizzo	SM	Enteral Nutrition via Nasogastric Tube for Refeeding Patients With Anorexia Nervosa: A Systematic Review.	Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition	2019	34	3	359-370
+30070145	Shin	N	Uncoupled Endothelial Nitric Oxide Synthase Enhances p-Tau in Chronic Traumatic Encephalopathy Mouse Model.	Antioxidants & redox signaling	2019	30	13	1601-1620
+30048211	Berryhill	MB	Videoconferencing Psychotherapy and Depression: A Systematic Review.	Telemedicine journal and e-health : the official journal of the American Telemedicine Association	2019	25	6	435-446
+30001920	Malaia	E	Visual and linguistic components of short-term memory: Generalized Neural Model (GNM) for spoken and sign languages.	Cortex; a journal devoted to the study of the nervous system and behavior	2019	112	69-79
+29957653	Kaylor	SK	Peace, Love, Field Day: An Innovative Approach to Cultivating Healthy Academic Communities.	Nursing education perspectives	40	6	386-387
+29949073	Jiang	Z	Using Hamiltonian Monte Carlo to estimate the log-linear cognitive diagnosis model via Stan.	Behavior research methods	2019	51	2	651-662
+29944074	Raju	D	A Comprehensive Psychometric Examination of the Lesbian, Gay, and Bisexual Knowledge and Attitudes Scale for Heterosexuals (LGB-KASH).	Journal of homosexuality	2019	66	8	1104-1125
+29927738	Mobley	SD	"No Pumps Allowed": The "Problem" With Gender Expression and the Morehouse College "Appropriate Attire Policy".	Journal of homosexuality	2019	66	7	867-895
+29912030	Strickland	HP	A Capstone Simulation for Leadership Development: Bridging Theory to Practice.	Nurse educator	44	2	84-87
+29869891	Petrov	ME	Obsessive-compulsive personality disorder features and response to behavioral therapy for insomnia among patients with hypnotic-dependent insomnia.	Behavioral sleep medicine	17	6	740-752
+29731149	Séraphin Thibon	L	Investigating how children produce rotation and pointing movements when they learn to write letters.	Human movement science	2019	65
+29688320	Kim	G	Limited English Proficiency and Trajectories of Depressive Symptoms Among Mexican American Older Adults.	The Gerontologist	2019	59	5	856-864
+29687453	Ma	W	A diagnostic tree model for polytomous responses with multiple strategies.	The British journal of mathematical and statistical psychology	2019	72	1	61-82
+29680155	Boakye	KF	Correlates of front-seat passengers' non-use of seatbelts at night.	Accident; analysis and prevention	2019	130	30-37
+29673560	Glenn	AL	Using biological factors to individualize interventions for youth with conduct problems: Current state and ethical issues.	International journal of law and psychiatry	65	101348
+29672736	Park	SE	All pins are not created equal: communicating skin cancer visually on Pinterest.	Translational behavioral medicine	2019	9	2	336-346
+29672184	Ellis	AC	Oral Supplementation with Beta-Hydroxy-Beta-Methylbutyrate, Arginine, and Glutamine Improves Lean Body Mass in Healthy Older Adults.	Journal of dietary supplements	2019	16	3	281-293
+29667427	Choi	S	Do older adults with Alzheimer's disease engage in estate planning and advance care planning preparation?	Aging & mental health	2019	23	7	872-879
+29653863	Fedewa	MV	Associations of body adiposity index, waist circumference, and body mass index in young adults.	Clinical nutrition (Edinburgh, Scotland)	2019	38	2	715-720
+29621935	Threadgill	AH	Negative affect varying in motivational intensity influences scope of memory.	Cognition & emotion	2019	33	2	332-345
+29471477	Pope	Z	Feasibility of smartphone application and social media intervention on breast cancer survivors' health outcomes.	Translational behavioral medicine	2019	9	1	11-22
+29469661	Remmel	RJ	Biological Evidence Regarding Psychopathy Does Not Affect Mock Jury Sentencing.	Journal of personality disorders	2019	33	2	164-184
+29373738	Kim	G	The Relation Between Multiple Informal Caregiving Roles and Subjective Physical and Mental Health Status Among Older Adults: Do Racial/Ethnic Differences Exist?	The Gerontologist	2019	59	3	499-508
+29308549	Glenn	AL	Toward Tailored Interventions: Sympathetic and Parasympathetic Functioning Predicts Responses to an Intervention for Conduct Problems Delivered in Two Formats.	Prevention science : the official journal of the Society for Prevention Research	2019	20	1	30-40
+29237335	Gregg	A	Patient-Centered Medical Home Measurement in School-Based Health Centers.	The Journal of school nursing : the official publication of the National Association of School Nurses	2019	35	3	189-202
+28922931	Paxton	RJ	An exploratory decision tree analysis to predict physical activity compliance rates in breast cancer survivors.	Ethnicity & health	2019	24	7	754-766
+28774215	Brown	EL	Smartphone-Based Health Technologies for Dementia Care: Opportunities, Challenges, and Current Practices.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2019	38	1	73-91
+28506145	Noh	H	Areas of Control Desired by Patients and Families Referred to Hospice Care: Perspectives of Hospice Admissions Staff.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2019	38	5	656-672
+28397535	Gillen	CTA	Validity of the Youth Psychopathic Traits Inventory-Short Version in Justice-Involved and At-Risk Adolescents.	Assessment	2019	26	3	479-491
+28380720	Amspoker	AB	A Psychometric Evaluation of the Pleasant Events Schedule-Alzheimer's Disease (Short Version): Among a Veteran Population.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2019	38	5	673-693

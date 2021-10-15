@@ -1,0 +1,393 @@
+29795958	Wind	SA	Exploring Incomplete Rating Designs With Mokken Scale Analysis.	Educational and psychological measurement	2018	78	2	319-342
+29795916	Wind	SA	Adjacent-Categories Mokken Models for Rater-Mediated Assessments.	Educational and psychological measurement	2017	77	2	330-350
+28989498	Lichtenstein	B	Two vignettes of adolescent sexual disclosure: guidance for HIV clinical practice.	Journal of infection prevention	2017	18	1	10-16
+28845148	Scott Chialvo	CH	Eigenvector metabolite analysis reveals dietary effects on the association among metabolite correlation patterns, gene expression, and phenotypes.	Metabolomics : Official journal of the Metabolomic Society	2016	12	11
+28346153	Ohayon	M	National Sleep Foundation's sleep quality recommendations: first report.	Sleep health	2017	3	1	6-19
+28344370	Schuiringa	H	Effectiveness of an Intervention for Children with Externalizing Behavior and Mild to Borderline Intellectual Disabilities: A Randomized Trial.	Cognitive therapy and research	41	2	237-251
+28243164	Shin	N	Astrocytic Expression of CTMP Following an Excitotoxic Lesion in the Mouse Hippocampus.	Experimental neurobiology	2017	26	1	25-32
+28135995	Cramer	RJ	The intersection of interpersonal and self-directed violence among general adult, college student and sexually diverse samples.	The International journal of social psychiatry	2017	63	1	78-85
+28119639	Iran-Nejad	A	Conceptual and Biofunctional Embodiment: A Long Story on the Transience of the Enduring Mind.	Frontiers in psychology	2016	7	1990
+28097936	Chanda	A	Experimental study on tissue phantoms to understand the effect of injury and suturing on human skin mechanical properties.	Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine	2017	231	1	80-91
+28058235	Martin	B	Increasing sun protection behaviors among Iranian farmworkers: a call for action.	Health promotion perspectives	2017	7	1	4-6
+28025166	Reed	LK	Considerations when choosing a genetic model organism for metabolomics studies.	Current opinion in chemical biology	2017	36	7-14
+28011408	Belak	L	Measurement of fidgeting in patients with anorexia nervosa using a novel shoe-based monitor.	Eating behaviors	2017	24	45-48
+28009581	Wind	SA	Examining the Psychometric Quality of Multiple-Choice Assessment Items using Mokken Scale Analysis.	Journal of applied measurement	17	2	142-165
+28009216	Aartsen	MG	Constraints on Ultrahigh-Energy Cosmic-Ray Sources from a Search for Neutrinos above 10 PeV with IceCube.	Physical review letters	2016	117	24	241101
+28008706	Atkinson	CL	Consumer-driven nutrient dynamics in freshwater ecosystems: from individuals to ecosystems.	Biological reviews of the Cambridge Philosophical Society	2017	92	4	2003-2023
+28007212	Letcher	PM	Morphological, molecular, and ultrastructural characterization of Rozella rhizoclosmatii, a new species in Cryptomycota.	Fungal biology	2017	121	1	1-10
+27999558	Soylu	F	An Embodied Approach to Understanding: Making Sense of the World Through Simulated Bodily Activity.	Frontiers in psychology	2016	7	1914
+27989753	Krzyaniak	MD	The tetrahydrobiopterin radical interacting with high- and low-spin heme in neuronal nitric oxide synthase - A new indicator of the extent of NOS coupling.	Free radical biology & medicine	2016	101	367-377
+27986078	Stöger	I	Monoplacophoran mitochondrial genomes: convergent gene arrangements and little phylogenetic signal.	BMC evolutionary biology	2016	16	1	274
+27984776	Dharampal	PS	Mercury levels in largemouth bass (Micropterus salmoides) from regulated and unregulated rivers.	Chemosphere	2017	170	134-140
+27965896	Nahar	VK	Comment on "Gender-Based Differences and Barriers in Skin Protection Behaviors in Melanoma Survivors".	Journal of skin cancer	2016	2016	1345726
+27960609	Catalano	HP	Using the Theory of Planned Behavior to predict HPV vaccination intentions of college men.	Journal of American college health : J of ACH	2017	65	3	197-207
+27938026	Kavanaugh	MS	Caregiving Youth Knowledge and Perceptions of Parental End-of-Life Wishes in Huntington's Disease.	Journal of social work in end-of-life & palliative care	12	4	348-365
+27934904	Allagui	A	Reevaluation of Performance of Electric Double-layer Capacitors from Constant-current Charge/Discharge and Cyclic Voltammetry.	Scientific reports	2016	6	38568
+27934355	Gyanchander	E	Mechanism of Ru(II)-Catalyzed Rearrangements of Allenyl- and Alkynylcyclopropanols to Cyclopentenones.	Organic letters	2016	18	23	6098-6101
+27933103	Scalfani	VF	Programmatic conversion of crystal structures into 3D printable files using Jmol.	Journal of cheminformatics	2016	8	66
+27928212	Bisschoff	CA	Relationship between Autonomic Markers of Heart Rate and Subjective Indicators of Recovery Status in Male, Elite Badminton Players.	Journal of sports science & medicine	2016	15	4	658-669
+27925354	Lankford	A	Detecting mental health problems and suicidal motives among terrorists and mass shooters.	Criminal behaviour and mental health : CBMH	2016	26	5	315-321
+27924493	Liang	Q	Citric Acid Capped Iron Oxide Nanoparticles as an Effective MALDI Matrix for Polymers.	Journal of the American Society for Mass Spectrometry	2017	28	3	409-418
+27921385	Shamshina	JL	"Practical" Electrospinning of Biopolymers in Ionic Liquids.	ChemSusChem	2017	10	1	106-111
+27912180	Focsan	AL	Radicals formed from proton loss of carotenoid radical cations: A special form of carotenoid neutral radical occurring in photoprotection.	Journal of photochemistry and photobiology. B, Biology	2017	166	148-157
+27909236	George Dalmida	S	Sexual Risk Behaviors of African American Adolescent Females: The Role of Cognitive and Religious Factors.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2018	29	1	74-83
+27901410	Witte	TH	Bystander interventions for sexual assault and dating violence on college campuses: Are we putting bystanders in harm's way?	Journal of American college health : J of ACH	2017	65	3	149-157
+27897608	Ellis	AC	Modulating Oxidative Stress and Inflammation in Elders: The MOXIE Study.	Journal of nutrition in gerontology and geriatrics	35	4	219-242
+27895896	Bombin	A	The changing biodiversity of Alabama Drosophila: important impacts of seasonal variation, urbanization, and invasive species.	Ecology and evolution	2016	6	19	7057-7069
+27868314	Nelson	D	Experimental whole-stream warming alters community size structure.	Global change biology	2017	23	7	2618-2628
+27862453	Haiges	R	The Uranium(VI) Oxoazides [UO2 (N3)2 ⋅CH3 CN], [(bipy)2 (UO2)2 (N3)4 ], [(bipy)UO2 (N3)3 ]- , [UO2 (N3)4 ]2- , and [(UO2)2 (N3)8 ]4.	Chemistry (Weinheim an der Bergstrasse, Germany)	2017	23	3	652-664
+27861271	Appel	SJ	Extreme hyperglycemia and hyperosmolar hyperglycemic syndrome.	The Nurse practitioner	2016	41	12	1-4
+27860289	Lowry	DB	Breaking RAD: an evaluation of the utility of restriction site-associated DNA sequencing for genome scans of adaptation.	Molecular ecology resources	2017	17	2	142-152
+27859094	Kirkman	LK	Productivity and species richness in longleaf pine woodlands: resource-disturbance influences across an edaphic gradient.	Ecology	2016	97	9	2259-2271
+27855464	Siegel	AM	Impact of Interval between Screening and Diagnosis of Gestational Diabetes on Pregnancy Outcomes.	American journal of perinatology	2017	34	6	557-562
+27849373	Batey	DS	Adaptation and Implementation of an Intervention to Reduce HIV-Related Stigma Among Healthcare Workers in the United States: Piloting of the FRESH Workshop.	AIDS patient care and STDs	2016	30	11	519-527
+27841733	Ruggiano	N	Health Self-management Among Older Prisoners: Current Understandings and Directions for Policy, Practice, and Research.	Journal of gerontological social work	59	7-8	627-641
+27834285	Wood	D	Evidence of Non-Corresponsive Causal Relationships Between Personality Traits and Social Power Over Time.	Personality & social psychology bulletin	2017	43	1	33-45
+27827808	Anderson	JL	Utility of the Personality Inventory for DSM-5-Brief Form (PID-5-BF) in the Measurement of Maladaptive Personality and Psychopathology.	Assessment	2018	25	5	596-607
+27826353	Kay	ES	The HIV treatment cascade and care continuum: updates, goals, and recommendations for the future.	AIDS research and therapy	2016	13	35
+27825982	Rhodes	LA	Comparison of Bruch's Membrane Opening Minimum Rim Width Among Those With Normal Ocular Health by Race.	American journal of ophthalmology	2017	174	113-118
+27822439	Kim	HS	Fuzzy rank functions in the set of all binary systems.	SpringerPlus	2016	5	1	1865
+27815498	Noh	H	Racial Differences in Associations of Perceived Health and Social and Physical Activities With Advance Care Planning, End-of-Life Concerns, and Hospice Knowledge.	The American journal of hospice & palliative care	2018	35	1	34-40
+27743983	Meadows	CC	Motivation and motor cortical activity can independently affect motor performance.	Neuroscience	2016	339	174-179
+27735115	Deokar	P	The Binary Group 4 Azides [PPh4 ]2 [Zr(N3)6 ] and [PPh4 ]2 [Hf(N3)6 ].	Angewandte Chemie (International ed. in English)	2016	55	46	14350-14354
+27806634	Higgins	S	Sprint interval and moderate-intensity cycling training differentially affect adiposity and aerobic capacity in overweight young-adult women.	Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme	2016	41	11	1177-1183
+27150499	Faught	GG	Addressing phonological memory in language therapy with clients who have Down syndrome: Perspectives of speech-language pathologists.	International journal of language & communication disorders	2016	51	6	703-714
+26732347	Chanda	A	A biofidelic computational model of the female pelvic system to understand effect of bladder fill and progressive vaginal tissue stiffening due to prolapse on anterior vaginal wall.	International journal for numerical methods in biomedical engineering	2016	32	11
+27761535	Peterson	GW	Detection of an explosive simulant via electrical impedance spectroscopy utilizing the UiO-66-NH2 metal-organic framework.	Dalton transactions (Cambridge, England : 2003)	2016	45	43	17113-17116
+31964106	Meany	JE	Surprisingly Big Rectification Ratios for a Very Small Unimolecular Rectifier.	ChemPlusChem	2016	81	11	1152-1155
+27760386	Holowiecki	A	Spatiotemporal expression and transcriptional regulation of heme oxygenase and biliverdin reductase genes in zebrafish (Danio rerio) suggest novel roles during early developmental periods of heightened oxidative stress.	Comparative biochemistry and physiology. Toxicology & pharmacology : CBP	2017	191	138-151
+27781135	Davis	LL	Adjunctive brexpiprazole in patients with major depressive disorder and anxiety symptoms: an exploratory study.	Brain and behavior	2016	6	10	e00520
+27780914	Cuellar	NG	Excellence in Development of Health Care Providers: The Nicaragua Clinical Experience.	Hispanic health care international : the official journal of the National Association of Hispanic Nurses	2016	14	4	192-197
+27780893	Hutcheson	AK	Work Site-Based Environmental Interventions to Reduce Sedentary Behavior: A Systematic Review.	American journal of health promotion : AJHP	2018	32	1	32-47
+27677291	Jenny	MJ	Phylogenetic Analysis of Molluscan Metallothioneins: Evolutionary Insight from Crassostrea virginica.	Journal of molecular evolution	2016	83	3-4	110-125
+27777851	Allen	PJ	Several types of groupoids induced by two-variable functions.	SpringerPlus	2016	5	1	1715
+27671773	Holowiecki	A	Characterization of heme oxygenase and biliverdin reductase gene expression in zebrafish (Danio rerio): Basal expression and response to pro-oxidant exposures.	Toxicology and applied pharmacology	2016	311	74-87
+27699884	Xing	M	Solution structure of the Cys74 to Ala74 mutant of the recombinant catalytic domain of Zoocin A.	Proteins	2017	85	1	177-181
+27479536	Zisook	S	Characteristics of U.S. Veteran Patients with Major Depressive Disorder who require "next-step" treatments: A VAST-D report.	Journal of affective disorders	2016	206	232-240
+27390249	Shah	RR	Evaluating the toxicity of bDtBPP on CHO-K1 cells for testing of single-use bioprocessing systems considering media selection, cell culture volume, mixing, and exposure duration.	Biotechnology progress	2016	32	5	1318-1323
+27766010	Marjama	KL	Nurse Practitioner Perceptions of a Diabetes Risk Assessment Tool in the Retail Clinic Setting.	Clinical diabetes : a publication of the American Diabetes Association	2016	34	4	187-192
+27762351	Irwin	JA	Ultraluminous X-ray bursts in two ultracompact companions to nearby elliptical galaxies.	Nature	2016	538	7625	356-358
+27761936	Moos	WH	Epigenetic Treatment of Persistent Viral Infections.	Drug development research	2017	78	1	24-36
+27761198	Abdel-Aal	AK	Percutaneous Transhepatic Embolization of Bleeding Rectal Varices Using A New Embolic And Sclerotic Mixture Augmented By Amplatzer Vascular Plug 2.	Journal of radiology case reports	2016	10	9	44-51
+27756724	Hibberd	EE	Effect of Swim Training on the Physical Characteristics of Competitive Adolescent Swimmers.	The American journal of sports medicine	2016	44	11	2813-2819
+26304301	Grace	EL	Caregiver and care recipient characteristics as predictors of psychotropic medication use in community-dwelling dementia patients.	Aging & mental health	2016	20	12	1297-1304
+27755690	Manning	DW	Convergence of detrital stoichiometry predicts thresholds of nutrient-stimulated breakdown in streams.	Ecological applications : a publication of the Ecological Society of America	2016	26	6	1745-1757
+27750118	Voisin	AS	Delayed impacts of developmental exposure to 17-α-ethinylestradiol in the self-fertilizing fish Kryptolebias marmoratus.	Aquatic toxicology (Amsterdam, Netherlands)	2016	180	247-257
+27743840	Kunik	ME	Teaching Caregivers of Persons with Dementia to Address Pain.	The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry	2017	25	2	144-154
+27740566	Maxwell	KL	Evaluating the Effectiveness of Two Teaching Strategies to Improve Nursing Students' Knowledge, Skills, and Attitudes About Quality Improvement and Patient Safety.	Nursing education perspectives	37	5	291-292
+27738377	Pilkinton	P	An Open Label Pilot Study of Adjunctive Asenapine for the Treatment of Posttraumatic Stress Disorder.	Psychopharmacology bulletin	2016	46	2	8-17
+27738287	Hall	E	Immigrant Health in the United States: A Trajectory Toward Change.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	6	611-626
+27738286	Cuellar	NG	Are You Voting?	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	6	545
+27738282	Tucker	MT	Community-Based Participatory Research-Speed Dating: An Innovative Model for Fostering Collaborations Between Community Leaders and Academic Researchers.	Health promotion practice	2016	17	6	775-780
+27736996	Mendez	S	The TreadWheel: A Novel Apparatus to Measure Genetic Variation in Response to Gently Induced Exercise for Drosophila.	PloS one	2016	11	10	e0164706
+27736935	Wang	S	Chemical Compensation of Mitochondrial Phospholipid Depletion in Yeast and Animal Models of Parkinson's Disease.	PloS one	2016	11	10	e0164465
+27731341	Yi	MH	CD200R/Foxp3-mediated signalling regulates microglial activation.	Scientific reports	2016	6	34901
+27720784	Smith	JF	Resolving incongruence: Species of hybrid origin in Columnea (Gesneriaceae).	Molecular phylogenetics and evolution	2017	106	228-240
+27718556	Hu	MY	In Situ Natural Abundance 17O and 25Mg NMR Investigation of Aqueous Mg(OH)2 Dissolution in the Presence of Supercritical CO2.	Environmental science & technology	2016	50	22	12373-12384
+27715320	Tutek	J	Association between chronotype and nonrestorative sleep in a college population.	Chronobiology international	2016	33	9	1293-1304
+27714177	Sherwood	J	Shape-dependent cellular behaviors and relaxivity of iron oxide-based T1 MRI contrast agents.	Nanoscale	2016	8	40	17506-17515
+27708360	Zhou	X	Grain Boundary Specific Segregation in Nanocrystalline Fe(Cr).	Scientific reports	2016	6	34642
+27708354	Vinson	K	Plasticity mechanisms in HfN at elevated and room temperature.	Scientific reports	2016	6	34571
+27704597	Vars	FE	Willingness of Mentally Ill Individuals to Sign Up for a Novel Proposal to Prevent Firearm Suicide.	Suicide & life-threatening behavior	2017	47	4	483-492
+27703059	McClerking	CA	Health Policy Initiatives for African American Women Veterans.	Policy, politics & nursing practice	2016	17	3	118-124
+27680663	MacDonald	HV	Dynamic Resistance Training as Stand-Alone Antihypertensive Lifestyle Therapy: A Meta-Analysis.	Journal of the American Heart Association	2016	5	10
+27660913	Dolliver	DS	The Presence of New Psychoactive Substances in a Tor Network Marketplace Environment.	Journal of psychoactive drugs	48	5	321-329
+27655750	Tullett	AM	Testing the Link Between Empathy and Lay Theories of Happiness.	Personality & social psychology bulletin	2016	42	11	1505-1521
+27639593	Li	BH	Steatosis induced CCL5 contributes to early-stage liver fibrosis in nonalcoholic fatty liver disease progress.	Translational research : the journal of laboratory and clinical medicine	2017	180	103-117.e4
+27638049	Srivastava	RK	ATF4 regulates arsenic trioxide-mediated NADPH oxidase, ER-mitochondrial crosstalk and apoptosis.	Archives of biochemistry and biophysics	2016	609	39-50
+27635043	Rao	SS	Enhanced Survival with Implantable Scaffolds That Capture Metastatic Breast Cancer Cells In Vivo.	Cancer research	2016	76	18	5209-18
+27624802	Muratori	P	Moral disengagement and callous-unemotional traits: A longitudinal study of Italian adolescents with a disruptive behaviour disorder.	Criminal behaviour and mental health : CBMH	2017	27	5	514-524
+27622940	Abedini	A	Molecular Dynamics Simulation of Bismuth Telluride Exfoliation Mechanisms in Different Ionic Liquid Solvents.	Langmuir : the ACS journal of surfaces and colloids	2016	32	39	9982-9992
+27612486	Linzer	M	Do Work Condition Interventions Affect Quality and Errors in Primary Care? Results from the Healthy Work Place Study.	Journal of general internal medicine	2017	32	1	56-61
+27611568	Randall	AK	Coping with workplace minority stress: Associations between dyadic coping and anxiety among women in same-sex relationships.	Journal of lesbian studies	2017	21	1	70-87
+27592288	Deng	G	The effects of the glycation of transferrin on chromium binding and the transport and distribution of chromium in vivo.	Journal of inorganic biochemistry	2016	164	26-33
+27591318	Payton	SL	Comparative physiological, biochemical and molecular thermal stress response profiles for two unionid freshwater mussel species.	The Journal of experimental biology	2016	219	Pt 22	3562-3574
+27587759	Salekin	RT	Psychopathy in childhood: why should we care about grandiose-manipulative and daring-impulsive traits?	The British journal of psychiatry : the journal of mental science	2016	209	3	189-91
+27585373	Lightcap	J	Formation of a Spin-Forbidden Product, (1)[MnO4](-), from Gas-Phase Decomposition of (6)[Mn(NO3)3](.).	The journal of physical chemistry. A	2016	120	36	7071-9
+27582566	Davis	WJ	Borealophlyctis nickersoniae, a new species in Rhizophlyctidales.	Mycologia	108	4	744-52
+27582565	Leshem	T	Characterization of a new chytrid species parasitic on the dinoflagellate, Peridinium gatunense.	Mycologia	108	4	731-43
+27581202	Gosa	MM	Effect of Time and Temperature on Thickened Infant Formula.	Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition	2017	32	2	238-244
+27581060	Li	P	Spin-orbit torque-assisted switching in magnetic insulator thin films with perpendicular magnetic anisotropy.	Nature communications	2016	7	12688
+31968808	Kelley	SP	Structural and Theoretical Study of Salts of the [B9 H14 ]- Ion: Isolation of Multiple Isomers and Implications for Energy Storage.	ChemPlusChem	2016	81	9	922-925
+31968800	Kelley	SP	Structural and Theoretical Study of Salts of the [B9 H14 ]- Ion: Isolation of Multiple Isomers and Implications for Energy Storage.	ChemPlusChem	2016	81	9	903
+29348697	Su	W	Optimum Wing Shape Determination of Highly Flexible Morphing Aircraft for Improved Flight Performance.	Journal of aircraft	2016	53	5	1305-1316
+27567721	Longcore	JE	Synchytrium microbalum sp. nov. is a saprobic species in a lineage of parasites.	Fungal biology	2016	120	9	1156-64
+27567196	Caffrey	JM	Living oysters and their shells as sites of nitrification and denitrification.	Marine pollution bulletin	2016	112	1-2	86-90
+27564836	Jenny	MJ	Transcriptomic evaluation of the American oyster, Crassostrea virginica, deployed during the Deepwater Horizon oil spill: Evidence of an active hydrocarbon response pathway.	Marine environmental research	2016	120	166-81
+27563950	Aartsen	MG	Searches for Sterile Neutrinos with the IceCube Detector.	Physical review letters	2016	117	7	071801
+27560644	Chen	H	Electron spin dynamics and spin-lattice relaxation of trityl radicals in frozen solutions.	Physical chemistry chemical physics : PCCP	2016	18	36	24954-65
+27543184	Cuellar	NG	Impact Factor: What Does It Mean?	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	5	437
+27542574	Kagawa Singer	M	Culture: The missing link in health research.	Social science & medicine (1982)	2016	170	237-246
+27536804	Booth	L	Compassion: a universal language.	Contemporary nurse	52	2-3	366-8
+27523991	Shah	RR	Determining iron oxide nanoparticle heating efficiency and elucidating local nanoparticle temperature for application in agarose gel-based tumor model.	Materials science & engineering. C, Materials for biological applications	2016	68	18-29
+27518304	Dew-Budd	K	Genetic and Sex-Specific Transgenerational Effects of a High Fat Diet in Drosophila melanogaster.	PloS one	2016	11	8	e0160857
+27517765	Khachatryan	V	Search for Resonant Production of High-Mass Photon Pairs in Proton-Proton Collisions at sqrt[s]=8 and 13 TeV.	Physical review letters	2016	117	5	051802
+27494023	Wei	W	Stability of Chloropyromorphite in Ryegrass Rhizosphere as Affected by Root-Secreted Low Molecular Weight Organic Acids.	PloS one	2016	11	8	e0160628
+27492940	Deokar	P	Preparation and Characterization of Antimony and Arsenic Tricyanide and Their 2,2'-Bipyridine Adducts.	Chemistry (Weinheim an der Bergstrasse, Germany)	2016	22	37	13251-7
+27491938	Tang	L	Postpartum Depression and Social Support in China: A Cultural Perspective.	Journal of health communication	2016	21	9	1055-61
+29795883	Wind	SA	Exploring Rating Quality in Rater-Mediated Assessments Using Mokken Scale Analysis.	Educational and psychological measurement	2016	76	4	685-706
+27472109	Khachatryan	V	Search for Narrow Resonances in Dijet Final States at sqrt[s]=8 TeV with the Novel CMS Technique of Data Scouting.	Physical review letters	2016	117	3	031802
+27471784	Corso	LM	Is Concurrent Training Efficacious Antihypertensive Therapy? A Meta-analysis.	Medicine and science in sports and exercise	2016	48	12	2398-2406
+27471433	Khachatryan	V	Event generator tunes obtained from underlying event and multiparton scattering measurements.	The European physical journal. C, Particles and fields	76	155
+27471431	Khachatryan	V	Measurement of the [Formula: see text] production cross section in the all-jets final state in pp collisions at [Formula: see text][Formula: see text].	The European physical journal. C, Particles and fields	76	128
+27470262	Lo	CC	Racial/Ethnic Differences in Emotional Health: A Longitudinal Study of Immigrants' Adolescent Children.	Community mental health journal	2017	53	1	92-101
+27470261	Birur	B	An Evidence-Based Review of Early Intervention and Prevention of Posttraumatic Stress Disorder.	Community mental health journal	2017	53	2	183-201
+27460370	Cannon	JT	Phylogenomics Using Transcriptome Data.	Methods in molecular biology (Clifton, N.J.)	2016	1452	65-80
+27459698	Guo	Y	HCV Health Policy Developments in Response to the National Viral Hepatitis Action Plan: A Brief Update.	Social work in public health	2017	32	2	77-81
+27445361	Fedewa	MV	Effect of exercise training on C reactive protein: a systematic review and meta-analysis of randomised and non-randomised controlled trials.	British journal of sports medicine	2017	51	8	670-676
+27435709	Lichtenstein	B	A partnership approach to providing on-site HIV services for probationers and parolees: a pilot study from Alabama, USA.	Journal of the International AIDS Society	2016	19	4 Suppl 3	20868
+27435249	Dodrill	P	FIRST, DO NO HARM: A Response to "Oral Alimentation in Neonatal and Adult Populations Requiring High-Flow Oxygen via Nasal Cannula".	Dysphagia	2016	31	6	781-782
+27428031	Ewell	PJ	Good Person or Bad Character? Personality Predictors of Morality and Ethics in Avatar Selection for Video Game Play.	Cyberpsychology, behavior and social networking	2016	19	7	435-40
+27424925	Wood	FG	WHERE Are the Faculty? Fulfilling the Traditional Faculty Role at a Distance.	Journal of professional nursing : official journal of the American Association of Colleges of Nursing	32	4	256-61
+27423362	Muratori	P	Which dimension of parenting predicts the change of callous unemotional traits in children with disruptive behavior disorder?	Comprehensive psychiatry	2016	69	202-10
+27409622	Farooq	M	A Novel Wearable Device for Food Intake and Physical Activity Recognition.	Sensors (Basel, Switzerland)	2016	16	7
+27405020	Amlani	A	Malingering by Proxy: A Literature Review and Current Perspectives.	Journal of forensic sciences	2016	61 Suppl 1	S171-6
+27398941	Fang	Z	Use of Improved Orbitals for CCSD(T) Calculations for Predicting Heats of Formation of Group IV and Group VI Metal Oxide Monomers and Dimers and UCl6.	Journal of chemical theory and computation	2016	12	8	3583-92
+27394501	Beshera	KA	Novel evolutionary lineages in Labeobarbus (Cypriniformes; Cyprinidae) based on phylogenetic analyses of mtDNA sequences.	Zootaxa	2016	4093	3	363-81
+27394356	Friel	JP	A new species of Amaralia Fowler (Siluriformes: Aspredinidae) from the Paraná-Paraguay River Basin.	Zootaxa	2016	4088	4	531-46
+27387096	Kvale	EA	Patient-centered support in the survivorship care transition: Outcomes from the Patient-Owned Survivorship Care Plan Intervention.	Cancer	2016	122	20	3232-3242
+27386528	Chazdon	RL	Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.	Science advances	2016	2	5	e1501639
+27384926	Fang	Z	Benchmark Calculations of Energetic Properties of Groups 4 and 6 Transition Metal Oxide Nanoclusters Including Comparison to Density Functional Theory.	Journal of chemical theory and computation	2016	12	8	3689-710
+27375897	Meany	JE	Crystal structure of 4'-bromo-2',5'-dimeth-oxy-2,5-dioxo-[1,1'-biphen-yl]-3,4-dicarbo-nitrile [BrHBQ(CN)2] benzene hemisolvate.	Acta crystallographica. Section E, Crystallographic communications	2016	72	Pt 4	600-3
+27363866	Jimenez	DE	Impact of comorbid mental health needs on racial/ethnic disparities in general medical care utilization among older adults.	International journal of geriatric psychiatry	2017	32	8	909-921
+27362621	Avbovbo	UE	Strategies to Alleviate Anxiety Before the Placement of a Stereotactic Radiosurgery Frame.	The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses	48	4	224-8
+27355263	Morris	MS	Postoperative 30-day Readmission: Time to Focus on What Happens Outside the Hospital.	Annals of surgery	2016	264	4	621-31
+27354755	Zheng	H	Pneumatic Variable Series Elastic Actuator.	Journal of dynamic systems, measurement, and control	2016	138	8	0810111-8101110
+27351366	Dalmida	SG	Volunteer Service and Service Learning: Opportunities, Partnerships, and United Nations Millennium Development Goals.	Journal of nursing scholarship : an official publication of Sigma Theta Tau International Honor Society of Nursing	2016	48	5	517-26
+27339928	Oxley	JA	Munchausen by proxy by internet and pets.	The Veterinary record	2016	178	26	663-4
+27333349	Giovane	R	Local Access to Family Planning Services and Female High School Dropout Rates.	Obstetrics and gynecology	2016	128	1	207
+27332455	Carter-Templeton	H	Linking Nurses with Evidence-Based Information via Social Media Tools: An Analysis of the Literature.	Studies in health technology and informatics	2016	225	1007-8
+27328831	Hester	TH	Fragmentation of [Ni(NO3)3](-): A Study of Nickel-Oxygen Bonding and Oxidation States in Nickel Oxide Fragments.	Inorganic chemistry	2016	55	13	6634-42
+27327902	Liu	J	A VP22-Null HSV-1 Is Impaired in Inhibiting CD1d-Mediated Antigen Presentation.	Viral immunology	2016	29	7	409-16
+27327265	Coronado	I	Analogous biomineralization processes between the fossil coral Calceola sandalina (Rugosa, Devonian) and other Recent and fossil cnidarians.	Journal of structural biology	2016	196	2	173-186
+27327208	Archer	FI	stratag: An r package for manipulating, summarizing and analysing population genetic data.	Molecular ecology resources	2017	17	1	5-11
+27324916	Kelley	JL	The Genome of the Self-Fertilizing Mangrove Rivulus Fish, Kryptolebias marmoratus: A Model for Studying Phenotypic Plasticity and Adaptations to Extreme Environments.	Genome biology and evolution	2016	8	7	2145-54
+27322316	Pritchett	K	25(OH)D Status of Elite Athletes with Spinal Cord Injury Relative to Lifestyle Factors.	Nutrients	2016	8	6
+27320829	Carter	SJ	Is 'high-intensity' a bad word?	Journal of physiotherapy	2016	62	3	175
+27308015	Meany	JE	Crystal structure of 4'-bromo-2,5-dihy-droxy-2',5'-dimeth-oxy-[1,1'-biphen-yl]-3,4-dicarbo-nitrile.	Acta crystallographica. Section E, Crystallographic communications	2016	72	Pt 5	667-70
+27306690	Thomas	T	Diversity, structure and convergent evolution of the global sponge microbiome.	Nature communications	2016	7	11870
+27302720	Yates	GP	Factitious disorder: a systematic review of 455 cases in the professional literature.	General hospital psychiatry	41	20-8
+27297254	Wright	RS	Older adult awareness of the influence of cardiovascular disease risk factors on cognitive function.	International journal of older people nursing	2017	12	1
+27296930	Storey	JM	Pollutant emissions and environmental assessment of ethyl 3-ethoxybutyrate, a potential renewable fuel.	Environmental science and pollution research international	2016	23	18	18575-84
+27295132	Sims	OT	Behavioral Interventions to Reduce Alcohol Use Among Patients with Hepatitis C: A Systematic Review.	Social work in public health	2016	31	6	565-73
+27294752	Limdi	NA	US Mortality: Influence of Race, Geography and Cardiovascular Risk Among Participants in the Population-Based REGARDS Cohort.	Journal of racial and ethnic health disparities	2016	3	4	599-607
+27294379	Commodore	JJ	The Effects of Trivalent Lanthanide Cationization on the Electron Transfer Dissociation of Acidic Fibrinopeptide B and its Analogs.	Journal of the American Society for Mass Spectrometry	2016	27	9	1499-509
+27288743	Meadows	CC	The effects of reward magnitude on reward processing: An averaged and single trial event-related potential study.	Biological psychology	2016	118	154-160
+27279892	Kocot	KM	Sea shell diversity and rapidly evolving secretomes: insights into the evolution of biomineralization.	Frontiers in zoology	2016	13	23
+27278344	Ryans	J	Reduced-Dimension Modeling Approach for Simulating Recruitment/De-recruitment Dynamics in the Lung.	Annals of biomedical engineering	2016	44	12	3619-3631
+27270123	Dressler	WW	Culture as a mediator of gene-environment interaction: Cultural consonance, childhood adversity, a 2A serotonin receptor polymorphism, and depression in urban Brazil.	Social science & medicine (1982)	2016	161	109-17
+27252301	Cuellar	NG	Opening Doors to Inclusion and Engagement.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	4	321
+27238771	Dressler	WW	The interaction of cultural consonance and a polymorphism in the 2A serotonin receptor in relation to depression in Brazil: failure to replicate previous findings.	American journal of human biology : the official journal of the Human Biology Council	2016	28	6	936-940
+27238389	Johnson	MS	Janus Reversal and Coulomb Blockade in Ferrocene-Perylenebisimide and N,N,N',N'-Tetramethyl-para-phenylenediamine-Perylenebisimide D-σ-A Rectifiers.	Langmuir : the ACS journal of surfaces and colloids	2016	32	27	6851-9
+27238094	Liu	X	A Modular Synthetic Approach to Monocyclic 1,4-Azaborines.	Angewandte Chemie (International ed. in English)	2016	55	29	8333-7
+27237359	Friend	ML	Content and factor validation of the Sieloff-King-Friend Assessment of Group Empowerment within Educational Organizations.	Nurse education today	2016	42	78-85
+27235305	Lo	CC	Rural-to-Urban Migration, Strain, and Juvenile Delinquency: A Study of Eighth-Grade Students in Guangzhou, China.	International journal of offender therapy and comparative criminology	2018	62	2	334-359
+27232429	Egnoto	MJ	Analyzing Language in Suicide Notes and Legacy Tokens.	Crisis	2016	37	2	140-7
+27214673	Lichtenstein	B	Losing Ground: Racial Disparities in Medical Debt and Home Foreclosure in the Deep South.	Family & community health	39	3	178-87
+27214584	Nakamura	FY	Monitoring weekly heart rate variability in futsal players during the preseason: the importance of maintaining high vagal activity.	Journal of sports sciences	2016	34	24	2262-2268
+27214177	Giovane	R	Trying to Conceive After an Early Pregnancy Loss: An Assessment on How Long Couples Should Wait.	Obstetrics and gynecology	2016	127	6	1170-1
+27212393	Washington	KT	Hospice and palliative social workers' experiences with clients at risk of suicide.	Palliative & supportive care	2016	14	6	664-671
+27198621	Haiges	R	The niobium oxoazides [NbO(N3)3], [NbO(N3)3·2CH3CN], [(bipy)NbO(N3)3], Cs2[NbO(N3)5] and [PPh4]2[NbO(N3)5].	Dalton transactions (Cambridge, England : 2003)	2016	45	26	10523-9
+27197603	Muratori	P	Coping power for preschool-aged children: a pilot randomized control trial study.	Early intervention in psychiatry	2017	11	6	532-538
+27196747	Dixit	D	Management of Acute Alcohol Withdrawal Syndrome in Critically Ill Patients.	Pharmacotherapy	2016	36	7	797-822
+27196441	Shen	AN	A bout analysis reveals age-related methylmercury neurotoxicity and nimodipine neuroprotection.	Behavioural brain research	2016	311	147-159
+27191692	Snarr	RL	Electromyographical Comparison of Pike Variations Performed With and Without Instability Devices.	Journal of strength and conditioning research	2016	30	12	3436-3442
+27180051	Baek	H	Altered expression of KCC2 in GABAergic interneuron contributes prenatal stress-induced epileptic spasms in infant rat.	Neurochemistry international	2016	97	57-64
+27176781	Dinh	KN	Understanding the finite state projection and related methods for solving the chemical master equation.	Physical biology	2016	13	3	035003
+27176516	Khachatryan	V	Measurement of Long-Range Near-Side Two-Particle Angular Correlations in pp Collisions at sqrt[s]=13 TeV.	Physical review letters	2016	116	17	172302
+32263047	Liang	X	Boronic acid-modified poly(amidoamine) dendrimers as sugar-sensing materials in water.	Journal of materials chemistry. B	2016	4	18	3094-3103
+27165983	Noh	H	End-of-life decision making for persons with dementia: Proxies' perception of support.	Dementia (London, England)	2018	17	4	478-493
+27159287	Hibberd	EE	Epidemiology of Acromioclavicular Joint Sprains in 25 National Collegiate Athletic Association Sports: 2009-2010 to 2014-2015 Academic Years.	The American journal of sports medicine	2016	44	10	2667-2674
+27157793	Leliaert	F	Chloroplast phylogenomic analyses reveal the deepest-branching lineage of the Chlorophyta, Palmophyllophyceae class. nov.	Scientific reports	2016	6	25367
+27136407	King	S	Obstructive Sleep Apnea as an Independent Stroke Risk Factor: A Review of the Evidence, Stroke Prevention Guidelines, and Implications for Neuroscience Nursing Practice.	The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses	2016	48	3	133-42
+27129573	Muratori	P	Coping Power Adapted as Universal Prevention Program: Mid Term Effects on Children's Behavioral Difficulties and Academic Grades.	The journal of primary prevention	2016	37	4	389-401
+27125857	Vo	HD	Computational study of p53 regulation via the chemical master equation.	Physical biology	2016	13	3	035001
+27125157	Strickland	HP	Bringing your a-game: Educational gaming for student success.	Nurse education today	2016	40	101-3
+27123545	Wayde	EN	Decision-making quality of younger and older adults in familiar and unfamiliar domains.	Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition	2017	24	2	135-157
+27113084	Darabant	A	Designing and Evaluating Bamboo Harvesting Methods for Local Needs: Integrating Local Ecological Knowledge and Science.	Environmental management	2016	58	2	312-22
+27112852	Zhang	B	Different characteristic effects of ageing on starch-based films plasticised by 1-ethyl-3-methylimidazolium acetate and by glycerol.	Carbohydrate polymers	2016	146	67-79
+29546159	Foster	PP	Reverse Migration, the Black Church and Sexual Health: Implications for Building HIV/AIDS Prevention Capacity in the Deep South.	AIMS public health	2016	3	2	242-254
+27107005	Pierpaoli	CM	Feelings of Usefulness to Others Predict Active Coping With Osteoarthritis Knee Pain.	Journal of aging and health	2017	29	5	826-841
+27104799	Ritchwood	TD	Does it really matter which drug you choose? An examination of the influence of type of drug on type of risky sexual behavior.	Addictive behaviors	2016	60	97-102
+27100594	Shoji	KD	Napping in Older and College-Aged Adults.	Journal of the American Geriatrics Society	2016	64	4	896-8
+27095176	Mechin	N	Frontal asymmetry and alcohol cue reactivity: Influence of core personality systems.	Psychophysiology	2016	53	8	1224-31
+27091880	Jacobs	ML	Person-Centered Care Practices in Long-Term Care in the Deep South: Consideration of Structural, Market, and Administrator Characteristics.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2018	37	3	349-370
+27091290	Turner	CH	Modeling the atomistic growth behavior of gold nanoparticles in solution.	Nanoscale	2016	8	17	9354-65
+27076438	Scarsella	GE	Hormonal Responses to Noncontact Aggression in Convict Cichlid Fish.	Journal of experimental zoology. Part A, Ecological genetics and physiology	2016	325	3	219-30
+27070368	de Sousa	JT	Aneuploid progeny of the American oyster, Crassostrea virginica, produced by tetraploid × diploid crosses: another example of chromosome instability in polyploid oysters.	Genome	2016	59	5	327-38
+27065567	Trukhin	DV	Facile and High-Yielding Synthesis of TAM Biradicals and Monofunctional TAM Radicals.	Synlett : accounts and rapid communications in synthetic organic chemistry	2016	27	6	893-899
+27065168	Secor	SM	Integrative Physiology of Fasting.	Comprehensive Physiology	2016	6	2	773-825
+27064186	Knowlden	AP	Systematic Review of Dietary Interventions Targeting Sleep Behavior.	Journal of alternative and complementary medicine (New York, N.Y.)	2016	22	5	349-62
+27063184	Neggers	YH	Trends in maternal mortality in the United States.	Reproductive toxicology (Elmsford, N.Y.)	2016	64	72-6
+27062948	Day	MA	The mediating role of pain acceptance during mindfulness-based cognitive therapy for headache.	Complementary therapies in medicine	2016	25	51-4
+27057764	Tang	C	Photoelectric Property Modulation by Nanoconfinement in the Longitude Direction of Short Semiconducting Nanorods.	ACS applied materials & interfaces	2016	8	17	11001-7
+27054786	O'Dell	K	Pessary Practices of Nurse-Providers in the United States.	Female pelvic medicine & reconstructive surgery	22	4	261-6
+27052592	Ouyang	Z	Modelling of segmented high-performance thermoelectric generators with effects of thermal radiation, electrical and thermal contact resistances.	Scientific reports	2016	6	24123
+27045578	McCaskill	GM	Development and validation of a diabetes self-management instrument for older African-Americans.	Social work in health care	55	5	381-94
+27044096	Cameron	SA	Test of the invasive pathogen hypothesis of bumble bee decline in North America.	Proceedings of the National Academy of Sciences of the United States of America	2016	113	16	4386-91
+27042998	Esco	MR	Initial Weekly HRV Response is Related to the Prospective Change in VO2max in Female Soccer Players.	International journal of sports medicine	2016	37	6	436-41
+27037289	Cuellar	NG	Study Abroad Programs.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	3	209
+27030777	Garcia	MJ	Phenotypic differences between the sexes in the sexually plastic mangrove rivulus fish (Kryptolebias marmoratus).	The Journal of experimental biology	2016	219	Pt 7	988-97
+27019656	Boyas	JF	Skin Protection Behaviors among Young Male Latino Day Laborers: An Exploratory Study Using a Social Cognitive Approach.	Dermatology research and practice	2016	2016	1479637
+27007001	Cramer	RJ	Can preferences in information processing aid in understanding suicide risk among emerging adults?	Death studies	2016	40	6	383-91
+26997322	Flatt	AA	Interpreting daily heart rate variability changes in collegiate female soccer players.	The Journal of sports medicine and physical fitness	2017	57	6	907-915
+26991638	Kim	Y	Digital Media Use and Social Engagement: How Social Media and Smartphone Use Influence Social Activities of College Students.	Cyberpsychology, behavior and social networking	2016	19	4	264-9
+26984010	Na	J	Social-Class Differences in Consumer Choices: Working-Class Individuals Are More Sensitive to Choices of Others Than Middle-Class Individuals.	Personality & social psychology bulletin	2016	42	4	430-43
+26982612	Knowlden	AP	Cross-sectional analysis of food choice frequency, sleep confounding beverages, and psychological distress predictors of sleep quality.	International journal of adolescent medicine and health	2016	30	1
+26964661	Ford	CD	Psychosocial Factors Are Associated With Blood Pressure Progression Among African Americans in the Jackson Heart Study.	American journal of hypertension	2016	29	8	913-24
+26963478	Doulah	A	A method for early detection of the initiation of sit-to-stand posture transitions.	Physiological measurement	2016	37	4	515-29
+26946994	Worley	MM	The face is the thing: Faces, not emotions, are responsible for chimeric perceptual asymmetry.	Laterality	21	4-6	672-688
+26946186	Lynn	CD	Tattooing to "Toughen up": Tattoo experience and secretory immunoglobulin A.	American journal of human biology : the official journal of the Human Biology Council	2016	28	5	603-9
+26943527	Khachatryan	V	Search for Narrow Resonances Decaying to Dijets in Proton-Proton Collisions at √[s]=13 TeV.	Physical review letters	2016	116	7	071801
+26941701	Merrill	EC	Sex Differences in Using Spatial and Verbal Abilities Influence Route Learning Performance in a Virtual Environment: A Comparison of 6- to 12-Year Old Boys and Girls.	Frontiers in psychology	2016	7	258
+26936423	Watkins	AL	The Prevalence and Distribution of Neurodegenerative Compound-Producing Soil Streptomyces spp.	Scientific reports	2016	6	22566
+26935548	Milton	K	Genetic, spatial, and social relationships among adults in a group of howler monkeys (Alouatta palliata) from Barro Colorado Island, Panama.	Primates; journal of primatology	2016	57	2	253-65
+26935545	Kumar	G	Improving Functional Annotation in the DRE-TIM Metallolyase Superfamily through Identification of Active Site Fingerprints.	Biochemistry	2016	55	12	1863-72
+26930131	Hilgeman	MM	Identity processes as a predictor of memory beliefs in older adults.	Aging & mental health	2017	21	7	712-719
+26925338	Garrison	NL	Spider phylogenomics: untangling the Spider Tree of Life.	PeerJ	2016	4	e1719
+28579636	Enders	W	The Changing Nonlinear Relationship between Income and Terrorism.	The Journal of conflict resolution	2016	60	2	195-225
+26919711	Lightcap	J	Gas-Phase Fragmentation of Aluminum Oxide Nitrate Anions Driven by Reactive Oxygen Radical Ligands.	The journal of physical chemistry. A	2016	120	9	1501-7
+26914520	Finney	B	Energetic Properties and Electronic Structure of [Si,N,S] and [Si,P,S] Isomers.	The journal of physical chemistry. A	2016	120	10	1691-7
+26912731	Bailey	EM	A Randomized Controlled Trial of a Therapeutic Intervention for Nursing Home Residents With Dementia and Depressive Symptoms.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2017	36	7	895-908
+26910461	Choi	S	Effects of Nativity, Length of Residence, and County-Level Foreign-Born Density on Mental Health Among Older Adults in the U.S.	The Psychiatric quarterly	2016	87	4	675-688
+26910234	Gonzalez	M	Fruits eaten by woolly monkeys (Lagothrix lagothricha) at local and regional scales.	Primates; journal of primatology	2016	57	2	241-51
+26903250	Becker	SP	The Internal, External, and Diagnostic Validity of Sluggish Cognitive Tempo: A Meta-Analysis and Critical Review.	Journal of the American Academy of Child and Adolescent Psychiatry	2016	55	3	163-78
+26901665	Fang	Z	1,2-Ethanediol and 1,3-Propanediol Conversions over (MO3)3 (M = Mo, W) Nanoclusters: A Computational Study.	The journal of physical chemistry. A	2016	120	11	1897-907
+26900779	Faught	GG	Auditory and visual sustained attention in Down syndrome.	Research in developmental disabilities	53-54	135-46
+26899191	Moos	WH	Epigenetic Treatment of Neuropsychiatric Disorders: Autism and Schizophrenia.	Drug development research	2016	77	2	53-72
+26899010	Irwin	MH	Epigenetic Treatment of Neurodegenerative Disorders: Alzheimer and Parkinson Diseases.	Drug development research	2016	77	3	109-23
+26898644	Arakawa	H	Spectroscopic and biological activity studies of the chromium-binding peptide EEEEGDD.	Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry	2016	21	3	369-81
+26895861	Letcher	PM	An ultrastructural study of Paraphysoderma sedebokerense (Blastocladiomycota), an epibiotic parasite of microalgae.	Fungal biology	2016	120	3	324-37
+26894703	Khachatryan	V	Measurement of the Top Quark Pair Production Cross Section in Proton-Proton Collisions at √[s]=13 TeV.	Physical review letters	2016	116	5	052002
+26891337	Edison	AS	The Time Is Right to Focus on Model Organism Metabolomes.	Metabolites	2016	6	1
+26886470	Dolan	BK	Brief Report: Assessment of Intervention Effects on In Vivo Peer Interactions in Adolescents with Autism Spectrum Disorder (ASD).	Journal of autism and developmental disorders	2016	46	6	2251-2259
+26883229	Aholou	TM	"Wake Up! HIV is at Your Door": African American Faith Leaders in the Rural South and HIV Perceptions: A Qualitative Analysis.	Journal of religion and health	2016	55	6	1968-79
+26868656	Cuellar	NG	Marginalization of Cultural Groups.	Journal of transcultural nursing : official journal of the Transcultural Nursing Society	2016	27	2	93
+26868060	Borson	S	Report on milestones for care and support under the U.S. National Plan to Address Alzheimer's Disease.	Alzheimer's & dementia : the journal of the Alzheimer's Association	2016	12	3	334-69
+26864792	McMillen	CL	Negative Ion In-Source Decay Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry for Sequencing Acidic Peptides.	Journal of the American Society for Mass Spectrometry	2016	27	5	847-55
+26862177	Halanych	KM	Miscues misplace sponges.	Proceedings of the National Academy of Sciences of the United States of America	2016	113	8	E946-7
+26857014	Salinas	M	Relative Effects of Fluid Oscillations and Nutrient Transport in the In Vitro Growth of Valvular Tissues.	Cardiovascular engineering and technology	2016	7	2	170-81
+26855607	Khachatryan	V	Measurement of differential cross sections for Higgs boson production in the diphoton decay channel in pp collisions at [Formula: see text].	The European physical journal. C, Particles and fields	76	13
+26851644	Paschal	AM	Parent health literacy and adherence-related outcomes in children with epilepsy.	Epilepsy & behavior : E&B	2016	56	73-82
+26849792	Wilkerson	GB	Utilization of Practice Session Average Inertial Load to Quantify College Football Injury Risk.	Journal of strength and conditioning research	2016	30	9	2369-74
+26849587	Khachatryan	V	Study of B Meson Production in p+Pb Collisions at √[S(NN)]=5.02 TeV Using Exclusive Hadronic Decays.	Physical review letters	2016	116	3	032301
+26846533	Kazerooni	EA	ACR CT Accreditation Program and the Lung Cancer Screening Program Designation.	Journal of the American College of Radiology : JACR	2016	13	2 Suppl	R30-4
+26845529	Colins	OF	Psychopathic Personality in the General Population: Differences and Similarities Across Gender.	Journal of personality disorders	2017	31	1	49-74
+26844426	Aguado	BA	Extracellular matrix mediators of metastatic cell colonization characterized using scaffold mimics of the pre-metastatic niche.	Acta biomaterialia	2016	33	13-24
+26844190	Paschal	AM	Unmet needs for dental care in children with special health care needs.	Preventive medicine reports	2016	3	62-7
+26840852	Huang	CH	A Pilot Feasibility Intervention to Increase Advance Care Planning among African Americans in the Deep South.	Journal of palliative medicine	2016	19	2	164-73
+26840851	Burgio	KL	Racial Differences in Processes of Care at End of Life in VA Medical Centers: Planned Secondary Analysis of Data from the BEACON Trial.	Journal of palliative medicine	2016	19	2	157-63
+26840632	Poorter	L	Biomass resilience of Neotropical secondary forests.	Nature	2016	530	7589	211-4
+26835841	Thibodeau	RB	The effects of fantastical pretend-play on the development of executive functions: An intervention study.	Journal of experimental child psychology	2016	145	120-38
+26828828	Galaznik	JG	A response to Mimics of child abuse: Can choking explain abusive head trauma? [35 (2015) 33-37].	Journal of forensic and legal medicine	2016	39	46-9
+26823378	Moser	JG	Water uptake of Alaskan tundra evergreens during the winter-spring transition.	American journal of botany	2016	103	2	298-306
+26820849	Stauber	CE	Associations between Self-Reported Gastrointestinal Illness and Water System Characteristics in Community Water Supplies in Rural Alabama: A Cross-Sectional Study.	PloS one	2016	11	1	e0148102
+26817529	Xu	Y	The responses of immune cells to iron oxide nanoparticles.	Journal of applied toxicology : JAT	2016	36	4	543-53
+26815173	Al-Nawaiseh	AM	Enhancing Short-Term Recovery After High-Intensity Anaerobic Exercise.	Journal of strength and conditioning research	2016	30	2	320-5
+26814626	Fang	Z	Properties of Cerium Hydroxides from Matrix Infrared Spectra and Electronic Structure Calculations.	Inorganic chemistry	2016	55	4	1702-14
+26814269	Kapoor	S	Patients Presenting to the Emergency Department with Acute Pain: The Significant Role of Pain Catastrophizing and State Anxiety.	Pain medicine (Malden, Mass.)	2016	17	6	1069-78
+26811748	Lozier	JD	Population genomics of divergence among extreme and intermediate color forms in a polymorphic insect.	Ecology and evolution	2016	6	4	1075-91
+26810770	Hooper	LM	Depression, patient characteristics, and attachment style: correlates and mediators of medication treatment adherence in a racially diverse primary care sample.	Primary health care research & development	2016	17	2	184-97
+26808340	Neal	LB	Neurophysiological markers of multiple facets of impulsivity.	Biological psychology	2016	115	64-8
+26808211	Del Pozzi	AT	The effect of heating rate on the cutaneous vasomotion responses of forearm and leg skin in humans.	Microvascular research	2016	105	77-84
+26808034	Undurraga Perl	VJ	Damage-control resuscitation and emergency laparotomy: Findings from the PROPPR study.	The journal of trauma and acute care surgery	2016	80	4	568-74; discussion 574-5
+26806153	Weinersmith	KL	The relationship between handling time and cortisol release rates changes as a function of brain parasite densities in California killifish Fundulus parvipinnis.	Journal of fish biology	2016	88	3	1125-42
+26799810	Mellor	JE	Planning for climate change: The need for mechanistic systems-based approaches to study climate change impacts on diarrheal diseases.	The Science of the total environment	2016	548-549	82-90
+26799652	Klionsky	DJ	Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition).	Autophagy	2016	12	1	1-222
+26799161	Threadgill	AH	Approach-motivated pregoal states enhance the reward positivity.	Psychophysiology	2016	53	5	733-8
+26794629	Hibberd	EE	Comparison of Upper Extremity Physical Characteristics Between Adolescent Competitive Swimmers and Nonoverhead Athletes.	Journal of athletic training	2016	51	1	65-9
+26794387	Weaver	LJ	Weaver Responds.	American journal of public health	2016	106	2	e1-2
+26791396	Muratori	P	Callous unemotional traits in children with disruptive behavior disorder: Predictors of developmental trajectories and adolescent outcomes.	Psychiatry research	2016	236	35-41
+26786900	Vent-Schmidt	T	Extending the Row of Lanthanide Tetrafluorides: A Combined Matrix-Isolation and Quantum-Chemical Study.	Chemistry (Weinheim an der Bergstrasse, Germany)	2016	22	7	2406-16
+26785502	Esco	MR	Agreement of BMI-Based Equations and DXA in Determining Body-Fat Percentage in Adults With Down Syndrome.	Adapted physical activity quarterly : APAQ	2016	33	1	89-96
+26773803	DeSimone	JA	Development and Validation of the Five-by-Five Resilience Scale.	Assessment	2017	24	6	778-797
+26762225	Li	C	The impact of balance-focused attitudes on job stress: Gender differences evidenced in American and Chinese samples.	International journal of psychology : Journal international de psychologie	2018	53	1	31-39
+26761023	Wood	M	The Effects of Age, Priming, and Working Memory on Decision-Making.	International journal of environmental research and public health	2016	13	1
+26754044	Cheng	TC	Racial Disparities in Children's Health: A Longitudinal Analysis of Mothers Based on the Multiple Disadvantage Model.	Journal of community health	2016	41	4	753-60
+26751645	Goyal	N	Genes involved in stress response and alcohol use among high-risk African American youth.	Substance abuse	37	3	450-458
+26746415	Pavela	G	Socioeconomic Status, Risk of Obesity, and the Importance of Albert J. Stunkard.	Current obesity reports	2016	5	1	132-9
+26741150	Mikulas	TC	Structures and Properties of the Products of the Reaction of Lanthanide Atoms with H2O: Dominance of the +II Oxidation State.	The journal of physical chemistry. A	2016	120	5	793-804
+26736171	Zhao	X	Chromium(VI) transport and fate in unsaturated zone and aquifer: 3D Sandbox results.	Journal of hazardous materials	2016	306	203-209
+26719040	Williamson	TJ	Warming alters coupled carbon and nutrient cycles in experimental streams.	Global change biology	2016	22	6	2152-64
+29607406	McDougall	GJ	Barriers and Facilitators to HIV Testing Among Women.	HIV/AIDS research and treatment : open journal	2016	2016	SE1	S9-S13
+29082036	Farooq	M	Automatic Measurement of Chew Count and Chewing Rate during Food Intake.	Electronics	2016	5	4
+28775662	Khachatryan	V	Search for lepton flavour violating decays of heavy resonances and quantum black holes to an [Formula: see text] pair in proton-proton collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	6	317
+28747851	Khachatryan	V	Search for direct pair production of supersymmetric top quarks decaying to all-hadronic final states in pp collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	8	460
+28649483	Teresi	JA	Measurement Equivalence of the Patient Reported Outcomes Measurement Information System® (PROMIS®) Anxiety Short Forms in Ethnically Diverse Groups.	Psychological test and assessment modeling	2016	58	1	183-219
+28553573	Teresi	JA	Psychometric Properties and Performance of the Patient Reported Outcomes Measurement Information System® (PROMIS®) Depression Short Forms in Ethnically Diverse Groups.	Psychological test and assessment modeling	2016	58	1	141-181
+28316485	Khachatryan	V	Measurement of dijet azimuthal decorrelation in pp collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	10	536
+28303084	Khachatryan	V	Measurement of the differential cross section and charge asymmetry for inclusive [Formula: see text] production at [Formula: see text] TeV.	The European physical journal. C, Particles and fields	2016	76	8	469
+28303083	Khachatryan	V	Measurement of the double-differential inclusive jet cross section in proton-proton collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	8	451
+28303081	Khachatryan	V	Search for new physics in same-sign dilepton events in proton-proton collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	8	439
+28286414	Khachatryan	V	Measurement of the [Formula: see text] cross section in pp collisions at [Formula: see text] TeVand limits on anomalous gauge couplings.	The European physical journal. C, Particles and fields	2016	76	7	401
+28280447	Khachatryan	V	Measurement of [Formula: see text] production with additional jet activity, including [Formula: see text] quark jets, in the dilepton decay channel using pp collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	7	379
+28280445	Khachatryan	V	Measurement of inclusive jet production and nuclear modifications in pPb collisions at [Formula: see text].	The European physical journal. C, Particles and fields	2016	76	7	372
+28280444	Khachatryan	V	Search for heavy resonances decaying to two Higgs bosons in final states containing four b quarks.	The European physical journal. C, Particles and fields	2016	76	7	371
+28280439	Khachatryan	V	Forward-backward asymmetry of Drell-Yan lepton pairs in pp collisions at [Formula: see text][Formula: see text].	The European physical journal. C, Particles and fields	2016	76	6	325
+28280427	Khachatryan	V	Search for massive WH resonances decaying into the [Formula: see text] final state at [Formula: see text][Formula: see text].	The European physical journal. C, Particles and fields	2016	76	5	237
+26716843	Goetzel	RZ	The Stock Performance of C. Everett Koop Award Winners Compared With the Standard & Poor's 500 Index.	Journal of occupational and environmental medicine	2016	58	1	9-15
+26714570	Halder	S	Epoxy/Glass Fiber Laminated Composites Integrated with Amino Functionalized ZrO2 for Advanced Structural Applications.	ACS applied materials & interfaces	2016	8	3	1695-706
+26711013	Pérez-Huerta	A	Comparison of the structure, crystallography and composition of eggshells of the guinea fowl and graylag goose.	Zoology (Jena, Germany)	2016	119	1	52-63
+26704910	Johnson	P	Federal Food Assistance Programs and Cardiovascular Risk Factors in Low-Income Preschool Children.	Journal of community health	2016	41	3	626-34
+26701867	Syed	H	Characteristics of time-varying intracranial pressure on blood flow through cerebral artery: A fluid-structure interaction approach.	Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine	2016	230	2	111-21
+26678417	Samuel	BS	Identifying early signs of peripheral neuropathy among patients with diabetes mellitus.	The Nurse practitioner	2016	41	1
+26650383	Stringer	KL	HIV-Related Stigma Among Healthcare Providers in the Deep South.	AIDS and behavior	2016	20	1	115-25
+26650117	Lim	J	Simultaneous Thermoelectric Property Measurement and Incoherent Phonon Transport in Holey Silicon.	ACS nano	2016	10	1	124-32
+26638196	DeCaro	JA	Beyond catecholamines: Measuring autonomic responses to psychosocial context.	American journal of human biology : the official journal of the Human Biology Council	2016	28	3	309-17
+26602704	Kumar	A	The Synthesis, Characterization and Dehydrogenation of Sigma-Complexes of BN-Cyclohexanes.	Chemistry (Weinheim an der Bergstrasse, Germany)	2016	22	1	310-22
+26595403	Huang	X	Hydrogeochemical signatures and evolution of groundwater impacted by the Bayan Obo tailing pond in northwest China.	The Science of the total environment	2016	543	Pt A	357-372
+26593149	Decaro	JA	Household-level predictors of maternal mental health and systemic inflammation among infants in Mwanza, Tanzania.	American journal of human biology : the official journal of the Human Biology Council	2016	28	4	461-70
+26589341	Stran	KA	College Students Must Overcome Barriers to Use Calorie Labels in Fast-Food Restaurants.	Journal of nutrition education and behavior	2016	48	2	122-30.e1
+26586919	Bao	Y	Magnetic Nanoparticles: Material Engineering and Emerging Applications in Lithography and Biomedicine.	Journal of materials science	2016	51	1	513-553
+26578479	Marsden	ME	British Military surgical key performance indicators: time for an update?	Journal of the Royal Army Medical Corps	2016	162	5	373-378
+26576689	Keçeli	M	Shift-and-invert parallel spectral transformation eigensolver: Massively parallel performance for density-functional based tight-binding.	Journal of computational chemistry	2016	37	4	448-59
+26567016	Chen	FR	Hypothalamic pituitary adrenal activity and autonomic nervous system arousal predict developmental trajectories of children's comorbid behavior problems.	Developmental psychobiology	2016	58	3	393-405
+26563824	Johnson	EL	Changes in reproductive physiology of mangrove rivulus Kryptolebias marmoratus following exposure to environmentally relevant doses of ethinyl oestradiol.	Journal of fish biology	2016	88	2	774-86
+26534900	Mocarski	R	Edutainment's Impact on Health Promotion: Viewing The Biggest Loser Through the Social Cognitive Theory.	Health promotion practice	2016	17	1	107-15
+26519815	Pérez-Huerta	A	Atom probe tomography (APT) of carbonate minerals.	Micron (Oxford, England : 1993)	2016	80	83-9
+26490272	Périard	JD	Erratum to: Author's Reply to Brocherie and Millet: 'Is the Wet-Bulb Globe Temperature (WGBT) Index Relevant for Exercise in the Heat?'	Sports medicine (Auckland, N.Z.)	2016	46	1	139-141
+26475314	Watkins	TL	The Relationship Between HIV Risk, High-Risk Behavior, Religiosity, and Spirituality Among Black Men Who Have Sex with Men (MSM): An Exploratory Study.	Journal of religion and health	2016	55	2	535-48
+26467846	L Hoyt	C	Political ideology and American intergroup discrimination: A patriotism perspective.	The Journal of social psychology	156	4	369-81
+26466863	Ghosh	A	A new family of wurtzite-phase Cu2ZnAS4-x and CuZn2AS4 (A = Al, Ga, In) nanocrystals for solar energy conversion applications.	Chemical communications (Cambridge, England)	2016	52	2	264-7
+26458949	Byers	HD	Cognitive processes in comorbid poor sleep and chronic pain.	Journal of behavioral medicine	2016	39	2	233-40
+26453581	Gable	PA	Neural activity underlying motor-action preparation and cognitive narrowing in approach-motivated goal states.	Cognitive, affective & behavioral neuroscience	2016	16	1	145-52
+26433135	Albright	DL	The Social Convoy for Family Caregivers Over the Course of Hospice.	Journal of pain and symptom management	2016	51	2	213-9
+26416697	Rabatin	J	Predictors and Outcomes of Burnout in Primary Care Physicians.	Journal of primary care & community health	2016	7	1	41-3
+26410214	Soylu	F	Anatomically ordered tapping interferes more with one-digit addition than two-digit addition: a dual-task fMRI study.	Cognitive processing	2016	17	1	67-77
+26395468	Williamson	LB	Communication Through Eye Contact: Personal Reflections of the Human Life Cycle Using "I" Statements.	Academic psychiatry : the journal of the American Association of Directors of Psychiatric Residency Training and the Association for Academic Psychiatry	2016	40	1	186-7
+26386700	Ollendick	TH	Primary Versus Secondary Diagnosis of Generalized Anxiety Disorder in Youth: Is the Distinction an Important One?	Child psychiatry and human development	2016	47	4	548-53
+26369927	Melton	JT	De novo assembly of the mitochondrial genome of Ulva fasciata Delile (Ulvophyceae, Chlorophyta), a distromatic blade-forming green macroalga.	Mitochondrial DNA. Part A, DNA mapping, sequencing, and analysis	2016	27	5	3817-9
+26360627	Avery	DM	Why Is There a Deficit of Rural Surgeons in the United States?	The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association	2016	32	3	231-4
+26340470	Kliszczewicz	BM	Autonomic Responses to an Acute Bout of High-Intensity Body Weight Resistance Exercise vs. Treadmill Running.	Journal of strength and conditioning research	2016	30	4	1050-8
+26329638	Rankin	JA	Parent- and Self-Reported Social Skills Importance in Autism Spectrum Disorder.	Journal of autism and developmental disorders	2016	46	1	273-286
+26318574	Allison	PG	Gastropod (Otala lactea) shell nanomechanical and structural characterization as a biomonitoring tool for dermal and dietary exposure to a model metal.	Journal of the mechanical behavior of biomedical materials	2016	53	142-150
+26315851	Smith	DM	Within-Day Variability of Fatigue and Pain Among African Americans and Non-Hispanic Whites With Osteoarthritis of the Knee.	Arthritis care & research	2016	68	1	115-22
+26306566	Ellis	AC	Effects of 6-month supplementation with β-hydroxy-β-methylbutyrate, glutamine and arginine on vascular endothelial function of older adults.	European journal of clinical nutrition	2016	70	2	269-73
+26286843	Watkins	TL	The Relationship of Religiosity, Spirituality, Substance Abuse, and Depression Among Black Men Who Have Sex with Men (MSM).	Journal of religion and health	2016	55	1	255-268
+26282779	Kim	G	Measurement Equivalence of the K6 Scale: The Effects of Race/Ethnicity and Language.	Assessment	2016	23	6	758-768
+26281854	Washington	KT	A multimethod analysis of shared decision-making in hospice interdisciplinary team meetings including family caregivers.	Palliative medicine	2016	30	3	270-8
+26275377	Tighe	CA	Affective mediators of the association between pleasant events and global sleep quality in community-dwelling adults.	Journal of behavioral medicine	2016	39	1	170-7
+26272782	Knowlden	A	One-Year Efficacy Testing of Enabling Mothers to Prevent Pediatric Obesity Through Web-Based Education and Reciprocal Determinism (EMPOWER) Randomized Control Trial.	Health education & behavior : the official publication of the Society for Public Health Education	2016	43	1	94-106
+26218469	Burns-Nader	S	Computer Tablet Distraction in Children Receiving an Injection.	Pain medicine (Malden, Mass.)	2016	17	3	590-595
+26216470	Bulloch	MN	Clindamycin-induced hypersensitivity reaction.	Infection	2016	44	3	357-9
+26200192	Flatt	AA	Evaluating Individual Training Adaptation With Smartphone-Derived Heart Rate Variability in a Collegiate Female Soccer Team.	Journal of strength and conditioning research	2016	30	2	378-85
+26186696	Scogin	F	Pleasant Events, Hopelessness, and Quality of Life in Rural Older Adults.	The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association	2016	32	1	102-9
+26165565	Paulson	CM	A Family-Focused Delirium Educational Initiative With Practice and Research Implications.	Gerontology & geriatrics education	2016	37	1	4-11
+26163860	Day	MA	An Empirical Examination of the Role of Common Factors of Therapy During a Mindfulness-based Cognitive Therapy Intervention for Headache Pain.	The Clinical journal of pain	2016	32	5	420-7
+26139828	Sellbom	M	Development and Validation of MMPI-2-RF Scales for Indexing Triarchic Psychopathy Constructs.	Assessment	2016	23	5	527-43
+26139512	Kim	M	Impact of an equality constraint on the class-specific residual variances in regression mixtures: A Monte Carlo simulation study.	Behavior research methods	2016	48	2	813-26
+26091353	Crowe-White	K	Impact of 100% Fruit Juice Consumption on Diet and Weight Status of Children: An Evidence-based Review.	Critical reviews in food science and nutrition	2016	56	5	871-84
+26052862	Woosley	JA	Insomnia Complaint Versus Sleep Diary Parameters: Predictions of Suicidal Ideation.	Suicide & life-threatening behavior	2016	46	1	88-95
+26035882	Allen	RS	"It Was Very Rewarding for Me …": Senior Volunteers' Experiences With Implementing a Reminiscence and Creative Activity Intervention.	The Gerontologist	2016	56	2	357-67
+26009298	Lo	CC	Marital status and work-related health limitation: a longitudinal study of young adult and middle-aged Americans.	International journal of public health	2016	61	1	91-100
+25951839	Newell	JM	Clinician Responses to Client Traumas: A Chronological Review of Constructs and Terminology.	Trauma, violence & abuse	2016	17	3	306-13
+25923452	Choi	NG	Pain severity, interference, and prescription analgesic use among depressed, low-income homebound older adults.	Aging & mental health	2016	20	8	804-13
+25893663	Lewis	DW	Inconsistencies and inaccuracies in reporting on choice of endpoints and of statistical results in RCT of maternal diet.	Pediatric obesity	2016	11	6	e16-e17
+25754514	Flatt	AA	Heart rate variability stabilization in athletes: towards more convenient data acquisition.	Clinical physiology and functional imaging	2016	36	5	331-6
+25754383	Petrov	ME	Differences in sleep between black and white adults: an update and future directions.	Sleep medicine	2016	18	74-81
+25716196	Cheng	TC	Racial Disparities in Intimate Partner Violence Examined Through the Multiple Disadvantage Model.	Journal of interpersonal violence	2016	31	11	2026-51
+25677721	DiNapoli	EA	Effect of individualized social activities on quality of life among older adults with mild to moderate cognitive impairment in a geriatric psychiatry facility.	Aging & mental health	2016	20	3	262-70
+25537650	Davis	JA	Electronic Information Systems Use in Residential Care Facilities: The Differential Effect of Ownership Status and Chain Affiliation.	Journal of applied gerontology : the official journal of the Southern Gerontological Society	2016	35	3	331-48
+25533751	McCaughey	D	Antecedents to workplace injury in the health care industry: A synthesis of the literature.	Health care management review	41	1	42-55
+24077378	Bishop	SH	The Effect of Intermittent Arm and Shoulder Cooling on Baseball Pitching Velocity.	Journal of strength and conditioning research	2016	30	4	1027-32
+22863769	Jarrett	MA	Characteristics of Children With ADHD and Comorbid Anxiety.	Journal of attention disorders	2016	20	7	636-44
