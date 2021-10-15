@@ -5,17 +5,16 @@ Supporting materials for UA Libraries selected workshops.
 
 ## Introduction to Unix Shell for Basic Data Transformation and Analysis - Fall 2021
 
-[coming soon...]
+  * [Introduction](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/01_Unix2_Introduction.md)
+  * [cat, tac, head, and tail](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/02_Unix2_cat_tac_head_tail.md)
+  * [wc and nl](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/03_Unix2_wc_and_nl.md)
+  * [sort and uniq](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/04_Unix2_sort_and_uniq.md)
+  * [split and shuf](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/05_Unix2_split_and_shuf.md)
+  * [cut, paste, and join](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/06_Unix2_cut_paste_and_join.md)
+  * [tr and sed](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/07_Unix2_tr_and_sed.md)
+  * [grep](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/08_Unix2_grep.md)
+  * [diff and comm](https://github.com/vfscalfani/UALIB_Workshops/blob/master/02_Unix2_fall_2021/09_Unix2_diff_and_comm.md)
 
-   * Introduction
-   * cat, tac, head, tail
-   * wc and nl
-   * sort and uniq
-   * split and shuf
-   * cut, paste, and join
-   * tr and sed
-   * grep
-   * comm and diff
 
 ## Introduction to Unix Shell - Fall 2021
 
