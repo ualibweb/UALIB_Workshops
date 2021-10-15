@@ -100,6 +100,7 @@ user@computer:~$ nl molecules.smi -n ln
 
 We can also combine `nl` with pipes, for example, to number the lines of our previous `wc` analysis:
 
+```
 user@computer:~$ wc -l PubMed*.txt | nl -n ln
 1     	   383 PubMed_Search_2015.txt
 2     	   393 PubMed_Search_2016.txt
