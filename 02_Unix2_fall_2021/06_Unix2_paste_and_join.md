@@ -1,4 +1,4 @@
-# cut, paste, and join
+# paste and join
 
 **Lesson Navigation**
 

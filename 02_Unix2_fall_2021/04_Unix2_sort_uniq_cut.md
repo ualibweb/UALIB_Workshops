@@ -1,4 +1,4 @@
-# sort and uniq
+# sort, uniq, and cut
 
 **Lesson Navigation**
 
