@@ -98,7 +98,7 @@ The above `csplit` command is more complicated than `split`. Let's look at each 
 
 2. The regular expression above did not work, but I found out that in POSIX Basic Regular Syntax, the metacharacters need to be escaped like this:
 
-`\$\{4\}`, see the [Wikipedia Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) page and chapter 19 of [LinuxCommand.org](http://linuxcommand.org/) / [LinuxCommand (PDF version)](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf.
+`\$\{4\}`, see the [Wikipedia Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) page and chapter 19 of [LinuxCommand.org](http://linuxcommand.org/) / [LinuxCommand (PDF version)](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf).
 
 3. Next, this pattern is inserted into forward slashes as per the `csplit` syntax:
 
