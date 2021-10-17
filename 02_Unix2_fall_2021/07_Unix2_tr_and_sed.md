@@ -192,8 +192,8 @@ The regular expression pattern, `^\[[0-9]` matches lines that start with `[` fol
 
 Two excellent videos on `tr` and `sed`:
 
-[Learning Sed is Beneficial For Linux Users](https://www.youtube.com/watch?v=EACe7aiGczw)
-[Two Powerful Command Line Utilities 'cut' And 'tr'](https://www.youtube.com/watch?v=_0IFtMFYroU)
+* [Learning Sed is Beneficial For Linux Users](https://www.youtube.com/watch?v=EACe7aiGczw)
+* [Two Powerful Command Line Utilities 'cut' And 'tr'](https://www.youtube.com/watch?v=_0IFtMFYroU)
 
 ---
 
