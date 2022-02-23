@@ -9,6 +9,12 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Introduction to Python - Spring 2022
+
+   View and download the Python Jupyter Notebooks:
+
+  * [Computational Notebooks and Beginner Syntax with Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/01_Python_computational_notebooks_and_syntax.ipynb
+
 
 ## Introduction to Unix Shell for Basic Data Transformation and Analysis - Fall 2021
 
