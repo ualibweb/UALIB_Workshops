@@ -15,7 +15,7 @@ Supporting materials for UA Libraries selected workshops.
 
   * [Computational Notebooks and Beginner Syntax with Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/01_Python_computational_notebooks_and_syntax.ipynb)
   * [Python Functions and Automating Tasks](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/02_Python_functions_and_automating_tasks.ipynb)
-
+  * [Plotting and Working with Data in Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/03_Python_Plotting_and_Data.ipynb)
 
 ## Introduction to Unix Shell for Basic Data Transformation and Analysis - Fall 2021
 
