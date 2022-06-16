@@ -197,7 +197,7 @@ user@computer:~$ exit
 
 ## Next Steps
 
-Now that we've had a chance to try out a few of the utilities in the Bash Shell, let's take a look at organization and how to navigate and interact with [files and directories](http://gitub.com/nextlesson/lance) in our next lesson.
+Now that we've had a chance to try out a few of the utilities in the Bash Shell, let's take a look at organization and how to navigate and interact with [files and directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md) in our next lesson.
 
 ---
 
