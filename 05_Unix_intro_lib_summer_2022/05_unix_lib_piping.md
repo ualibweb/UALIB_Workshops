@@ -1,10 +1,12 @@
 # Pipelines and Redirecting Data Outputs
 
 ---
-1. [Introduction](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_introduction.md)
-2. [Navigation and Directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md)
-3. [Common Unix Commands](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_common_commands.md)
-4. [Pipelines and Redirecting Data Outputs](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_piping.md)
+**Lesson Navigation**
+
+1. [Introduction](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_introduction.md)
+2. [Navigation and Directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md)
+3. [Common Unix Commands](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_common_commands.md)
+4. [Pipelines and Redirecting Data Outputs](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_piping.md)
 ---
 
 ## Starting with Pipes in Unix
