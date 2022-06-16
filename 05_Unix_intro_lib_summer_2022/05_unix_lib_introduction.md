@@ -1,11 +1,14 @@
 # Introduction
 
+---
 **Lesson Navigation**
 
-1. [Introduction]()
-2. [Navigation and Directories]()
-3. [Common Unix Commands]()
-4. [Pipelines and Redirecting Data Outputs]()
+1. [Introduction](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_introduction.md)
+2. [Navigation and Directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md)
+3. [Common Unix Commands](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_common_commands.md)
+4. [Pipelines and Redirecting Data Outputs](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/f535af66199cf41499be66c191fa4e3cb207436d/05_Unix_intro_lib_summer_2022/05_unix_lib_piping.md)
+
+---
 
 ## What is a Unix Shell?
 
@@ -62,6 +65,8 @@ One of the many contributors to what we know as Unix, Doug McIlroy, is quoted by
 
 The Unix or Bash Shell is comprised of a set of simple, yet powerful tools. Let's get started putting them to work!
 
+---
+
 ## Access to a Shell
 
 For this workshop, it is best if you are using a Bash Shell with GNU Utilities in a GNU/Linux distribution. We will be using a terminal accessed through SSH client PuTTy, and using an enterprise version of [SUSE Linux](https://www.suse.com/) available through a virtual server. Secure access is provided through UA OIT, and in order to access this server while on UA's campus, you will need register for one of our workshops.
@@ -70,12 +75,15 @@ If you want to try out these exercises later using your own machine, you may con
 
 Alternative options are available in Mac OS Terminal (you can [change the default shell from zsh to Bash](https://support.apple.com/guide/terminal/change-the-default-shell-trml113/mac)), and Windows through emulators like [Cygwin](https://en.wikipedia.org/wiki/Cygwin),  [GitBash](https://git-scm.com/downloads), however commands and utilities might be different with these alternative options.
 
+---
+
 ## Setup Files
 
 If you are going to follow along with us, you will need a copy of the tabular data files we will use throughout the workshop. The easiest way to get these files is to download this UALIB_Workshops repository as a ZIP file, unarchive the file, then copy the `hurricane_data` folder in `UALIB_Workshops/02_Unix_fall_2021/` to your Desktop. We will use this dataset to test out several commands later in the workshop.
 
 As a part of the workshop, we will access and download this data directly through the commandline useing the `wget` command.  If you would like to access the data this way, instructions will be available in the next lesson.
 
+---
 
 ### Dataset Information
 
@@ -83,10 +91,12 @@ The files in this folder include datasets for each of the most intense hurricane
 
 For more information on how to read and utilize this data set, check out ["The revised Atlantic hurricane database (HURDAT2) November 2019"](https://www.nhc.noaa.gov/data/hurdat/hurdat2-format-nov2019.pdf) from NHC's Chris Landsea and Jack Beven.
 
-
+---
 ## Let's Get Started!
 
 If you are accessing this lesson asychronously, launch a session in your preferred iteration of the Bash Shell.
+
+---
 
 **Launch your Bash Shell (in our case Gnome terminal):**
 
@@ -105,6 +115,8 @@ Hello, World!
 
 You've now used your first command! The `echo` command can be used to print text on screen.
 
+---
+
 ## Accessing Documentation
 
 The first step to learning any new computing skill is to know how to get help and access the documentation. The documentation will allow you to discover utilities and show you how to construct the appropriate syntax for usage.
@@ -115,8 +127,6 @@ As an example, let's search for the manual pages using the `man` command to find
 user@computer:~$ man cat
 ```
 This action will take you to the manual page for the utility `cat`. 
-
-
 
 There are two main ways to access the documentation. The first is to view the manual pages with the command we learned, `man`. If you know the name of the utility or command such as, you can access the manual page directly.
 
@@ -141,6 +151,8 @@ The second method to access documentation is to view the help file for a specifi
 user@computer:~$ cat --help
 ```
 It is also important to note that commands, options, and file/directory names are case sensitive in the shell.
+
+---
 
 ## Getting Started
 
@@ -181,6 +193,7 @@ To close the shell session, type `exit` and then press return or enter.
 ```console
 user@computer:~$ exit
 ```
+---
 
 ## Next Steps
 
