@@ -8,6 +8,12 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Python Basics - Fall 2022
+
+   View and download the Python Jupyter Notebook:
+
+   * [Beginner Guide to Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/01_python_basics_studentcopy.ipynb)
+
 ## Introduction to Python - Spring 2022
 
    View and download the Python Jupyter Notebooks:
