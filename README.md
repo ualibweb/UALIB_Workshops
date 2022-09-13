@@ -8,6 +8,12 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Conda Workshop
+
+   View and download the presentation slides:
+
+   * [Introduction to the Conda Package Manager](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Conda_fall_2022/Introduction_to_conda.pdf)
+
 ## Python Basics - Fall 2022
 
    View and download the Python Jupyter Notebook:
