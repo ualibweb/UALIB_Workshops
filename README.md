@@ -8,6 +8,14 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Python Intermediate - Fall 2022
+
+   View and download the Python Jupyter Notebook:
+
+   * [Beginner Guide to Python Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/02_python_intermediate_student_copy.ipynb)
+   * [Beginner Guide to Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/02_Intermediate_Python_student_copy.pdf)
+
+
 ## Conda Workshop
 
    View and download the presentation slides:
