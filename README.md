@@ -8,6 +8,13 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Friday Code Demos - Fall 2022
+
+   * [Web APIs with Python - Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/02_Web_Apis.pdf)
+   * [Web APIs with Python - PubChem Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/pubchem.ipynb)
+   * [Web APIs with Python - U.S. Census Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/census.ipynb)
+
+
 ## Python Intermediate - Fall 2022
 
    View and download the Python Jupyter Notebook:
