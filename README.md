@@ -10,39 +10,39 @@ Supporting materials for UA Libraries selected workshops.
 
 ## Friday Code Demos - Fall 2022
 
-   * [Web APIs with Python - Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/02_Web_Apis.pdf)
-   * [Web APIs with Python - PubChem Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/pubchem.ipynb)
-   * [Web APIs with Python - U.S. Census Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_Friday_Demos_fall_2022/census.ipynb)
+   * [Web APIs with Python - Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Friday_Demos_fall_2022/02_Web_Apis.pdf)
+   * [Web APIs with Python - PubChem Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Friday_Demos_fall_2022/pubchem.ipynb)
+   * [Web APIs with Python - U.S. Census Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Friday_Demos_fall_2022/census.ipynb)
 
 
 ## Python Intermediate - Fall 2022
 
    View and download the Python Jupyter Notebook:
 
-   * [Intermediate Python Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/02_python_intermediate_student_copy.ipynb)
-   * [Intermediate Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/02_Intermediate_Python_student_copy.pdf)
+   * [Intermediate Python Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/02_python_intermediate_student_copy.ipynb)
+   * [Intermediate Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/02_Intermediate_Python_student_copy.pdf)
 
 
 ## Conda Workshop
 
    View and download the presentation slides:
 
-   * [Introduction to the Conda Package Manager](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Conda_fall_2022/Introduction_to_conda.pdf)
+   * [Introduction to the Conda Package Manager](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Conda_fall_2022/Introduction_to_conda.pdf)
 
 ## Python Basics - Fall 2022
 
    View and download the Python Jupyter Notebook:
 
-   * [Beginner Guide to Python Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/01_python_basics_studentcopy.ipynb)
-   * [Beginner Guide to Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Python_fall_2022/01_Starter_Guide_To_Python.pdf)
+   * [Beginner Guide to Python Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/01_python_basics_studentcopy.ipynb)
+   * [Beginner Guide to Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/01_Starter_Guide_To_Python.pdf)
 
 ## Introduction to Python - Spring 2022
 
    View and download the Python Jupyter Notebooks:
 
-  * [Computational Notebooks and Beginner Syntax with Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/01_Python_computational_notebooks_and_syntax.ipynb)
-  * [Python Functions and Automating Tasks](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/02_Python_functions_and_automating_tasks.ipynb)
-  * [Plotting and Working with Data in Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/04_Python_spring_2022/03_Python_Plotting_and_Data.ipynb)
+  * [Computational Notebooks and Beginner Syntax with Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_spring_2022/01_Python_computational_notebooks_and_syntax.ipynb)
+  * [Python Functions and Automating Tasks](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_spring_2022/02_Python_functions_and_automating_tasks.ipynb)
+  * [Plotting and Working with Data in Python](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_spring_2022/03_Python_Plotting_and_Data.ipynb)
 
 ## Introduction to Unix Shell for Basic Data Transformation and Analysis - Fall 2021
 
