@@ -8,6 +8,13 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Python Scopus
+
+   * [Conda Setup Instructions](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Scopus_fall_2022/conda_setup_pybliometrics.md)
+   * [Indexing Image](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Scopus_fall_2022/indexing_help.png)
+   * [Pybliometrics Scopus Jupyter Notebook](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Scopus_fall_2022/python_scopus_workshop_fall2022_attendee_clear.ipynb)
+
+
 ## Friday Code Demos - Fall 2022
 
    * [Web APIs with Python - Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/05_Friday_Demos_fall_2022/02_Web_Apis.pdf)
