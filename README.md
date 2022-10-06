@@ -8,6 +8,14 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Python Advanced - Fall 2022
+
+   View and download Slides and Code:
+
+   * [Advanced Python Slides](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/03_Advance_Python_Student.pdf)
+   * [Advanced Python Code](https://github.com/ualibweb/UALIB_Workshops/blob/master/03_Python_fall_2022/03_Advanced_Python_code)
+
+
 ## Python Scopus
 
    * [Conda Setup Instructions](https://github.com/ualibweb/UALIB_Workshops/blob/master/06_Scopus_fall_2022/conda_setup_pybliometrics.md)
