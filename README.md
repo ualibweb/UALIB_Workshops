@@ -8,6 +8,10 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Unix Introduction - Fall 2022
+
+   * [Introduction to Unix Shell](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/01_unix_lib_introduction.md)
+
 ## Python Advanced - Fall 2022
 
    View and download Slides and Code:
