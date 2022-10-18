@@ -3,10 +3,10 @@
 ---
 **Lesson Navigation**
 
-1. [Introduction](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/01_unix_lib_introduction.md)
-2. [Navigation and Directories](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/02_unix_lib_files_directories.md)
-3. [Common Unix Commands](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/03_unix_lib_common_commands.md)
-4. [Pipelines and Redirecting Data Outputs](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/04_unix_lib_piping.md)
+1. [Introduction](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/01_unix_lib_introduction.md)
+2. [Navigation and Directories](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/02_unix_lib_files_directories.md)
+3. [Common Unix Commands](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/03_unix_lib_common_commands.md)
+4. [Pipelines and Redirecting Data Outputs](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/04_unix_lib_piping.md)
 ---
 
 ---
@@ -148,7 +148,7 @@ user@computer:~$ tail -n 5 AL092004_ivan.txt
 ## Next Steps, Onto Final Lesson
 
 For the final lesson in our workshop, let's take a look at [using pipes and other
-tools to redirect outputs](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_piping.md) from commands into files and even other commands.
+tools to redirect outputs](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/04_unix_lib_piping.md) from commands into files and even other commands.
 
 **Attribution**
 
