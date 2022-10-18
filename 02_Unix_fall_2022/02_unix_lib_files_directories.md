@@ -59,7 +59,7 @@ If you are utilizing the library server Shell congifuration, your `home` directo
 will be pretty bare, likely only containing the `bin` directory.
 
 From this point forward in the lesson, all examples will involve the directory 
-and dataset associated with the `hurricane_data` directory available for download with [this repository](https://github.com/lsimpsonlibrary/UALIB_Workshops/archive/refs/heads/master.zip).
+and dataset associated with the `hurricane_data` directory available for download with [this repository](https://github.com/ualibweb/UALIB_Workshops/archive/refs/heads/master.zip).
 
 There are a variety of ways to access this data if you also have access to a 
 Guided User Interface, or GUI, but for this workshop, we will access and download it through the command line.
@@ -72,7 +72,7 @@ If you do not specify a directory, the file will download into your current work
 For this, execute the following command in your terminal session:
 
 ```console
-user@computer:~$ wget https://github.com/lsimpsonlibrary/UALIB_Workshops/archive/refs/heads/master.zip
+user@computer:~$ wget https://github.com/ualibweb/UALIB_Workshops/archive/refs/heads/master.zip
 ```
 Now, use `pwd` to see that your file was downloaded. Your directory should
 look something like the following:

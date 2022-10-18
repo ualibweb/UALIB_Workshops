@@ -78,7 +78,7 @@ Alternative options are available in Mac OS Terminal (you can [change the defaul
 
 ## Setup Files
 
-If you are going to follow along with us, you will need a copy of the tabular data files we will use throughout the workshop. The easiest way to get these files is to download this UALIB_Workshops repository as a ZIP file, unarchive the file, then copy the `hurricane_data` folder in `UALIB_Workshops/02_Unix_fall_2021/` to your Desktop. We will use this dataset to test out several commands later in the workshop.
+If you are going to follow along with us, you will need a copy of the tabular data files we will use throughout the workshop. The easiest way to get these files is to download this UALIB_Workshops repository as a ZIP file, unarchive the file, then copy the `hurricane_data` folder in `UALIB_Workshops/02_Unix_fall_2022/` to your Desktop. We will use this dataset to test out several commands later in the workshop.
 
 As a part of the workshop, we will access and download this data directly through the commandline useing the `wget` command.  If you would like to access the data this way, instructions will be available in the next lesson.
 
@@ -196,7 +196,7 @@ user@computer:~$ exit
 
 ## Next Steps
 
-Now that we've had a chance to try out a few of the utilities in the Bash Shell, let's take a look at organization and how to navigate and interact with [files and directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md) in our next lesson.
+Now that we've had a chance to try out a few of the utilities in the Bash Shell, let's take a look at organization and how to navigate and interact with [files and directories](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/02_unix_lib_files_directories.md) in our next lesson.
 
 ---
 
