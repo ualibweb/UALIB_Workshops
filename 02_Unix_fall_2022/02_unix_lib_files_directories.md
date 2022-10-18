@@ -3,11 +3,11 @@
 ---
 **Lesson Navigation**
 
-1. [Introduction](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_introduction.md)
-2. [Navigation and Directories](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_files_directories.md)
-3. [Common Unix Commands](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_common_commands.md)
-4. [Pipelines and Redirecting Data Outputs](https://github.com/lsimpsonlibrary/UALIB_Workshops/blob/12a60225d25eda0b12f88ffd4b926d1a8b4a8218/05_Unix_intro_lib_summer_2022/05_unix_lib_piping.md)
-
+1. [Introduction](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/01_unix_lib_introduction.md)
+2. [Navigation and Directories](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/02_unix_lib_files_directories.md)
+3. [Common Unix Commands](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/03_unix_lib_common_commands.md)
+4. [Pipelines and Redirecting Data Outputs](https://github.com/ualibweb/UALIB_Workshops/blob/842818840ea08484a490c2a19167a1564ae4118c/02_Unix_fall_2022/04_unix_lib_piping.md)
+---
 ---
 
 As you prepare to analyze your data using the Bash Shell, it is important to 
@@ -59,7 +59,7 @@ If you are utilizing the library server Shell congifuration, your `home` directo
 will be pretty bare, likely only containing the `bin` directory.
 
 From this point forward in the lesson, all examples will involve the directory 
-and dataset associated with the `hurricane_data` directory available for download with [this repository](https://github.com/lsimpsonlibrary/UALIB_Workshops/archive/refs/heads/master.zip).
+and dataset associated with the `hurricane_data` directory available for download with [this repository](https://github.com/ualibweb/UALIB_Workshops/archive/refs/heads/master.zip).
 
 There are a variety of ways to access this data if you also have access to a 
 Guided User Interface, or GUI, but for this workshop, we will access and download it through the command line.
@@ -72,7 +72,7 @@ If you do not specify a directory, the file will download into your current work
 For this, execute the following command in your terminal session:
 
 ```console
-user@computer:~$ wget https://github.com/lsimpsonlibrary/UALIB_Workshops/archive/refs/heads/master.zip
+user@computer:~$ wget https://github.com/ualibweb/UALIB_Workshops/archive/refs/heads/master.zip
 ```
 Now, use `pwd` to see that your file was downloaded. Your directory should
 look something like the following:
