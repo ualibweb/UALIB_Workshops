@@ -8,6 +8,11 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## EDirect and PubMed - Fall 2022
+
+   * [Introduction to EDirect and PubMed](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_EDirect/EDirect_PubMed_Workshop_fall2022.pdf)
+
+
 ## Unix Introduction - Fall 2022
 
    * [Introduction to Unix Shell](https://github.com/ualibweb/UALIB_Workshops/blob/master/02_Unix_fall_2022/01_unix_lib_introduction.md)
