@@ -8,6 +8,11 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## 15-Minute Introduction to Linux
+
+* [15 Min Introduction to Linux Terminal](https://github.com/ualibweb/UALIB_Workshops/blob/master/08_RaspberryPi/15_minute_Linux_Shell.pdf)
+
+
 ## EDirect and PubMed - Fall 2022
 
    * [Introduction to EDirect and PubMed](https://github.com/ualibweb/UALIB_Workshops/blob/master/07_EDirect/EDirect_PubMed_Workshop_fall2022.pdf)
