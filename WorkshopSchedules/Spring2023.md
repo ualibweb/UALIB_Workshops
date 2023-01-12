@@ -157,7 +157,7 @@ In this workshop, attendees will learn how to:
 ### General REST API workshop 
 
 Mode: In-person, Rodgers Library for Science and Engineering Scholars’ Station  
-Date: Wednesday, February 1, 4:30-5:30 PM   
+Date: Wednesday, February 8, 4:30-5:30 PM   
 Registration Required: Yes      
 Calendar Event Link: https://ua.libcal.com/event/10170931   
 In this workshop, attendees will learn:
