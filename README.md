@@ -10,11 +10,11 @@ Supporting materials for UA Libraries selected workshops.
 
 ## Network Analysis Introduction - Spring 2023
 
-   [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks)
+   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks)
 
 ## 15-Minute Introduction to Linux - Spring 2023
 
-* [15 Min Introduction to Linux Terminal](https://github.com/ualibweb/UALIB_Workshops/blob/master/08_RaspberryPi/15_minute_Linux_Shell.pdf)
+   * [15 Min Introduction to Linux Terminal](https://github.com/ualibweb/UALIB_Workshops/blob/master/08_RaspberryPi/15_minute_Linux_Shell.pdf)
 
 
 ## EDirect and PubMed - Fall 2022
