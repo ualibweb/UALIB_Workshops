@@ -8,6 +8,10 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## OpenSCAD - Spring 2023
+
+   * [OpenSCAD Materials Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/10_OpenSCAD)
+
 ## Network Analysis Introduction - Spring 2023
 
    * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks)
