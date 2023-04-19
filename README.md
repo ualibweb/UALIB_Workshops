@@ -18,7 +18,7 @@ Supporting materials for UA Libraries selected workshops.
 
 ## Network Analysis Introduction - Spring 2023
 
-   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks/intro)
+   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks/Intro)
 
 ## 15-Minute Introduction to Linux - Spring 2023
 
