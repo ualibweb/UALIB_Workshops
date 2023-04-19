@@ -8,13 +8,17 @@
 
 Supporting materials for UA Libraries selected workshops.
 
+## Network Analysis ADHC Co-words - Spring 2023
+
+   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks/ADHC)
+
 ## OpenSCAD - Spring 2023
 
    * [OpenSCAD Materials Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/10_OpenSCAD)
 
 ## Network Analysis Introduction - Spring 2023
 
-   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks)
+   * [Networks Folder](https://github.com/ualibweb/UALIB_Workshops/tree/master/09_Networks/intro)
 
 ## 15-Minute Introduction to Linux - Spring 2023
 
